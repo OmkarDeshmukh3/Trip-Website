@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+{% block title %}TripGenie — Find your next kind of somewhere{% endblock %}
+{% block content %}
+<main>
+  <section class="hero hero-home"><div class="hero-shade"></div><div class="hero-copy">
+    <p class="eyebrow eyebrow-light"><span class="eyebrow-dot"></span> YOUR NEXT CHAPTER STARTS HERE</p>
+    <h1>Less scrolling.<br><em>More somewhere.</em></h1>
+    <p class="hero-lede">A travel plan that fits your budget, your time, and the kind of trip you’re craving.</p>
+    <div class="hero-actions"><a class="button button-mint" href="{{ url_for('search') if session.get('user_id') else url_for('register') }}">Build my trip <span>↗</span></a><a class="hero-link" href="#destinations">Explore places <span>↓</span></a></div>
+    <div class="hero-proof"><div class="proof-avatars"><span>✦</span><span>↗</span><span>⌁</span></div><p><strong>{{ destination_count }} destinations</strong><br>to get your ideas moving</p></div>
+  </div><div class="hero-side-note"><span>01 / FIND YOUR FEELING</span><span>India, wide open</span></div><div class="hero-orbit orbit-one"></div><div class="hero-orbit orbit-two"></div></section>
+  <section class="planner-strip wrap"><div class="planner-label"><span class="mini-icon">✳</span><div><strong>Your trip, your rules</strong><small>Start with the things that matter to you.</small></div></div><div class="planner-benefits"><span>◷ Flexible days</span><span>₹ Budget-aware</span><span>⌖ Pinpoint route animation</span><span>☼ Live weather</span></div></section>
+  <section id="destinations" class="section wrap"><div class="section-heading"><div><p class="eyebrow">A LITTLE INSPIRATION</p><h2>Where could you go?</h2><p class="section-lede">A few favourites to get your imagination started.</p></div><a class="text-link" href="{{ url_for('explore') }}">Browse all {{ destination_count }} locations <span>↗</span></a></div>
+    <div class="destination-grid">{% for item in featured %}<a class="destination-card" href="{{ url_for('results', destination=item['name'], origin='Pune', interest='Any interest', budget=15000, days=item['ideal_days'], travellers=2) if session.get('user_id') else url_for('register') }}"><img src="{{ item['image_url'] }}" alt="Travel scenery in {{ item['name'] }}" loading="lazy"><span class="image-tint"></span><span class="destination-category">{{ item['category'] }}</span><span class="destination-card-copy"><strong>{{ item['name'] }}</strong><small>{{ item['location'] }} · {{ item['ideal_days'] }} ideal days</small></span><span class="card-arrow">↗</span></a>{% endfor %}</div>
+  </section>
+
+  <section class="marvel-teaser-section section wrap">
+    <div class="section-heading"><div><p class="eyebrow">MADE BY TIME, ROCK & IMPACT</p><h2>Engineering marvels<br><em>and natural wonders.</em></h2><p class="section-lede">A dedicated collection for places that make you ask: how did they do that?</p></div><a class="text-link" href="{{ url_for('marvels') }}">Explore the collection <span>↗</span></a></div>
+    <div class="marvel-teaser-grid">{% for item in featured_marvels %}<a class="marvel-teaser-card" href="{{ url_for('marvels') }}#{{ item['id'] }}"><img src="{{ item['image'] }}" alt="{{ item['name'] }}" loading="lazy"><span class="marvel-teaser-shade"></span><span class="marvel-teaser-kind">{{ item['kind'] }}</span><strong>{{ item['name'] }}</strong><span class="marvel-teaser-arrow">↗</span></a>{% endfor %}</div>
+  </section>
+  <section class="dark-feature"><div class="wrap dark-feature-inner"><div><p class="eyebrow eyebrow-light">BUILT AROUND YOU</p><h2>Good trips don't need<br>guesswork.</h2><p>Tell TripGenie your budget, pace and interests. Get destination ideas, live hotel-search links, a pinpoint route preview and current forecast in one place.</p><a class="button button-mint" href="{{ url_for('search') if session.get('user_id') else url_for('register') }}">Start planning <span>↗</span></a></div><div class="feature-orbit-card"><div class="orbit-tag">YOUR TRIP SNAPSHOT</div><div class="snapshot-line"><span class="snapshot-icon">⌖</span><div><small>DESTINATION</small><strong>Chosen for your vibe</strong></div><span class="snapshot-check">✓</span></div><div class="snapshot-line"><span class="snapshot-icon">☼</span><div><small>WEATHER</small><strong>Forecast at a glance</strong></div><span class="snapshot-check">✓</span></div><div class="snapshot-line"><span class="snapshot-icon">↗</span><div><small>ROUTE</small><strong>Animate the way there</strong></div><span class="snapshot-check">✓</span></div><div class="snapshot-bottom"><span>✦</span> The fun part is getting there.</div></div></div></section>
+  <section class="closing-cta wrap"><div><p class="eyebrow">READY WHEN YOU ARE</p><h2>Let’s make a plan<br>worth looking forward to.</h2></div><a class="button button-dark" href="{{ url_for('search') if session.get('user_id') else url_for('register') }}">Plan my trip <span>↗</span></a></section>
+</main>
+{% endblock %}

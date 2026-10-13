@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#101b2d">
+  <title>{% block title %}TripGenie — Plan the feeling, not just the route{% endblock %}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  {% block head %}{% endblock %}
+</head>
+<body>
+  <header class="site-header" id="site-header">
+    <a class="brand" href="{{ url_for('home') }}" aria-label="TripGenie home"><span class="brand-mark">✦</span><span>tripgenie</span></a>
+    <button class="nav-toggle" id="nav-toggle" type="button" aria-controls="site-nav" aria-expanded="false" aria-label="Open navigation"><span></span><span></span><span></span></button>
+    <nav class="site-nav" id="site-nav">
+      <a href="{{ url_for('home') }}">Discover</a>
+      <a href="{{ url_for('explore') }}">Explore locations</a>
+      <a href="{{ url_for('marvels') }}">Engineering marvels</a>
+      <a href="{{ url_for('wildlife') }}">Zoos &amp; wildlife</a>
+      {% if session.get('user_id') %}
+        <a href="{{ url_for('search') }}">Plan a trip</a>
+        <details class="account-menu"><summary><span class="account-avatar">{{ session.get('name','T')[:1]|upper }}</span><span>Account info</span><span class="account-caret">⌄</span></summary><div class="account-dropdown"><strong>{{ session.get('name','traveller') }}</strong><small>Signed in to TripGenie</small><a class="logout-link" href="{{ url_for('logout') }}">Log out <span>↗</span></a></div></details>
+      {% else %}
+        <a href="{{ url_for('login') }}">Log in</a><a class="nav-cta" href="{{ url_for('register') }}">Get started <span>↗</span></a>
+      {% endif %}
+    </nav>
+  </header>
+  {% block content %}{% endblock %}
+  <footer class="site-footer"><div class="footer-brand"><span class="brand-mark">✦</span> tripgenie</div><p>Thoughtful trip ideas, made around your budget.</p><small>College-project demo · External stay links open provider search results; verify prices and availability there.</small></footer>
+  {% block scripts %}{% endblock %}
+  <script>
+    (() => {
+      const header = document.getElementById('site-header');
+      const toggle = document.getElementById('nav-toggle');
+      if (!header || !toggle) return;
+      toggle.addEventListener('click', () => {
+        const open = header.classList.toggle('nav-open');
+        toggle.setAttribute('aria-expanded', String(open));
+        toggle.setAttribute('aria-label', open ? 'Close navigation' : 'Open navigation');
+      });
+      document.addEventListener('click', event => {
+        const menu = document.querySelector('.account-menu');
+        if (menu && !menu.contains(event.target)) menu.open = false;
+      });
+    })();
+  </script>
+</body>
+</html>

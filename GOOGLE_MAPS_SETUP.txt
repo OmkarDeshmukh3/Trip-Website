@@ -1,0 +1,9 @@
+GOOGLE MAPS: WHAT WORKS WITHOUT A KEY
+
+TripGenie includes two different map-related features: 
+1. Leaflet map inside the website: this remains visible using Esri satellite tiles or OpenStreetMap street tiles. It does not use Google Maps API.
+2. Open Google Maps actions: buttons open a Google Maps URL for directions/search. Google's official Maps URLs work cross-platform and need no API key: https://developers.google.com/maps/documentation/urls/get-started
+
+For mobile, a Google Maps URL normally opens the Google Maps application when installed, otherwise the browser. The embedded map remains inside TripGenie.
+
+If you later need Google's map itself embedded inside TripGenie, use Google Maps Platform's Maps JavaScript API with an active Google Cloud billing account, enable the needed API and create a restricted browser key. Your previous billing page showed the billing account as closed, so an embedded Google map will continue to fail until that account is active or the project is linked to another active account. Never publish an unrestricted API key.

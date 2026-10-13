@@ -1,0 +1,139 @@
+{% extends 'base.html' %}
+{% block title %}{{ destination_name }} trip · TripGenie{% endblock %}
+{% block head %}<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">{% endblock %}
+{% block content %}
+<main class="page wrap result-page">
+  <section class="results-hero"><div class="results-hero-image" style="background-image:url('{{ destination['image_url'] }}')"></div><div class="results-hero-shade"></div><div class="results-hero-copy"><p class="eyebrow eyebrow-light">YOUR TRIP, TAKING SHAPE</p><h1>{{ destination_name }}<em> looks good on you.</em></h1><p>{{ destination['description'] }}</p><div class="trip-pills"><span>₹{{ '{:,}'.format(budget) }} total budget</span><span>{{ days }} days</span><span>{{ travellers }} traveller(s)</span><span>{{ interest }}</span></div></div><div class="results-hero-foot"><span>STARTING IN <strong>{{ origin_name }}</strong></span><span>✦ <strong>{{ destination['location'] }}</strong></span></div></section>
+
+  <section class="content-section"><div class="section-heading compact"><div><p class="eyebrow">BEFORE YOU PACK</p><h2>Weather, right now.</h2><p class="section-lede">Current conditions and a 3-day outlook for {{ destination_name }}.</p></div><span class="live-pill"><i></i> LIVE WEATHER</span></div>
+    <div class="weather-layout"><div id="weather-current" class="weather-current"><div class="weather-loading"><span class="loading-spark">✦</span><p>Checking the forecast…</p></div></div><div id="weather-forecast" class="weather-forecast"><div class="weather-loading"><p>Loading the next few days…</p></div></div></div><p class="small-note weather-credit">Weather by Open-Meteo · Forecast is a planning guide and may change.</p>
+  </section>
+
+  <section class="content-section"><div class="section-heading compact"><div><p class="eyebrow">PINPOINT THE PLACE</p><h2>See where you’re going.</h2><p class="section-lede">Named pins represent the selected destination and known nearby attractions. Select any attraction below to animate its route.</p></div><span class="map-chip">STREETS · SATELLITE · ROUTE</span></div>
+    <div class="map-panel"><div class="map-topbar"><div class="map-legend"><span><i class="legend-origin"></i> Start · {{ origin_name }}</span><span><i class="legend-hotel"></i> Selected place</span></div><div class="map-actions"><button type="button" id="fly-destination" class="button button-outline">Animate journey to destination ↗</button><a class="text-link" target="_blank" rel="noopener" href="{{ maps_destination_url }}">Google Maps directions ↗</a></div><div id="route-status" class="route-status" role="status">Map opens at {{ destination_name }}. Choose a place to animate a route and zoom to its pin.</div></div><div id="trip-map" aria-label="Interactive map showing precisely named destination pins and route preview"></div><div class="map-bottom"><span>Map data © OpenStreetMap contributors · Voyager tiles © CARTO · Satellite © Esri</span><span>Public OSRM route service · best effort</span></div></div>
+    <div class="route-summary" id="route-summary" hidden><div><small>ROUTE DISTANCE</small><strong id="route-distance">—</strong></div><div><small>DRIVE-TIME ESTIMATE</small><strong id="route-duration">—</strong></div><a id="external-directions" class="button button-outline" target="_blank" rel="noopener">Open navigation ↗</a></div>
+    <p class="small-note">TripGenie first uses curated coordinates, then tries a best-effort OpenStreetMap geocoding lookup for the selected destination/place. If that lookup is unavailable, it keeps the curated pin. Use Google Maps for final door-level directions, especially for forts, beaches, islands and treks.</p>
+  </section>
+
+  <section class="content-section"><div class="section-heading compact"><div><p class="eyebrow">EXPLORE THE AREA</p><h2>Places worth your time.</h2><p class="section-lede">Every card has its own pin and a route animation that finishes with a close-up of that exact selected place.</p></div><span class="subtle-count">{{ places|length }} places shown</span></div>
+    {% if places %}<div class="place-grid">{% for place in places %}<article class="place-card place-card-enhanced"><div class="place-number">{{ '%02d' % loop.index }}</div><div class="place-copy"><span class="tag">{{ place['category'] }}</span><h3>{{ place['name'] }}</h3><p>{{ place['description'] }}</p><small class="place-coordinates">{{ '%.5f'|format(place['latitude']|float) }}, {{ '%.5f'|format(place['longitude']|float) }}</small></div><div class="place-actions"><button class="button button-dark route-button" type="button" data-target-name="{{ place['name'] }}" data-context="{{ destination_name }}" data-lat="{{ place['latitude'] }}" data-lon="{{ place['longitude'] }}">Animate here ↗</button><a class="external-map-link" target="_blank" rel="noopener" href="https://www.google.com/maps/dir/?api=1&destination={{ (place['name'] ~ ', ' ~ destination['location'] ~ ', India')|urlencode }}">Exact directions ↗</a></div></article>{% endfor %}</div>{% else %}<div class="panel"><h3>No places have been added to this destination yet.</h3><p>Open the location on Google Maps for current nearby attractions.</p></div>{% endif %}
+  </section>
+
+  <section class="content-section stay-section"><div class="section-heading compact"><div><p class="eyebrow">REAL ACCOMMODATION SEARCH</p><h2>Find a real place to stay.</h2><p class="section-lede">We removed fictional hotel names, ratings and prices. These links open live search results so you can check the actual property, reviews, rates and availability.</p></div><span class="map-chip">NO FAKE LISTINGS</span></div>
+    <div class="stay-link-grid"><article class="stay-link-card"><div class="stay-link-icon">⌖</div><div><h3>Hotels on Google Maps</h3><p>See nearby hotels, current reviews, contact details and map locations around {{ destination_name }}.</p></div><a class="button button-dark full-width" href="{{ hotel_maps_url }}" target="_blank" rel="noopener">Find nearby hotels ↗</a></article><article class="stay-link-card"><div class="stay-link-icon">▣</div><div><h3>Compare accommodation</h3><p>Open a booking search for {{ destination_name }} and verify dates, room type, guest count, taxes and cancellation terms.</p></div><a class="button button-outline full-width" href="{{ booking_url }}" target="_blank" rel="noopener">Search Booking.com ↗</a></article></div><p class="small-note">External links are search links, not confirmed bookings or endorsements. Compare total prices and cancellation terms before paying.</p>
+  </section>
+
+  <section class="content-section transport-section"><div class="section-heading compact"><div><p class="eyebrow">CHOOSE HOW TO GET THERE</p><h2>Compare your journey.</h2><p class="section-lede">Continue with official train search, compare flights, or open the exact destination in Google Maps.</p></div><span class="map-chip">EXTERNAL PROVIDERS</span></div>
+    <div class="transport-grid"><article class="transport-card"><span class="transport-icon">🚆</span><div><h3>Train tickets</h3><p>Use IRCTC to select stations, date, class and check availability.</p></div><a class="button button-dark full-width" href="{{ train_search_url }}" target="_blank" rel="noopener">Search trains ↗</a></article><article class="transport-card"><span class="transport-icon">✈️</span><div><h3>Flight comparison</h3><p>Compare available routes and dates. Flight links are a search, not a ticket.</p></div><a class="button button-dark full-width" href="{{ flight_search_url }}" target="_blank" rel="noopener">Compare flights ↗</a></article><article class="transport-card"><span class="transport-icon">🧭</span><div><h3>Road directions</h3><p>Open Google Maps for turn-by-turn navigation to the destination.</p></div><a class="button button-outline full-width" href="{{ maps_destination_url }}" target="_blank" rel="noopener">Open Google Maps ↗</a></article></div>
+  </section>
+  <section class="closing-cta wrap"><div><p class="eyebrow">TAKE THIS PLAN WITH YOU</p><h2>Make it a day-by-day itinerary.</h2><p class="section-lede">Build a starter itinerary from the places in this catalogue and verify site timings locally.</p></div><a class="button button-dark" href="{{ url_for('itinerary', destination=destination_name, days=days, budget=budget, travellers=travellers, interest=interest, origin=origin_name, travel_date=travel_date) }}">Build my itinerary ↗</a></section>
+</main>
+{% endblock %}
+{% block scripts %}
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+<script>
+(() => {
+  if (!window.L) { const status=document.getElementById('route-status'); if(status) status.textContent='Map library did not load. Check your internet connection and refresh.'; return; }
+  const destination = {{ {'name': destination_name, 'context': destination['location'], 'lat': destination['latitude']|float, 'lon': destination['longitude']|float, 'category': destination['category']}|tojson }};
+  const origin = {{ {'name': origin_name, 'lat': origin['latitude']|float, 'lon': origin['longitude']|float}|tojson }};
+  const places = {{ map_places|tojson }};
+  const map = L.map('trip-map', {scrollWheelZoom:false, preferCanvas:true, zoomControl:true}).setView([destination.lat,destination.lon], 13);
+  const voyager = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {subdomains:'abcd',maxZoom:20,attribution:'© OpenStreetMap contributors © CARTO'});
+  const streets = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom:19,attribution:'© OpenStreetMap contributors'});
+  const satellite = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {maxZoom:19,attribution:'Imagery © Esri and contributors'});
+  voyager.addTo(map); L.control.layers({'Clean map':voyager,'Street map':streets,'Satellite':satellite},null,{position:'topright'}).addTo(map);
+  const status=document.getElementById('route-status'), summary=document.getElementById('route-summary');
+  const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  function statusText(text, bad=false){status.textContent=text;status.classList.toggle('is-error',bad);}
+  const selectedIcon = L.divIcon({className:'tg-pin tg-pin-destination',html:'<span>◆</span>',iconSize:[34,42],iconAnchor:[17,38],popupAnchor:[0,-34]});
+  const originIcon = L.divIcon({className:'tg-pin tg-pin-origin',html:'<span>START</span>',iconSize:[54,28],iconAnchor:[27,14]});
+  const pointIcon = L.divIcon({className:'tg-pin tg-pin-place',html:'<span>●</span>',iconSize:[28,34],iconAnchor:[14,31],popupAnchor:[0,-28]});
+  const movingIcon = L.divIcon({className:'tg-pin tg-pin-moving',html:'<span>➤</span>',iconSize:[34,34],iconAnchor:[17,17]});
+  const destMarker = L.marker([destination.lat,destination.lon],{icon:selectedIcon,zIndexOffset:1200}).addTo(map).bindPopup('<strong>'+esc(destination.name)+'</strong><br>Selected destination pin');
+  const originMarker=L.marker([origin.lat,origin.lon],{icon:originIcon,zIndexOffset:1000}).addTo(map).bindPopup('<strong>Start: '+esc(origin.name)+'</strong><br>City-centre starting point (approximate)');
+  const placeMarkers=new Map(), visibleLayers=[destMarker];
+  places.forEach((p,i)=>{
+    const lat=Number(p.latitude),lon=Number(p.longitude); if(!Number.isFinite(lat)||!Number.isFinite(lon))return;
+    if(Math.abs(lat-destination.lat)<0.0007 && Math.abs(lon-destination.lon)<0.0007 && String(p.name).toLowerCase()===destination.name.toLowerCase())return;
+    const marker=L.marker([lat,lon],{icon:pointIcon,title:p.name,keyboard:true}).addTo(map);
+    marker.bindPopup('<strong>'+esc(p.name)+'</strong><br>'+esc(p.category)+'<br><a target="_blank" rel="noopener" href="https://www.google.com/maps/dir/?api=1&destination='+encodeURIComponent(p.name+', '+destination.context+', India')+'">Open exact directions ↗</a>');
+    placeMarkers.set((p.name+'|'+p.latitude+'|'+p.longitude),marker); visibleLayers.push(marker);
+  });
+  let routeLine=null, movingMarker=null, targetMarker=null, animationFrame=null, routeCache=new Map();
+  function clearRoute(){ if(animationFrame)cancelAnimationFrame(animationFrame); if(routeLine){map.removeLayer(routeLine);routeLine=null;} if(movingMarker){map.removeLayer(movingMarker);movingMarker=null;} if(targetMarker){map.removeLayer(targetMarker);targetMarker=null;} }
+  async function geocode(name,context,fallback){
+    try{const qs=new URLSearchParams({name:name,context:context||destination.context||''});const response=await fetch('/api/geocode?'+qs.toString(),{headers:{'Accept':'application/json'}});if(!response.ok)return fallback;const data=await response.json();return data.found?{lat:Number(data.lat),lon:Number(data.lon),source:data.source||'OpenStreetMap'}:fallback;}catch(e){return fallback;}
+  }
+  function mapDirectionsURL(target){return 'https://www.google.com/maps/dir/?api=1&origin='+encodeURIComponent(origin.name+', India')+'&destination='+encodeURIComponent(target.name+', '+(target.context||destination.context)+', India')+'&travelmode=driving';}
+  function animateAlong(points,target,mode,distanceKm,durationMin){
+    if(animationFrame)cancelAnimationFrame(animationFrame); if(movingMarker)map.removeLayer(movingMarker);
+    movingMarker=L.marker(points[0],{icon:movingIcon,zIndexOffset:1800}).addTo(map).bindPopup('Journey preview · '+esc(target.name));
+    const cumulative=[0];let total=0;
+    for(let i=1;i<points.length;i++){total+=map.distance(points[i-1],points[i]);cumulative.push(total);}
+    const runFor=Math.min(9000,Math.max(2200,points.length*2.2));const start=performance.now();
+    function frame(now){
+      const progress=Math.min(1,(now-start)/runFor),covered=total*progress;let idx=1;
+      while(idx<cumulative.length-1 && cumulative[idx]<covered)idx++;
+      const prev=Math.max(0,idx-1),span=cumulative[idx]-cumulative[prev],part=span?Math.max(0,Math.min(1,(covered-cumulative[prev])/span)):0;
+      const a=points[prev],b=points[idx]||points[prev];movingMarker.setLatLng([a[0]+(b[0]-a[0])*part,a[1]+(b[1]-a[1])*part]);
+      if(progress<1){animationFrame=requestAnimationFrame(frame);return;}
+      // Finish with a close-up on the exact target, instead of stopping at a regional zoom.
+      map.once('moveend',()=>{if(targetMarker)targetMarker.openPopup();movingMarker.setLatLng([target.lat,target.lon]);movingMarker.openPopup();statusText('Pinned at '+target.name+' · '+(mode==='road'?'road-route preview finished':'straight-line preview only; road route unavailable')+'.');});
+      map.flyTo([target.lat,target.lon], target.zoom||16,{duration:1.35,easeLinearity:0.18});
+    }
+    animationFrame=requestAnimationFrame(frame);
+    document.getElementById('route-distance').textContent=mode==='road'?distanceKm.toFixed(1)+' km':'~'+distanceKm.toFixed(1)+' km straight-line';
+    document.getElementById('route-duration').textContent=mode==='road'?Math.round(durationMin)+' min (routing estimate)':'Not available';
+    document.getElementById('external-directions').href=mapDirectionsURL(target);summary.hidden=false;
+  }
+  async function animateTo(rawTarget){
+    const target={name:String(rawTarget.name),context:String(rawTarget.context||destination.context),lat:Number(rawTarget.lat),lon:Number(rawTarget.lon),zoom:Number(rawTarget.zoom||16)};
+    if(!Number.isFinite(target.lat)||!Number.isFinite(target.lon)){statusText('This location has no usable coordinates yet.',true);return;}
+    statusText('Finding the best available pin for '+target.name+'…'); clearRoute();
+    // Refine a curated fallback coordinate with a cached, one-per-second OSM lookup where available.
+    const precise=await geocode(target.name,target.context,{lat:target.lat,lon:target.lon,source:'curated coordinates'});
+    target.lat=precise.lat;target.lon=precise.lon;
+    if(targetMarker)map.removeLayer(targetMarker);
+    targetMarker=L.marker([target.lat,target.lon],{icon:selectedIcon,zIndexOffset:1600}).addTo(map).bindPopup('<strong>'+esc(target.name)+'</strong><br>'+esc(precise.source||'Curated coordinate')+' pin');
+    targetMarker.openPopup();
+    const straightKm=map.distance([origin.lat,origin.lon],[target.lat,target.lon])/1000;
+    const start=[Number(origin.lon),Number(origin.lat)],end=[target.lon,target.lat],cacheKey=start.join(',')+';'+end.join(',');
+    // Long cross-country/island trips are visual flights, not credible local driving routes.
+    if(straightKm>1000){const line=[[origin.lat,origin.lon],[target.lat,target.lon]];routeLine=L.polyline(line,{color:'#df8b4b',weight:4,dashArray:'7 9',opacity:.9}).addTo(map);map.fitBounds(routeLine.getBounds().pad(.18),{maxZoom:7});animateAlong(line,target,'straight',straightKm,0);statusText('Long-distance flight preview. A driving route is not estimated for this trip; use Google Maps for transport planning.');return;}
+    statusText('Requesting a road route to '+target.name+'…');
+    try{
+      let data=routeCache.get(cacheKey);
+      if(!data){const url='https://router.project-osrm.org/route/v1/driving/'+start.join(',')+';'+end.join(',')+'?overview=full&geometries=geojson&steps=false';const response=await fetch(url,{signal:AbortSignal.timeout(9000)});if(!response.ok)throw new Error('Routing provider unavailable');data=await response.json();if(data.code!=='Ok'||!data.routes?.length)throw new Error('No drivable route returned');routeCache.set(cacheKey,data);}
+      const route=data.routes[0],coords=route.geometry.coordinates.map(c=>[c[1],c[0]]);
+      routeLine=L.polyline(coords,{color:'#087f8c',weight:5,opacity:.97,lineCap:'round',lineJoin:'round'}).addTo(map);
+      map.fitBounds(routeLine.getBounds().pad(.1),{maxZoom:11});animateAlong(coords,target,'road',route.distance/1000,route.duration/60);statusText('Road route received. Animating to the named destination pin…');
+    }catch(err){
+      const line=[[origin.lat,origin.lon],[target.lat,target.lon]];routeLine=L.polyline(line,{color:'#df8b4b',weight:4,dashArray:'7 9',opacity:.9}).addTo(map);map.fitBounds(routeLine.getBounds().pad(.18),{maxZoom:9});animateAlong(line,target,'straight',straightKm,0);statusText('Road routing is unavailable for this route. The dashed line is a straight-line animation, not a road. Use Google Maps for navigation.',true);
+    }
+  }
+  // Apply the best available geocoded coordinate for the selected destination after map draws immediately.
+  geocode(destination.name,destination.context,{lat:destination.lat,lon:destination.lon,source:'curated coordinates'}).then(pin=>{
+    destination.lat=pin.lat;destination.lon=pin.lon;destMarker.setLatLng([pin.lat,pin.lon]);
+    if(pin.source&&pin.source!=='curated coordinates')destMarker.setPopupContent('<strong>'+esc(destination.name)+'</strong><br>Pin refined with '+esc(pin.source));
+    if(visibleLayers.length===1)map.setView([pin.lat,pin.lon], destination.category==='City'?13:15,{animate:true,duration:0.8});
+  });
+  document.querySelectorAll('.route-button').forEach(button=>button.addEventListener('click',()=>animateTo({name:button.dataset.targetName,context:button.dataset.context,lat:button.dataset.lat,lon:button.dataset.lon,zoom:16})));
+  document.getElementById('fly-destination').addEventListener('click',()=>animateTo({name:destination.name,context:destination.context,lat:destination.lat,lon:destination.lon,zoom:16}));
+  if(visibleLayers.length>1){map.fitBounds(L.featureGroup(visibleLayers).getBounds().pad(.14),{maxZoom:13});}
+  window.addEventListener('load',()=>map.invalidateSize());
+
+  const weatherCodes={0:['Clear sky','☀'],1:['Mainly clear','🌤'],2:['Partly cloudy','⛅'],3:['Overcast','☁'],45:['Fog','🌫'],48:['Rime fog','🌫'],51:['Light drizzle','🌦'],53:['Drizzle','🌦'],55:['Dense drizzle','🌧'],56:['Freezing drizzle','🌧'],57:['Freezing drizzle','🌧'],61:['Light rain','🌦'],63:['Rain','🌧'],65:['Heavy rain','🌧'],66:['Freezing rain','🌧'],67:['Freezing rain','🌧'],71:['Light snow','🌨'],73:['Snow','🌨'],75:['Heavy snow','❄'],77:['Snow grains','🌨'],80:['Rain showers','🌦'],81:['Rain showers','🌧'],82:['Heavy showers','🌧'],85:['Snow showers','🌨'],86:['Heavy snow showers','❄'],95:['Thunderstorm','⛈'],96:['Thunderstorm with hail','⛈'],99:['Thunderstorm with hail','⛈']};
+  function codeInfo(code){return weatherCodes[code]||['Current weather','☼'];}
+  function dayName(iso){return new Date(iso+'T12:00:00').toLocaleDateString(undefined,{weekday:'short'});}
+  async function loadWeather(){
+    const currentBox=document.getElementById('weather-current'),forecastBox=document.getElementById('weather-forecast');const url=new URL('https://api.open-meteo.com/v1/forecast');
+    url.search=new URLSearchParams({latitude:destination.lat,longitude:destination.lon,current:'temperature_2m,relative_humidity_2m,apparent_temperature,precipitation,weather_code,wind_speed_10m',daily:'weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max',timezone:'auto',forecast_days:'3'});
+    try{const response=await fetch(url);if(!response.ok)throw new Error('Weather service unavailable');const data=await response.json(),c=data.current,d=data.daily,info=codeInfo(c.weather_code);
+      currentBox.innerHTML=`<div class="weather-main-icon">${info[1]}</div><div class="weather-main-copy"><p class="weather-location">NOW IN ${esc(destination.name.toUpperCase())}</p><div class="weather-temp">${Math.round(c.temperature_2m)}<sup>°C</sup></div><div class="weather-condition">${info[0]}</div><p class="weather-feels">Feels like ${Math.round(c.apparent_temperature)}°C</p></div><div class="weather-metrics"><div><span>Humidity</span><strong>${Math.round(c.relative_humidity_2m)}%</strong></div><div><span>Wind</span><strong>${Math.round(c.wind_speed_10m)} km/h</strong></div><div><span>Rain</span><strong>${Number(c.precipitation).toFixed(1)} mm</strong></div></div>`;
+      forecastBox.innerHTML=d.time.map((dt,i)=>{const inf=codeInfo(d.weather_code[i]);return `<div class="forecast-day"><small>${i===0?'TODAY':dayName(dt).toUpperCase()}</small><span class="forecast-icon">${inf[1]}</span><strong>${Math.round(d.temperature_2m_max[i])}° <small>/ ${Math.round(d.temperature_2m_min[i])}°</small></strong><span class="forecast-label">${inf[0]}</span><span class="rain-chance">☂ ${d.precipitation_probability_max?.[i]??0}% chance</span></div>`;}).join('');
+    }catch(err){currentBox.innerHTML='<div class="weather-failed"><strong>Weather is unavailable right now.</strong><p>Connect to the internet and refresh for the live forecast.</p></div>';forecastBox.innerHTML='<div class="weather-failed"><p>Forecast could not be loaded right now.</p></div>';}
+  }
+  loadWeather();
+})();
+</script>
+{% endblock %}

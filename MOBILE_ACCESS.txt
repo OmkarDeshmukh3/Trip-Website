@@ -1,0 +1,15 @@
+TRIPGENIE ON YOUR PHONE (SAME WI-FI)
+
+1. Start TripGenie on your PC using RUN_TRIPGENIE.bat or `py app.py`.
+2. Connect your phone and PC to the SAME Wi-Fi network.
+3. On the PC, open PowerShell and run `ipconfig`.
+4. Find the active Wi-Fi adapter and note its IPv4 Address, for example 192.168.1.23. Do not copy that example unless it is your real address.
+5. On your phone, open Chrome and enter `http://YOUR-PC-IP:5000`, replacing YOUR-PC-IP with the IPv4 address from step 4.
+6. If it does not load, check that Windows Firewall allows Python/Flask on Private networks, and temporarily disconnect VPNs on either device. Do not disable the firewall entirely.
+
+IMPORTANT
+- On your PC, use `http://127.0.0.1:5000`.
+- On your phone, use the PC's actual IPv4 address.
+- Do NOT enter `0.0.0.0:5000` into Chrome. That is the Flask listening address, not a client URL.
+- This works only on the same local network. To access TripGenie from anywhere, deploy it to a hosting provider with HTTPS and a production server.
+- Avoid entering real passwords or personal data in an untrusted shared Wi-Fi environment.

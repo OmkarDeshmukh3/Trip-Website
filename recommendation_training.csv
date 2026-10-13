@@ -1,0 +1,4251 @@
+budget_per_person_day,days,interest,destination
+1400,1,Historical,Pune
+1400,2,Historical,Pune
+1400,4,Historical,Pune
+2600,1,Historical,Pune
+2600,2,Historical,Pune
+2600,4,Historical,Pune
+3800,1,Historical,Pune
+3800,2,Historical,Pune
+3800,4,Historical,Pune
+5500,1,Historical,Pune
+5500,2,Historical,Pune
+5500,4,Historical,Pune
+1400,1,Culture,Pune
+1400,2,Culture,Pune
+1400,4,Culture,Pune
+2600,1,Culture,Pune
+2600,2,Culture,Pune
+2600,4,Culture,Pune
+3800,1,Culture,Pune
+3800,2,Culture,Pune
+3800,4,Culture,Pune
+5500,1,Culture,Pune
+5500,2,Culture,Pune
+5500,4,Culture,Pune
+1400,1,Food,Pune
+1400,2,Food,Pune
+1400,4,Food,Pune
+2600,1,Food,Pune
+2600,2,Food,Pune
+2600,4,Food,Pune
+3800,1,Food,Pune
+3800,2,Food,Pune
+3800,4,Food,Pune
+5500,1,Food,Pune
+5500,2,Food,Pune
+5500,4,Food,Pune
+1400,1,Nature,Pune
+1400,2,Nature,Pune
+1400,4,Nature,Pune
+2600,1,Nature,Pune
+2600,2,Nature,Pune
+2600,4,Nature,Pune
+3800,1,Nature,Pune
+3800,2,Nature,Pune
+3800,4,Nature,Pune
+5500,1,Nature,Pune
+5500,2,Nature,Pune
+5500,4,Nature,Pune
+2300,3,Beach,Goa
+2300,4,Beach,Goa
+2300,6,Beach,Goa
+4200,3,Beach,Goa
+4200,4,Beach,Goa
+4200,6,Beach,Goa
+6100,3,Beach,Goa
+6100,4,Beach,Goa
+6100,6,Beach,Goa
+8800,3,Beach,Goa
+8800,4,Beach,Goa
+8800,6,Beach,Goa
+2300,3,Adventure,Goa
+2300,4,Adventure,Goa
+2300,6,Adventure,Goa
+4200,3,Adventure,Goa
+4200,4,Adventure,Goa
+4200,6,Adventure,Goa
+6100,3,Adventure,Goa
+6100,4,Adventure,Goa
+6100,6,Adventure,Goa
+8800,3,Adventure,Goa
+8800,4,Adventure,Goa
+8800,6,Adventure,Goa
+2300,3,Nature,Goa
+2300,4,Nature,Goa
+2300,6,Nature,Goa
+4200,3,Nature,Goa
+4200,4,Nature,Goa
+4200,6,Nature,Goa
+6100,3,Nature,Goa
+6100,4,Nature,Goa
+6100,6,Nature,Goa
+8800,3,Nature,Goa
+8800,4,Nature,Goa
+8800,6,Nature,Goa
+2300,3,Food,Goa
+2300,4,Food,Goa
+2300,6,Food,Goa
+4200,3,Food,Goa
+4200,4,Food,Goa
+4200,6,Food,Goa
+6100,3,Food,Goa
+6100,4,Food,Goa
+6100,6,Food,Goa
+8800,3,Food,Goa
+8800,4,Food,Goa
+8800,6,Food,Goa
+2300,3,Culture,Goa
+2300,4,Culture,Goa
+2300,6,Culture,Goa
+4200,3,Culture,Goa
+4200,4,Culture,Goa
+4200,6,Culture,Goa
+6100,3,Culture,Goa
+6100,4,Culture,Goa
+6100,6,Culture,Goa
+8800,3,Culture,Goa
+8800,4,Culture,Goa
+8800,6,Culture,Goa
+1800,2,Historical,Jaipur
+1800,3,Historical,Jaipur
+1800,5,Historical,Jaipur
+3300,2,Historical,Jaipur
+3300,3,Historical,Jaipur
+3300,5,Historical,Jaipur
+4800,2,Historical,Jaipur
+4800,3,Historical,Jaipur
+4800,5,Historical,Jaipur
+6900,2,Historical,Jaipur
+6900,3,Historical,Jaipur
+6900,5,Historical,Jaipur
+1800,2,Culture,Jaipur
+1800,3,Culture,Jaipur
+1800,5,Culture,Jaipur
+3300,2,Culture,Jaipur
+3300,3,Culture,Jaipur
+3300,5,Culture,Jaipur
+4800,2,Culture,Jaipur
+4800,3,Culture,Jaipur
+4800,5,Culture,Jaipur
+6900,2,Culture,Jaipur
+6900,3,Culture,Jaipur
+6900,5,Culture,Jaipur
+1800,2,Shopping,Jaipur
+1800,3,Shopping,Jaipur
+1800,5,Shopping,Jaipur
+3300,2,Shopping,Jaipur
+3300,3,Shopping,Jaipur
+3300,5,Shopping,Jaipur
+4800,2,Shopping,Jaipur
+4800,3,Shopping,Jaipur
+4800,5,Shopping,Jaipur
+6900,2,Shopping,Jaipur
+6900,3,Shopping,Jaipur
+6900,5,Shopping,Jaipur
+1800,2,Food,Jaipur
+1800,3,Food,Jaipur
+1800,5,Food,Jaipur
+3300,2,Food,Jaipur
+3300,3,Food,Jaipur
+3300,5,Food,Jaipur
+4800,2,Food,Jaipur
+4800,3,Food,Jaipur
+4800,5,Food,Jaipur
+6900,2,Food,Jaipur
+6900,3,Food,Jaipur
+6900,5,Food,Jaipur
+2100,3,Nature,Manali
+2100,4,Nature,Manali
+2100,6,Nature,Manali
+3900,3,Nature,Manali
+3900,4,Nature,Manali
+3900,6,Nature,Manali
+5700,3,Nature,Manali
+5700,4,Nature,Manali
+5700,6,Nature,Manali
+8200,3,Nature,Manali
+8200,4,Nature,Manali
+8200,6,Nature,Manali
+2100,3,Adventure,Manali
+2100,4,Adventure,Manali
+2100,6,Adventure,Manali
+3900,3,Adventure,Manali
+3900,4,Adventure,Manali
+3900,6,Adventure,Manali
+5700,3,Adventure,Manali
+5700,4,Adventure,Manali
+5700,6,Adventure,Manali
+8200,3,Adventure,Manali
+8200,4,Adventure,Manali
+8200,6,Adventure,Manali
+2100,3,Culture,Manali
+2100,4,Culture,Manali
+2100,6,Culture,Manali
+3900,3,Culture,Manali
+3900,4,Culture,Manali
+3900,6,Culture,Manali
+5700,3,Culture,Manali
+5700,4,Culture,Manali
+5700,6,Culture,Manali
+8200,3,Culture,Manali
+8200,4,Culture,Manali
+8200,6,Culture,Manali
+2600,2,Culture,Mumbai
+2600,3,Culture,Mumbai
+2600,5,Culture,Mumbai
+4800,2,Culture,Mumbai
+4800,3,Culture,Mumbai
+4800,5,Culture,Mumbai
+7000,2,Culture,Mumbai
+7000,3,Culture,Mumbai
+7000,5,Culture,Mumbai
+10100,2,Culture,Mumbai
+10100,3,Culture,Mumbai
+10100,5,Culture,Mumbai
+2600,2,Food,Mumbai
+2600,3,Food,Mumbai
+2600,5,Food,Mumbai
+4800,2,Food,Mumbai
+4800,3,Food,Mumbai
+4800,5,Food,Mumbai
+7000,2,Food,Mumbai
+7000,3,Food,Mumbai
+7000,5,Food,Mumbai
+10100,2,Food,Mumbai
+10100,3,Food,Mumbai
+10100,5,Food,Mumbai
+2600,2,Shopping,Mumbai
+2600,3,Shopping,Mumbai
+2600,5,Shopping,Mumbai
+4800,2,Shopping,Mumbai
+4800,3,Shopping,Mumbai
+4800,5,Shopping,Mumbai
+7000,2,Shopping,Mumbai
+7000,3,Shopping,Mumbai
+7000,5,Shopping,Mumbai
+10100,2,Shopping,Mumbai
+10100,3,Shopping,Mumbai
+10100,5,Shopping,Mumbai
+2600,2,Beach,Mumbai
+2600,3,Beach,Mumbai
+2600,5,Beach,Mumbai
+4800,2,Beach,Mumbai
+4800,3,Beach,Mumbai
+4800,5,Beach,Mumbai
+7000,2,Beach,Mumbai
+7000,3,Beach,Mumbai
+7000,5,Beach,Mumbai
+10100,2,Beach,Mumbai
+10100,3,Beach,Mumbai
+10100,5,Beach,Mumbai
+2600,2,Historical,Mumbai
+2600,3,Historical,Mumbai
+2600,5,Historical,Mumbai
+4800,2,Historical,Mumbai
+4800,3,Historical,Mumbai
+4800,5,Historical,Mumbai
+7000,2,Historical,Mumbai
+7000,3,Historical,Mumbai
+7000,5,Historical,Mumbai
+10100,2,Historical,Mumbai
+10100,3,Historical,Mumbai
+10100,5,Historical,Mumbai
+2100,2,Historical,Delhi
+2100,3,Historical,Delhi
+2100,5,Historical,Delhi
+3900,2,Historical,Delhi
+3900,3,Historical,Delhi
+3900,5,Historical,Delhi
+5700,2,Historical,Delhi
+5700,3,Historical,Delhi
+5700,5,Historical,Delhi
+8200,2,Historical,Delhi
+8200,3,Historical,Delhi
+8200,5,Historical,Delhi
+2100,2,Culture,Delhi
+2100,3,Culture,Delhi
+2100,5,Culture,Delhi
+3900,2,Culture,Delhi
+3900,3,Culture,Delhi
+3900,5,Culture,Delhi
+5700,2,Culture,Delhi
+5700,3,Culture,Delhi
+5700,5,Culture,Delhi
+8200,2,Culture,Delhi
+8200,3,Culture,Delhi
+8200,5,Culture,Delhi
+2100,2,Food,Delhi
+2100,3,Food,Delhi
+2100,5,Food,Delhi
+3900,2,Food,Delhi
+3900,3,Food,Delhi
+3900,5,Food,Delhi
+5700,2,Food,Delhi
+5700,3,Food,Delhi
+5700,5,Food,Delhi
+8200,2,Food,Delhi
+8200,3,Food,Delhi
+8200,5,Food,Delhi
+2100,2,Shopping,Delhi
+2100,3,Shopping,Delhi
+2100,5,Shopping,Delhi
+3900,2,Shopping,Delhi
+3900,3,Shopping,Delhi
+3900,5,Shopping,Delhi
+5700,2,Shopping,Delhi
+5700,3,Shopping,Delhi
+5700,5,Shopping,Delhi
+8200,2,Shopping,Delhi
+8200,3,Shopping,Delhi
+8200,5,Shopping,Delhi
+2100,2,Spiritual,Delhi
+2100,3,Spiritual,Delhi
+2100,5,Spiritual,Delhi
+3900,2,Spiritual,Delhi
+3900,3,Spiritual,Delhi
+3900,5,Spiritual,Delhi
+5700,2,Spiritual,Delhi
+5700,3,Spiritual,Delhi
+5700,5,Spiritual,Delhi
+8200,2,Spiritual,Delhi
+8200,3,Spiritual,Delhi
+8200,5,Spiritual,Delhi
+2000,2,Historical,Udaipur
+2000,3,Historical,Udaipur
+2000,5,Historical,Udaipur
+3700,2,Historical,Udaipur
+3700,3,Historical,Udaipur
+3700,5,Historical,Udaipur
+5400,2,Historical,Udaipur
+5400,3,Historical,Udaipur
+5400,5,Historical,Udaipur
+7800,2,Historical,Udaipur
+7800,3,Historical,Udaipur
+7800,5,Historical,Udaipur
+2000,2,Culture,Udaipur
+2000,3,Culture,Udaipur
+2000,5,Culture,Udaipur
+3700,2,Culture,Udaipur
+3700,3,Culture,Udaipur
+3700,5,Culture,Udaipur
+5400,2,Culture,Udaipur
+5400,3,Culture,Udaipur
+5400,5,Culture,Udaipur
+7800,2,Culture,Udaipur
+7800,3,Culture,Udaipur
+7800,5,Culture,Udaipur
+2000,2,Nature,Udaipur
+2000,3,Nature,Udaipur
+2000,5,Nature,Udaipur
+3700,2,Nature,Udaipur
+3700,3,Nature,Udaipur
+3700,5,Nature,Udaipur
+5400,2,Nature,Udaipur
+5400,3,Nature,Udaipur
+5400,5,Nature,Udaipur
+7800,2,Nature,Udaipur
+7800,3,Nature,Udaipur
+7800,5,Nature,Udaipur
+2000,2,Food,Udaipur
+2000,3,Food,Udaipur
+2000,5,Food,Udaipur
+3700,2,Food,Udaipur
+3700,3,Food,Udaipur
+3700,5,Food,Udaipur
+5400,2,Food,Udaipur
+5400,3,Food,Udaipur
+5400,5,Food,Udaipur
+7800,2,Food,Udaipur
+7800,3,Food,Udaipur
+7800,5,Food,Udaipur
+1800,2,Nature,Ooty
+1800,3,Nature,Ooty
+1800,5,Nature,Ooty
+3200,2,Nature,Ooty
+3200,3,Nature,Ooty
+3200,5,Nature,Ooty
+4600,2,Nature,Ooty
+4600,3,Nature,Ooty
+4600,5,Nature,Ooty
+6700,2,Nature,Ooty
+6700,3,Nature,Ooty
+6700,5,Nature,Ooty
+1800,2,Adventure,Ooty
+1800,3,Adventure,Ooty
+1800,5,Adventure,Ooty
+3200,2,Adventure,Ooty
+3200,3,Adventure,Ooty
+3200,5,Adventure,Ooty
+4600,2,Adventure,Ooty
+4600,3,Adventure,Ooty
+4600,5,Adventure,Ooty
+6700,2,Adventure,Ooty
+6700,3,Adventure,Ooty
+6700,5,Adventure,Ooty
+1800,2,Food,Ooty
+1800,3,Food,Ooty
+1800,5,Food,Ooty
+3200,2,Food,Ooty
+3200,3,Food,Ooty
+3200,5,Food,Ooty
+4600,2,Food,Ooty
+4600,3,Food,Ooty
+4600,5,Food,Ooty
+6700,2,Food,Ooty
+6700,3,Food,Ooty
+6700,5,Food,Ooty
+2100,2,Nature,Munnar
+2100,3,Nature,Munnar
+2100,5,Nature,Munnar
+3800,2,Nature,Munnar
+3800,3,Nature,Munnar
+3800,5,Nature,Munnar
+5500,2,Nature,Munnar
+5500,3,Nature,Munnar
+5500,5,Nature,Munnar
+8000,2,Nature,Munnar
+8000,3,Nature,Munnar
+8000,5,Nature,Munnar
+2100,2,Adventure,Munnar
+2100,3,Adventure,Munnar
+2100,5,Adventure,Munnar
+3800,2,Adventure,Munnar
+3800,3,Adventure,Munnar
+3800,5,Adventure,Munnar
+5500,2,Adventure,Munnar
+5500,3,Adventure,Munnar
+5500,5,Adventure,Munnar
+8000,2,Adventure,Munnar
+8000,3,Adventure,Munnar
+8000,5,Adventure,Munnar
+2100,2,Culture,Munnar
+2100,3,Culture,Munnar
+2100,5,Culture,Munnar
+3800,2,Culture,Munnar
+3800,3,Culture,Munnar
+3800,5,Culture,Munnar
+5500,2,Culture,Munnar
+5500,3,Culture,Munnar
+5500,5,Culture,Munnar
+8000,2,Culture,Munnar
+8000,3,Culture,Munnar
+8000,5,Culture,Munnar
+1300,1,Spiritual,Varanasi
+1300,2,Spiritual,Varanasi
+1300,4,Spiritual,Varanasi
+2400,1,Spiritual,Varanasi
+2400,2,Spiritual,Varanasi
+2400,4,Spiritual,Varanasi
+3500,1,Spiritual,Varanasi
+3500,2,Spiritual,Varanasi
+3500,4,Spiritual,Varanasi
+5000,1,Spiritual,Varanasi
+5000,2,Spiritual,Varanasi
+5000,4,Spiritual,Varanasi
+1300,1,Historical,Varanasi
+1300,2,Historical,Varanasi
+1300,4,Historical,Varanasi
+2400,1,Historical,Varanasi
+2400,2,Historical,Varanasi
+2400,4,Historical,Varanasi
+3500,1,Historical,Varanasi
+3500,2,Historical,Varanasi
+3500,4,Historical,Varanasi
+5000,1,Historical,Varanasi
+5000,2,Historical,Varanasi
+5000,4,Historical,Varanasi
+1300,1,Culture,Varanasi
+1300,2,Culture,Varanasi
+1300,4,Culture,Varanasi
+2400,1,Culture,Varanasi
+2400,2,Culture,Varanasi
+2400,4,Culture,Varanasi
+3500,1,Culture,Varanasi
+3500,2,Culture,Varanasi
+3500,4,Culture,Varanasi
+5000,1,Culture,Varanasi
+5000,2,Culture,Varanasi
+5000,4,Culture,Varanasi
+1300,1,Food,Varanasi
+1300,2,Food,Varanasi
+1300,4,Food,Varanasi
+2400,1,Food,Varanasi
+2400,2,Food,Varanasi
+2400,4,Food,Varanasi
+3500,1,Food,Varanasi
+3500,2,Food,Varanasi
+3500,4,Food,Varanasi
+5000,1,Food,Varanasi
+5000,2,Food,Varanasi
+5000,4,Food,Varanasi
+1300,1,Historical,Agra
+1300,2,Historical,Agra
+1300,4,Historical,Agra
+2400,1,Historical,Agra
+2400,2,Historical,Agra
+2400,4,Historical,Agra
+3500,1,Historical,Agra
+3500,2,Historical,Agra
+3500,4,Historical,Agra
+5000,1,Historical,Agra
+5000,2,Historical,Agra
+5000,4,Historical,Agra
+1300,1,Culture,Agra
+1300,2,Culture,Agra
+1300,4,Culture,Agra
+2400,1,Culture,Agra
+2400,2,Culture,Agra
+2400,4,Culture,Agra
+3500,1,Culture,Agra
+3500,2,Culture,Agra
+3500,4,Culture,Agra
+5000,1,Culture,Agra
+5000,2,Culture,Agra
+5000,4,Culture,Agra
+1300,1,Food,Agra
+1300,2,Food,Agra
+1300,4,Food,Agra
+2400,1,Food,Agra
+2400,2,Food,Agra
+2400,4,Food,Agra
+3500,1,Food,Agra
+3500,2,Food,Agra
+3500,4,Food,Agra
+5000,1,Food,Agra
+5000,2,Food,Agra
+5000,4,Food,Agra
+1900,2,Nature,Shimla
+1900,3,Nature,Shimla
+1900,5,Nature,Shimla
+3500,2,Nature,Shimla
+3500,3,Nature,Shimla
+3500,5,Nature,Shimla
+5100,2,Nature,Shimla
+5100,3,Nature,Shimla
+5100,5,Nature,Shimla
+7400,2,Nature,Shimla
+7400,3,Nature,Shimla
+7400,5,Nature,Shimla
+1900,2,Adventure,Shimla
+1900,3,Adventure,Shimla
+1900,5,Adventure,Shimla
+3500,2,Adventure,Shimla
+3500,3,Adventure,Shimla
+3500,5,Adventure,Shimla
+5100,2,Adventure,Shimla
+5100,3,Adventure,Shimla
+5100,5,Adventure,Shimla
+7400,2,Adventure,Shimla
+7400,3,Adventure,Shimla
+7400,5,Adventure,Shimla
+1900,2,Culture,Shimla
+1900,3,Culture,Shimla
+1900,5,Culture,Shimla
+3500,2,Culture,Shimla
+3500,3,Culture,Shimla
+3500,5,Culture,Shimla
+5100,2,Culture,Shimla
+5100,3,Culture,Shimla
+5100,5,Culture,Shimla
+7400,2,Culture,Shimla
+7400,3,Culture,Shimla
+7400,5,Culture,Shimla
+1900,2,Shopping,Shimla
+1900,3,Shopping,Shimla
+1900,5,Shopping,Shimla
+3500,2,Shopping,Shimla
+3500,3,Shopping,Shimla
+3500,5,Shopping,Shimla
+5100,2,Shopping,Shimla
+5100,3,Shopping,Shimla
+5100,5,Shopping,Shimla
+7400,2,Shopping,Shimla
+7400,3,Shopping,Shimla
+7400,5,Shopping,Shimla
+1600,2,Adventure,Rishikesh
+1600,3,Adventure,Rishikesh
+1600,5,Adventure,Rishikesh
+2900,2,Adventure,Rishikesh
+2900,3,Adventure,Rishikesh
+2900,5,Adventure,Rishikesh
+4200,2,Adventure,Rishikesh
+4200,3,Adventure,Rishikesh
+4200,5,Adventure,Rishikesh
+6100,2,Adventure,Rishikesh
+6100,3,Adventure,Rishikesh
+6100,5,Adventure,Rishikesh
+1600,2,Spiritual,Rishikesh
+1600,3,Spiritual,Rishikesh
+1600,5,Spiritual,Rishikesh
+2900,2,Spiritual,Rishikesh
+2900,3,Spiritual,Rishikesh
+2900,5,Spiritual,Rishikesh
+4200,2,Spiritual,Rishikesh
+4200,3,Spiritual,Rishikesh
+4200,5,Spiritual,Rishikesh
+6100,2,Spiritual,Rishikesh
+6100,3,Spiritual,Rishikesh
+6100,5,Spiritual,Rishikesh
+1600,2,Nature,Rishikesh
+1600,3,Nature,Rishikesh
+1600,5,Nature,Rishikesh
+2900,2,Nature,Rishikesh
+2900,3,Nature,Rishikesh
+2900,5,Nature,Rishikesh
+4200,2,Nature,Rishikesh
+4200,3,Nature,Rishikesh
+4200,5,Nature,Rishikesh
+6100,2,Nature,Rishikesh
+6100,3,Nature,Rishikesh
+6100,5,Nature,Rishikesh
+1600,1,Historical,Hyderabad
+1600,2,Historical,Hyderabad
+1600,4,Historical,Hyderabad
+2900,1,Historical,Hyderabad
+2900,2,Historical,Hyderabad
+2900,4,Historical,Hyderabad
+4200,1,Historical,Hyderabad
+4200,2,Historical,Hyderabad
+4200,4,Historical,Hyderabad
+6100,1,Historical,Hyderabad
+6100,2,Historical,Hyderabad
+6100,4,Historical,Hyderabad
+1600,1,Food,Hyderabad
+1600,2,Food,Hyderabad
+1600,4,Food,Hyderabad
+2900,1,Food,Hyderabad
+2900,2,Food,Hyderabad
+2900,4,Food,Hyderabad
+4200,1,Food,Hyderabad
+4200,2,Food,Hyderabad
+4200,4,Food,Hyderabad
+6100,1,Food,Hyderabad
+6100,2,Food,Hyderabad
+6100,4,Food,Hyderabad
+1600,1,Culture,Hyderabad
+1600,2,Culture,Hyderabad
+1600,4,Culture,Hyderabad
+2900,1,Culture,Hyderabad
+2900,2,Culture,Hyderabad
+2900,4,Culture,Hyderabad
+4200,1,Culture,Hyderabad
+4200,2,Culture,Hyderabad
+4200,4,Culture,Hyderabad
+6100,1,Culture,Hyderabad
+6100,2,Culture,Hyderabad
+6100,4,Culture,Hyderabad
+1600,1,Shopping,Hyderabad
+1600,2,Shopping,Hyderabad
+1600,4,Shopping,Hyderabad
+2900,1,Shopping,Hyderabad
+2900,2,Shopping,Hyderabad
+2900,4,Shopping,Hyderabad
+4200,1,Shopping,Hyderabad
+4200,2,Shopping,Hyderabad
+4200,4,Shopping,Hyderabad
+6100,1,Shopping,Hyderabad
+6100,2,Shopping,Hyderabad
+6100,4,Shopping,Hyderabad
+2100,2,Food,Bengaluru
+2100,3,Food,Bengaluru
+2100,5,Food,Bengaluru
+3900,2,Food,Bengaluru
+3900,3,Food,Bengaluru
+3900,5,Food,Bengaluru
+5700,2,Food,Bengaluru
+5700,3,Food,Bengaluru
+5700,5,Food,Bengaluru
+8200,2,Food,Bengaluru
+8200,3,Food,Bengaluru
+8200,5,Food,Bengaluru
+2100,2,Nature,Bengaluru
+2100,3,Nature,Bengaluru
+2100,5,Nature,Bengaluru
+3900,2,Nature,Bengaluru
+3900,3,Nature,Bengaluru
+3900,5,Nature,Bengaluru
+5700,2,Nature,Bengaluru
+5700,3,Nature,Bengaluru
+5700,5,Nature,Bengaluru
+8200,2,Nature,Bengaluru
+8200,3,Nature,Bengaluru
+8200,5,Nature,Bengaluru
+2100,2,Culture,Bengaluru
+2100,3,Culture,Bengaluru
+2100,5,Culture,Bengaluru
+3900,2,Culture,Bengaluru
+3900,3,Culture,Bengaluru
+3900,5,Culture,Bengaluru
+5700,2,Culture,Bengaluru
+5700,3,Culture,Bengaluru
+5700,5,Culture,Bengaluru
+8200,2,Culture,Bengaluru
+8200,3,Culture,Bengaluru
+8200,5,Culture,Bengaluru
+2100,2,Shopping,Bengaluru
+2100,3,Shopping,Bengaluru
+2100,5,Shopping,Bengaluru
+3900,2,Shopping,Bengaluru
+3900,3,Shopping,Bengaluru
+3900,5,Shopping,Bengaluru
+5700,2,Shopping,Bengaluru
+5700,3,Shopping,Bengaluru
+5700,5,Shopping,Bengaluru
+8200,2,Shopping,Bengaluru
+8200,3,Shopping,Bengaluru
+8200,5,Shopping,Bengaluru
+1400,1,Spiritual,Amritsar
+1400,2,Spiritual,Amritsar
+1400,4,Spiritual,Amritsar
+2500,1,Spiritual,Amritsar
+2500,2,Spiritual,Amritsar
+2500,4,Spiritual,Amritsar
+3600,1,Spiritual,Amritsar
+3600,2,Spiritual,Amritsar
+3600,4,Spiritual,Amritsar
+5200,1,Spiritual,Amritsar
+5200,2,Spiritual,Amritsar
+5200,4,Spiritual,Amritsar
+1400,1,Historical,Amritsar
+1400,2,Historical,Amritsar
+1400,4,Historical,Amritsar
+2500,1,Historical,Amritsar
+2500,2,Historical,Amritsar
+2500,4,Historical,Amritsar
+3600,1,Historical,Amritsar
+3600,2,Historical,Amritsar
+3600,4,Historical,Amritsar
+5200,1,Historical,Amritsar
+5200,2,Historical,Amritsar
+5200,4,Historical,Amritsar
+1400,1,Culture,Amritsar
+1400,2,Culture,Amritsar
+1400,4,Culture,Amritsar
+2500,1,Culture,Amritsar
+2500,2,Culture,Amritsar
+2500,4,Culture,Amritsar
+3600,1,Culture,Amritsar
+3600,2,Culture,Amritsar
+3600,4,Culture,Amritsar
+5200,1,Culture,Amritsar
+5200,2,Culture,Amritsar
+5200,4,Culture,Amritsar
+1400,1,Food,Amritsar
+1400,2,Food,Amritsar
+1400,4,Food,Amritsar
+2500,1,Food,Amritsar
+2500,2,Food,Amritsar
+2500,4,Food,Amritsar
+3600,1,Food,Amritsar
+3600,2,Food,Amritsar
+3600,4,Food,Amritsar
+5200,1,Food,Amritsar
+5200,2,Food,Amritsar
+5200,4,Food,Amritsar
+1500,1,Historical,Mysuru
+1500,2,Historical,Mysuru
+1500,4,Historical,Mysuru
+2800,1,Historical,Mysuru
+2800,2,Historical,Mysuru
+2800,4,Historical,Mysuru
+4100,1,Historical,Mysuru
+4100,2,Historical,Mysuru
+4100,4,Historical,Mysuru
+5900,1,Historical,Mysuru
+5900,2,Historical,Mysuru
+5900,4,Historical,Mysuru
+1500,1,Culture,Mysuru
+1500,2,Culture,Mysuru
+1500,4,Culture,Mysuru
+2800,1,Culture,Mysuru
+2800,2,Culture,Mysuru
+2800,4,Culture,Mysuru
+4100,1,Culture,Mysuru
+4100,2,Culture,Mysuru
+4100,4,Culture,Mysuru
+5900,1,Culture,Mysuru
+5900,2,Culture,Mysuru
+5900,4,Culture,Mysuru
+1500,1,Nature,Mysuru
+1500,2,Nature,Mysuru
+1500,4,Nature,Mysuru
+2800,1,Nature,Mysuru
+2800,2,Nature,Mysuru
+2800,4,Nature,Mysuru
+4100,1,Nature,Mysuru
+4100,2,Nature,Mysuru
+4100,4,Nature,Mysuru
+5900,1,Nature,Mysuru
+5900,2,Nature,Mysuru
+5900,4,Nature,Mysuru
+1500,1,Food,Mysuru
+1500,2,Food,Mysuru
+1500,4,Food,Mysuru
+2800,1,Food,Mysuru
+2800,2,Food,Mysuru
+2800,4,Food,Mysuru
+4100,1,Food,Mysuru
+4100,2,Food,Mysuru
+4100,4,Food,Mysuru
+5900,1,Food,Mysuru
+5900,2,Food,Mysuru
+5900,4,Food,Mysuru
+1900,2,Beach,Puducherry
+1900,3,Beach,Puducherry
+1900,5,Beach,Puducherry
+3400,2,Beach,Puducherry
+3400,3,Beach,Puducherry
+3400,5,Beach,Puducherry
+4900,2,Beach,Puducherry
+4900,3,Beach,Puducherry
+4900,5,Beach,Puducherry
+7100,2,Beach,Puducherry
+7100,3,Beach,Puducherry
+7100,5,Beach,Puducherry
+1900,2,Culture,Puducherry
+1900,3,Culture,Puducherry
+1900,5,Culture,Puducherry
+3400,2,Culture,Puducherry
+3400,3,Culture,Puducherry
+3400,5,Culture,Puducherry
+4900,2,Culture,Puducherry
+4900,3,Culture,Puducherry
+4900,5,Culture,Puducherry
+7100,2,Culture,Puducherry
+7100,3,Culture,Puducherry
+7100,5,Culture,Puducherry
+1900,2,Nature,Puducherry
+1900,3,Nature,Puducherry
+1900,5,Nature,Puducherry
+3400,2,Nature,Puducherry
+3400,3,Nature,Puducherry
+3400,5,Nature,Puducherry
+4900,2,Nature,Puducherry
+4900,3,Nature,Puducherry
+4900,5,Nature,Puducherry
+7100,2,Nature,Puducherry
+7100,3,Nature,Puducherry
+7100,5,Nature,Puducherry
+1900,2,Food,Puducherry
+1900,3,Food,Puducherry
+1900,5,Food,Puducherry
+3400,2,Food,Puducherry
+3400,3,Food,Puducherry
+3400,5,Food,Puducherry
+4900,2,Food,Puducherry
+4900,3,Food,Puducherry
+4900,5,Food,Puducherry
+7100,2,Food,Puducherry
+7100,3,Food,Puducherry
+7100,5,Food,Puducherry
+1500,1,Nature,Lonavala
+1500,2,Nature,Lonavala
+1500,4,Nature,Lonavala
+2700,1,Nature,Lonavala
+2700,2,Nature,Lonavala
+2700,4,Nature,Lonavala
+3900,1,Nature,Lonavala
+3900,2,Nature,Lonavala
+3900,4,Nature,Lonavala
+5700,1,Nature,Lonavala
+5700,2,Nature,Lonavala
+5700,4,Nature,Lonavala
+1500,1,Adventure,Lonavala
+1500,2,Adventure,Lonavala
+1500,4,Adventure,Lonavala
+2700,1,Adventure,Lonavala
+2700,2,Adventure,Lonavala
+2700,4,Adventure,Lonavala
+3900,1,Adventure,Lonavala
+3900,2,Adventure,Lonavala
+3900,4,Adventure,Lonavala
+5700,1,Adventure,Lonavala
+5700,2,Adventure,Lonavala
+5700,4,Adventure,Lonavala
+1500,1,Food,Lonavala
+1500,2,Food,Lonavala
+1500,4,Food,Lonavala
+2700,1,Food,Lonavala
+2700,2,Food,Lonavala
+2700,4,Food,Lonavala
+3900,1,Food,Lonavala
+3900,2,Food,Lonavala
+3900,4,Food,Lonavala
+5700,1,Food,Lonavala
+5700,2,Food,Lonavala
+5700,4,Food,Lonavala
+1000,1,Engineering Marvels,Ajanta Caves
+1000,2,Engineering Marvels,Ajanta Caves
+1000,3,Engineering Marvels,Ajanta Caves
+1000,4,Engineering Marvels,Ajanta Caves
+1800,1,Engineering Marvels,Ajanta Caves
+1800,2,Engineering Marvels,Ajanta Caves
+1800,3,Engineering Marvels,Ajanta Caves
+1800,4,Engineering Marvels,Ajanta Caves
+2800,1,Engineering Marvels,Ajanta Caves
+2800,2,Engineering Marvels,Ajanta Caves
+2800,3,Engineering Marvels,Ajanta Caves
+2800,4,Engineering Marvels,Ajanta Caves
+4200,1,Engineering Marvels,Ajanta Caves
+4200,2,Engineering Marvels,Ajanta Caves
+4200,3,Engineering Marvels,Ajanta Caves
+4200,4,Engineering Marvels,Ajanta Caves
+1000,1,Historical,Ajanta Caves
+1000,2,Historical,Ajanta Caves
+1000,3,Historical,Ajanta Caves
+1000,4,Historical,Ajanta Caves
+1800,1,Historical,Ajanta Caves
+1800,2,Historical,Ajanta Caves
+1800,3,Historical,Ajanta Caves
+1800,4,Historical,Ajanta Caves
+2800,1,Historical,Ajanta Caves
+2800,2,Historical,Ajanta Caves
+2800,3,Historical,Ajanta Caves
+2800,4,Historical,Ajanta Caves
+4200,1,Historical,Ajanta Caves
+4200,2,Historical,Ajanta Caves
+4200,3,Historical,Ajanta Caves
+4200,4,Historical,Ajanta Caves
+1000,1,Culture,Ajanta Caves
+1000,2,Culture,Ajanta Caves
+1000,3,Culture,Ajanta Caves
+1000,4,Culture,Ajanta Caves
+1800,1,Culture,Ajanta Caves
+1800,2,Culture,Ajanta Caves
+1800,3,Culture,Ajanta Caves
+1800,4,Culture,Ajanta Caves
+2800,1,Culture,Ajanta Caves
+2800,2,Culture,Ajanta Caves
+2800,3,Culture,Ajanta Caves
+2800,4,Culture,Ajanta Caves
+4200,1,Culture,Ajanta Caves
+4200,2,Culture,Ajanta Caves
+4200,3,Culture,Ajanta Caves
+4200,4,Culture,Ajanta Caves
+1000,1,Spiritual,Ajanta Caves
+1000,2,Spiritual,Ajanta Caves
+1000,3,Spiritual,Ajanta Caves
+1000,4,Spiritual,Ajanta Caves
+1800,1,Spiritual,Ajanta Caves
+1800,2,Spiritual,Ajanta Caves
+1800,3,Spiritual,Ajanta Caves
+1800,4,Spiritual,Ajanta Caves
+2800,1,Spiritual,Ajanta Caves
+2800,2,Spiritual,Ajanta Caves
+2800,3,Spiritual,Ajanta Caves
+2800,4,Spiritual,Ajanta Caves
+4200,1,Spiritual,Ajanta Caves
+4200,2,Spiritual,Ajanta Caves
+4200,3,Spiritual,Ajanta Caves
+4200,4,Spiritual,Ajanta Caves
+1000,1,Engineering Marvels,Ellora Caves
+1000,2,Engineering Marvels,Ellora Caves
+1000,3,Engineering Marvels,Ellora Caves
+1000,4,Engineering Marvels,Ellora Caves
+1800,1,Engineering Marvels,Ellora Caves
+1800,2,Engineering Marvels,Ellora Caves
+1800,3,Engineering Marvels,Ellora Caves
+1800,4,Engineering Marvels,Ellora Caves
+2800,1,Engineering Marvels,Ellora Caves
+2800,2,Engineering Marvels,Ellora Caves
+2800,3,Engineering Marvels,Ellora Caves
+2800,4,Engineering Marvels,Ellora Caves
+4200,1,Engineering Marvels,Ellora Caves
+4200,2,Engineering Marvels,Ellora Caves
+4200,3,Engineering Marvels,Ellora Caves
+4200,4,Engineering Marvels,Ellora Caves
+1000,1,Historical,Ellora Caves
+1000,2,Historical,Ellora Caves
+1000,3,Historical,Ellora Caves
+1000,4,Historical,Ellora Caves
+1800,1,Historical,Ellora Caves
+1800,2,Historical,Ellora Caves
+1800,3,Historical,Ellora Caves
+1800,4,Historical,Ellora Caves
+2800,1,Historical,Ellora Caves
+2800,2,Historical,Ellora Caves
+2800,3,Historical,Ellora Caves
+2800,4,Historical,Ellora Caves
+4200,1,Historical,Ellora Caves
+4200,2,Historical,Ellora Caves
+4200,3,Historical,Ellora Caves
+4200,4,Historical,Ellora Caves
+1000,1,Culture,Ellora Caves
+1000,2,Culture,Ellora Caves
+1000,3,Culture,Ellora Caves
+1000,4,Culture,Ellora Caves
+1800,1,Culture,Ellora Caves
+1800,2,Culture,Ellora Caves
+1800,3,Culture,Ellora Caves
+1800,4,Culture,Ellora Caves
+2800,1,Culture,Ellora Caves
+2800,2,Culture,Ellora Caves
+2800,3,Culture,Ellora Caves
+2800,4,Culture,Ellora Caves
+4200,1,Culture,Ellora Caves
+4200,2,Culture,Ellora Caves
+4200,3,Culture,Ellora Caves
+4200,4,Culture,Ellora Caves
+1000,1,Spiritual,Ellora Caves
+1000,2,Spiritual,Ellora Caves
+1000,3,Spiritual,Ellora Caves
+1000,4,Spiritual,Ellora Caves
+1800,1,Spiritual,Ellora Caves
+1800,2,Spiritual,Ellora Caves
+1800,3,Spiritual,Ellora Caves
+1800,4,Spiritual,Ellora Caves
+2800,1,Spiritual,Ellora Caves
+2800,2,Spiritual,Ellora Caves
+2800,3,Spiritual,Ellora Caves
+2800,4,Spiritual,Ellora Caves
+4200,1,Spiritual,Ellora Caves
+4200,2,Spiritual,Ellora Caves
+4200,3,Spiritual,Ellora Caves
+4200,4,Spiritual,Ellora Caves
+1000,1,Engineering Marvels,Kailasa Temple
+1000,2,Engineering Marvels,Kailasa Temple
+1000,3,Engineering Marvels,Kailasa Temple
+1000,4,Engineering Marvels,Kailasa Temple
+1800,1,Engineering Marvels,Kailasa Temple
+1800,2,Engineering Marvels,Kailasa Temple
+1800,3,Engineering Marvels,Kailasa Temple
+1800,4,Engineering Marvels,Kailasa Temple
+2800,1,Engineering Marvels,Kailasa Temple
+2800,2,Engineering Marvels,Kailasa Temple
+2800,3,Engineering Marvels,Kailasa Temple
+2800,4,Engineering Marvels,Kailasa Temple
+4200,1,Engineering Marvels,Kailasa Temple
+4200,2,Engineering Marvels,Kailasa Temple
+4200,3,Engineering Marvels,Kailasa Temple
+4200,4,Engineering Marvels,Kailasa Temple
+1000,1,Historical,Kailasa Temple
+1000,2,Historical,Kailasa Temple
+1000,3,Historical,Kailasa Temple
+1000,4,Historical,Kailasa Temple
+1800,1,Historical,Kailasa Temple
+1800,2,Historical,Kailasa Temple
+1800,3,Historical,Kailasa Temple
+1800,4,Historical,Kailasa Temple
+2800,1,Historical,Kailasa Temple
+2800,2,Historical,Kailasa Temple
+2800,3,Historical,Kailasa Temple
+2800,4,Historical,Kailasa Temple
+4200,1,Historical,Kailasa Temple
+4200,2,Historical,Kailasa Temple
+4200,3,Historical,Kailasa Temple
+4200,4,Historical,Kailasa Temple
+1000,1,Culture,Kailasa Temple
+1000,2,Culture,Kailasa Temple
+1000,3,Culture,Kailasa Temple
+1000,4,Culture,Kailasa Temple
+1800,1,Culture,Kailasa Temple
+1800,2,Culture,Kailasa Temple
+1800,3,Culture,Kailasa Temple
+1800,4,Culture,Kailasa Temple
+2800,1,Culture,Kailasa Temple
+2800,2,Culture,Kailasa Temple
+2800,3,Culture,Kailasa Temple
+2800,4,Culture,Kailasa Temple
+4200,1,Culture,Kailasa Temple
+4200,2,Culture,Kailasa Temple
+4200,3,Culture,Kailasa Temple
+4200,4,Culture,Kailasa Temple
+1000,1,Spiritual,Kailasa Temple
+1000,2,Spiritual,Kailasa Temple
+1000,3,Spiritual,Kailasa Temple
+1000,4,Spiritual,Kailasa Temple
+1800,1,Spiritual,Kailasa Temple
+1800,2,Spiritual,Kailasa Temple
+1800,3,Spiritual,Kailasa Temple
+1800,4,Spiritual,Kailasa Temple
+2800,1,Spiritual,Kailasa Temple
+2800,2,Spiritual,Kailasa Temple
+2800,3,Spiritual,Kailasa Temple
+2800,4,Spiritual,Kailasa Temple
+4200,1,Spiritual,Kailasa Temple
+4200,2,Spiritual,Kailasa Temple
+4200,3,Spiritual,Kailasa Temple
+4200,4,Spiritual,Kailasa Temple
+1000,1,Natural Wonders,Lonar Crater
+1000,2,Natural Wonders,Lonar Crater
+1000,3,Natural Wonders,Lonar Crater
+1000,4,Natural Wonders,Lonar Crater
+1800,1,Natural Wonders,Lonar Crater
+1800,2,Natural Wonders,Lonar Crater
+1800,3,Natural Wonders,Lonar Crater
+1800,4,Natural Wonders,Lonar Crater
+2800,1,Natural Wonders,Lonar Crater
+2800,2,Natural Wonders,Lonar Crater
+2800,3,Natural Wonders,Lonar Crater
+2800,4,Natural Wonders,Lonar Crater
+4200,1,Natural Wonders,Lonar Crater
+4200,2,Natural Wonders,Lonar Crater
+4200,3,Natural Wonders,Lonar Crater
+4200,4,Natural Wonders,Lonar Crater
+1000,1,Nature,Lonar Crater
+1000,2,Nature,Lonar Crater
+1000,3,Nature,Lonar Crater
+1000,4,Nature,Lonar Crater
+1800,1,Nature,Lonar Crater
+1800,2,Nature,Lonar Crater
+1800,3,Nature,Lonar Crater
+1800,4,Nature,Lonar Crater
+2800,1,Nature,Lonar Crater
+2800,2,Nature,Lonar Crater
+2800,3,Nature,Lonar Crater
+2800,4,Nature,Lonar Crater
+4200,1,Nature,Lonar Crater
+4200,2,Nature,Lonar Crater
+4200,3,Nature,Lonar Crater
+4200,4,Nature,Lonar Crater
+1000,1,Adventure,Lonar Crater
+1000,2,Adventure,Lonar Crater
+1000,3,Adventure,Lonar Crater
+1000,4,Adventure,Lonar Crater
+1800,1,Adventure,Lonar Crater
+1800,2,Adventure,Lonar Crater
+1800,3,Adventure,Lonar Crater
+1800,4,Adventure,Lonar Crater
+2800,1,Adventure,Lonar Crater
+2800,2,Adventure,Lonar Crater
+2800,3,Adventure,Lonar Crater
+2800,4,Adventure,Lonar Crater
+4200,1,Adventure,Lonar Crater
+4200,2,Adventure,Lonar Crater
+4200,3,Adventure,Lonar Crater
+4200,4,Adventure,Lonar Crater
+1000,1,Spiritual,Lonar Crater
+1000,2,Spiritual,Lonar Crater
+1000,3,Spiritual,Lonar Crater
+1000,4,Spiritual,Lonar Crater
+1800,1,Spiritual,Lonar Crater
+1800,2,Spiritual,Lonar Crater
+1800,3,Spiritual,Lonar Crater
+1800,4,Spiritual,Lonar Crater
+2800,1,Spiritual,Lonar Crater
+2800,2,Spiritual,Lonar Crater
+2800,3,Spiritual,Lonar Crater
+2800,4,Spiritual,Lonar Crater
+4200,1,Spiritual,Lonar Crater
+4200,2,Spiritual,Lonar Crater
+4200,3,Spiritual,Lonar Crater
+4200,4,Spiritual,Lonar Crater
+1000,1,Engineering Marvels,Karla Caves
+1000,2,Engineering Marvels,Karla Caves
+1000,3,Engineering Marvels,Karla Caves
+1000,4,Engineering Marvels,Karla Caves
+1800,1,Engineering Marvels,Karla Caves
+1800,2,Engineering Marvels,Karla Caves
+1800,3,Engineering Marvels,Karla Caves
+1800,4,Engineering Marvels,Karla Caves
+2800,1,Engineering Marvels,Karla Caves
+2800,2,Engineering Marvels,Karla Caves
+2800,3,Engineering Marvels,Karla Caves
+2800,4,Engineering Marvels,Karla Caves
+4200,1,Engineering Marvels,Karla Caves
+4200,2,Engineering Marvels,Karla Caves
+4200,3,Engineering Marvels,Karla Caves
+4200,4,Engineering Marvels,Karla Caves
+1000,1,Historical,Karla Caves
+1000,2,Historical,Karla Caves
+1000,3,Historical,Karla Caves
+1000,4,Historical,Karla Caves
+1800,1,Historical,Karla Caves
+1800,2,Historical,Karla Caves
+1800,3,Historical,Karla Caves
+1800,4,Historical,Karla Caves
+2800,1,Historical,Karla Caves
+2800,2,Historical,Karla Caves
+2800,3,Historical,Karla Caves
+2800,4,Historical,Karla Caves
+4200,1,Historical,Karla Caves
+4200,2,Historical,Karla Caves
+4200,3,Historical,Karla Caves
+4200,4,Historical,Karla Caves
+1000,1,Culture,Karla Caves
+1000,2,Culture,Karla Caves
+1000,3,Culture,Karla Caves
+1000,4,Culture,Karla Caves
+1800,1,Culture,Karla Caves
+1800,2,Culture,Karla Caves
+1800,3,Culture,Karla Caves
+1800,4,Culture,Karla Caves
+2800,1,Culture,Karla Caves
+2800,2,Culture,Karla Caves
+2800,3,Culture,Karla Caves
+2800,4,Culture,Karla Caves
+4200,1,Culture,Karla Caves
+4200,2,Culture,Karla Caves
+4200,3,Culture,Karla Caves
+4200,4,Culture,Karla Caves
+1000,1,Spiritual,Karla Caves
+1000,2,Spiritual,Karla Caves
+1000,3,Spiritual,Karla Caves
+1000,4,Spiritual,Karla Caves
+1800,1,Spiritual,Karla Caves
+1800,2,Spiritual,Karla Caves
+1800,3,Spiritual,Karla Caves
+1800,4,Spiritual,Karla Caves
+2800,1,Spiritual,Karla Caves
+2800,2,Spiritual,Karla Caves
+2800,3,Spiritual,Karla Caves
+2800,4,Spiritual,Karla Caves
+4200,1,Spiritual,Karla Caves
+4200,2,Spiritual,Karla Caves
+4200,3,Spiritual,Karla Caves
+4200,4,Spiritual,Karla Caves
+1000,1,Engineering Marvels,Daulatabad Fort
+1000,2,Engineering Marvels,Daulatabad Fort
+1000,3,Engineering Marvels,Daulatabad Fort
+1000,4,Engineering Marvels,Daulatabad Fort
+1800,1,Engineering Marvels,Daulatabad Fort
+1800,2,Engineering Marvels,Daulatabad Fort
+1800,3,Engineering Marvels,Daulatabad Fort
+1800,4,Engineering Marvels,Daulatabad Fort
+2800,1,Engineering Marvels,Daulatabad Fort
+2800,2,Engineering Marvels,Daulatabad Fort
+2800,3,Engineering Marvels,Daulatabad Fort
+2800,4,Engineering Marvels,Daulatabad Fort
+4200,1,Engineering Marvels,Daulatabad Fort
+4200,2,Engineering Marvels,Daulatabad Fort
+4200,3,Engineering Marvels,Daulatabad Fort
+4200,4,Engineering Marvels,Daulatabad Fort
+1000,1,Historical,Daulatabad Fort
+1000,2,Historical,Daulatabad Fort
+1000,3,Historical,Daulatabad Fort
+1000,4,Historical,Daulatabad Fort
+1800,1,Historical,Daulatabad Fort
+1800,2,Historical,Daulatabad Fort
+1800,3,Historical,Daulatabad Fort
+1800,4,Historical,Daulatabad Fort
+2800,1,Historical,Daulatabad Fort
+2800,2,Historical,Daulatabad Fort
+2800,3,Historical,Daulatabad Fort
+2800,4,Historical,Daulatabad Fort
+4200,1,Historical,Daulatabad Fort
+4200,2,Historical,Daulatabad Fort
+4200,3,Historical,Daulatabad Fort
+4200,4,Historical,Daulatabad Fort
+1000,1,Adventure,Daulatabad Fort
+1000,2,Adventure,Daulatabad Fort
+1000,3,Adventure,Daulatabad Fort
+1000,4,Adventure,Daulatabad Fort
+1800,1,Adventure,Daulatabad Fort
+1800,2,Adventure,Daulatabad Fort
+1800,3,Adventure,Daulatabad Fort
+1800,4,Adventure,Daulatabad Fort
+2800,1,Adventure,Daulatabad Fort
+2800,2,Adventure,Daulatabad Fort
+2800,3,Adventure,Daulatabad Fort
+2800,4,Adventure,Daulatabad Fort
+4200,1,Adventure,Daulatabad Fort
+4200,2,Adventure,Daulatabad Fort
+4200,3,Adventure,Daulatabad Fort
+4200,4,Adventure,Daulatabad Fort
+1000,1,Culture,Daulatabad Fort
+1000,2,Culture,Daulatabad Fort
+1000,3,Culture,Daulatabad Fort
+1000,4,Culture,Daulatabad Fort
+1800,1,Culture,Daulatabad Fort
+1800,2,Culture,Daulatabad Fort
+1800,3,Culture,Daulatabad Fort
+1800,4,Culture,Daulatabad Fort
+2800,1,Culture,Daulatabad Fort
+2800,2,Culture,Daulatabad Fort
+2800,3,Culture,Daulatabad Fort
+2800,4,Culture,Daulatabad Fort
+4200,1,Culture,Daulatabad Fort
+4200,2,Culture,Daulatabad Fort
+4200,3,Culture,Daulatabad Fort
+4200,4,Culture,Daulatabad Fort
+1000,1,Forts,Pune
+1000,2,Forts,Pune
+1000,3,Forts,Pune
+1000,4,Forts,Pune
+1800,1,Forts,Pune
+1800,2,Forts,Pune
+1800,3,Forts,Pune
+1800,4,Forts,Pune
+2800,1,Forts,Pune
+2800,2,Forts,Pune
+2800,3,Forts,Pune
+2800,4,Forts,Pune
+4200,1,Forts,Pune
+4200,2,Forts,Pune
+4200,3,Forts,Pune
+4200,4,Forts,Pune
+1000,1,Forts,Lonavala
+1000,2,Forts,Lonavala
+1000,3,Forts,Lonavala
+1000,4,Forts,Lonavala
+1800,1,Forts,Lonavala
+1800,2,Forts,Lonavala
+1800,3,Forts,Lonavala
+1800,4,Forts,Lonavala
+2800,1,Forts,Lonavala
+2800,2,Forts,Lonavala
+2800,3,Forts,Lonavala
+2800,4,Forts,Lonavala
+4200,1,Forts,Lonavala
+4200,2,Forts,Lonavala
+4200,3,Forts,Lonavala
+4200,4,Forts,Lonavala
+1000,1,Forts,Daulatabad Fort
+1000,2,Forts,Daulatabad Fort
+1000,3,Forts,Daulatabad Fort
+1000,4,Forts,Daulatabad Fort
+1800,1,Forts,Daulatabad Fort
+1800,2,Forts,Daulatabad Fort
+1800,3,Forts,Daulatabad Fort
+1800,4,Forts,Daulatabad Fort
+2800,1,Forts,Daulatabad Fort
+2800,2,Forts,Daulatabad Fort
+2800,3,Forts,Daulatabad Fort
+2800,4,Forts,Daulatabad Fort
+4200,1,Forts,Daulatabad Fort
+4200,2,Forts,Daulatabad Fort
+4200,3,Forts,Daulatabad Fort
+4200,4,Forts,Daulatabad Fort
+1400,1,Zoo & Wildlife,Pune
+1400,2,Zoo & Wildlife,Pune
+1400,4,Zoo & Wildlife,Pune
+2600,1,Zoo & Wildlife,Pune
+2600,2,Zoo & Wildlife,Pune
+2600,4,Zoo & Wildlife,Pune
+3800,1,Zoo & Wildlife,Pune
+3800,2,Zoo & Wildlife,Pune
+3800,4,Zoo & Wildlife,Pune
+2300,1,Beach,Goa
+4200,1,Beach,Goa
+6100,1,Beach,Goa
+2300,1,Adventure,Goa
+4200,1,Adventure,Goa
+6100,1,Adventure,Goa
+2300,1,Nature,Goa
+4200,1,Nature,Goa
+6100,1,Nature,Goa
+2300,1,Food,Goa
+4200,1,Food,Goa
+6100,1,Food,Goa
+2300,1,Culture,Goa
+4200,1,Culture,Goa
+6100,1,Culture,Goa
+1800,1,Historical,Jaipur
+3300,1,Historical,Jaipur
+4800,1,Historical,Jaipur
+1800,1,Culture,Jaipur
+3300,1,Culture,Jaipur
+4800,1,Culture,Jaipur
+1800,1,Shopping,Jaipur
+3300,1,Shopping,Jaipur
+4800,1,Shopping,Jaipur
+1800,1,Food,Jaipur
+3300,1,Food,Jaipur
+4800,1,Food,Jaipur
+2100,1,Nature,Manali
+3900,1,Nature,Manali
+5700,1,Nature,Manali
+2100,1,Adventure,Manali
+3900,1,Adventure,Manali
+5700,1,Adventure,Manali
+2100,1,Culture,Manali
+3900,1,Culture,Manali
+5700,1,Culture,Manali
+2600,1,Culture,Mumbai
+4800,1,Culture,Mumbai
+7000,1,Culture,Mumbai
+2600,1,Food,Mumbai
+4800,1,Food,Mumbai
+7000,1,Food,Mumbai
+2600,1,Shopping,Mumbai
+4800,1,Shopping,Mumbai
+7000,1,Shopping,Mumbai
+2600,1,Beach,Mumbai
+4800,1,Beach,Mumbai
+7000,1,Beach,Mumbai
+2600,1,Historical,Mumbai
+4800,1,Historical,Mumbai
+7000,1,Historical,Mumbai
+2600,1,Zoo & Wildlife,Mumbai
+2600,3,Zoo & Wildlife,Mumbai
+2600,5,Zoo & Wildlife,Mumbai
+4800,1,Zoo & Wildlife,Mumbai
+4800,3,Zoo & Wildlife,Mumbai
+4800,5,Zoo & Wildlife,Mumbai
+7000,1,Zoo & Wildlife,Mumbai
+7000,3,Zoo & Wildlife,Mumbai
+7000,5,Zoo & Wildlife,Mumbai
+2100,1,Historical,Delhi
+3900,1,Historical,Delhi
+5700,1,Historical,Delhi
+2100,1,Culture,Delhi
+3900,1,Culture,Delhi
+5700,1,Culture,Delhi
+2100,1,Food,Delhi
+3900,1,Food,Delhi
+5700,1,Food,Delhi
+2100,1,Shopping,Delhi
+3900,1,Shopping,Delhi
+5700,1,Shopping,Delhi
+2100,1,Spiritual,Delhi
+3900,1,Spiritual,Delhi
+5700,1,Spiritual,Delhi
+2000,1,Historical,Udaipur
+3700,1,Historical,Udaipur
+5400,1,Historical,Udaipur
+2000,1,Culture,Udaipur
+3700,1,Culture,Udaipur
+5400,1,Culture,Udaipur
+2000,1,Nature,Udaipur
+3700,1,Nature,Udaipur
+5400,1,Nature,Udaipur
+2000,1,Food,Udaipur
+3700,1,Food,Udaipur
+5400,1,Food,Udaipur
+1800,1,Nature,Ooty
+3200,1,Nature,Ooty
+4600,1,Nature,Ooty
+1800,1,Adventure,Ooty
+3200,1,Adventure,Ooty
+4600,1,Adventure,Ooty
+1800,1,Food,Ooty
+3200,1,Food,Ooty
+4600,1,Food,Ooty
+2100,1,Nature,Munnar
+3800,1,Nature,Munnar
+5500,1,Nature,Munnar
+2100,1,Adventure,Munnar
+3800,1,Adventure,Munnar
+5500,1,Adventure,Munnar
+2100,1,Culture,Munnar
+3800,1,Culture,Munnar
+5500,1,Culture,Munnar
+1900,1,Nature,Shimla
+3500,1,Nature,Shimla
+5100,1,Nature,Shimla
+1900,1,Adventure,Shimla
+3500,1,Adventure,Shimla
+5100,1,Adventure,Shimla
+1900,1,Culture,Shimla
+3500,1,Culture,Shimla
+5100,1,Culture,Shimla
+1900,1,Shopping,Shimla
+3500,1,Shopping,Shimla
+5100,1,Shopping,Shimla
+1600,1,Adventure,Rishikesh
+2900,1,Adventure,Rishikesh
+4200,1,Adventure,Rishikesh
+1600,1,Spiritual,Rishikesh
+2900,1,Spiritual,Rishikesh
+4200,1,Spiritual,Rishikesh
+1600,1,Nature,Rishikesh
+2900,1,Nature,Rishikesh
+4200,1,Nature,Rishikesh
+2100,1,Food,Bengaluru
+3900,1,Food,Bengaluru
+5700,1,Food,Bengaluru
+2100,1,Nature,Bengaluru
+3900,1,Nature,Bengaluru
+5700,1,Nature,Bengaluru
+2100,1,Culture,Bengaluru
+3900,1,Culture,Bengaluru
+5700,1,Culture,Bengaluru
+2100,1,Shopping,Bengaluru
+3900,1,Shopping,Bengaluru
+5700,1,Shopping,Bengaluru
+1900,1,Beach,Puducherry
+3400,1,Beach,Puducherry
+4900,1,Beach,Puducherry
+1900,1,Culture,Puducherry
+3400,1,Culture,Puducherry
+4900,1,Culture,Puducherry
+1900,1,Nature,Puducherry
+3400,1,Nature,Puducherry
+4900,1,Nature,Puducherry
+1900,1,Food,Puducherry
+3400,1,Food,Puducherry
+4900,1,Food,Puducherry
+1200,1,Engineering Marvels,Ajanta Caves
+1200,3,Engineering Marvels,Ajanta Caves
+2100,1,Engineering Marvels,Ajanta Caves
+2100,3,Engineering Marvels,Ajanta Caves
+3000,1,Engineering Marvels,Ajanta Caves
+3000,3,Engineering Marvels,Ajanta Caves
+1200,1,Historical,Ajanta Caves
+1200,3,Historical,Ajanta Caves
+2100,1,Historical,Ajanta Caves
+2100,3,Historical,Ajanta Caves
+3000,1,Historical,Ajanta Caves
+3000,3,Historical,Ajanta Caves
+1200,1,Culture,Ajanta Caves
+1200,3,Culture,Ajanta Caves
+2100,1,Culture,Ajanta Caves
+2100,3,Culture,Ajanta Caves
+3000,1,Culture,Ajanta Caves
+3000,3,Culture,Ajanta Caves
+1200,1,Spiritual,Ajanta Caves
+1200,3,Spiritual,Ajanta Caves
+2100,1,Spiritual,Ajanta Caves
+2100,3,Spiritual,Ajanta Caves
+3000,1,Spiritual,Ajanta Caves
+3000,3,Spiritual,Ajanta Caves
+1200,1,Engineering Marvels,Ellora Caves
+1200,3,Engineering Marvels,Ellora Caves
+2200,1,Engineering Marvels,Ellora Caves
+2200,3,Engineering Marvels,Ellora Caves
+3200,1,Engineering Marvels,Ellora Caves
+3200,3,Engineering Marvels,Ellora Caves
+1200,1,Historical,Ellora Caves
+1200,3,Historical,Ellora Caves
+2200,1,Historical,Ellora Caves
+2200,3,Historical,Ellora Caves
+3200,1,Historical,Ellora Caves
+3200,3,Historical,Ellora Caves
+1200,1,Culture,Ellora Caves
+1200,3,Culture,Ellora Caves
+2200,1,Culture,Ellora Caves
+2200,3,Culture,Ellora Caves
+3200,1,Culture,Ellora Caves
+3200,3,Culture,Ellora Caves
+1200,1,Spiritual,Ellora Caves
+1200,3,Spiritual,Ellora Caves
+2200,1,Spiritual,Ellora Caves
+2200,3,Spiritual,Ellora Caves
+3200,1,Spiritual,Ellora Caves
+3200,3,Spiritual,Ellora Caves
+1200,1,Engineering Marvels,Kailasa Temple
+1200,3,Engineering Marvels,Kailasa Temple
+2200,1,Engineering Marvels,Kailasa Temple
+2200,3,Engineering Marvels,Kailasa Temple
+3200,1,Engineering Marvels,Kailasa Temple
+3200,3,Engineering Marvels,Kailasa Temple
+1200,1,Historical,Kailasa Temple
+1200,3,Historical,Kailasa Temple
+2200,1,Historical,Kailasa Temple
+2200,3,Historical,Kailasa Temple
+3200,1,Historical,Kailasa Temple
+3200,3,Historical,Kailasa Temple
+1200,1,Culture,Kailasa Temple
+1200,3,Culture,Kailasa Temple
+2200,1,Culture,Kailasa Temple
+2200,3,Culture,Kailasa Temple
+3200,1,Culture,Kailasa Temple
+3200,3,Culture,Kailasa Temple
+1200,1,Spiritual,Kailasa Temple
+1200,3,Spiritual,Kailasa Temple
+2200,1,Spiritual,Kailasa Temple
+2200,3,Spiritual,Kailasa Temple
+3200,1,Spiritual,Kailasa Temple
+3200,3,Spiritual,Kailasa Temple
+2600,1,Natural Wonders,Lonar Crater
+2600,3,Natural Wonders,Lonar Crater
+2600,1,Nature,Lonar Crater
+2600,3,Nature,Lonar Crater
+2600,1,Adventure,Lonar Crater
+2600,3,Adventure,Lonar Crater
+2600,1,Spiritual,Lonar Crater
+2600,3,Spiritual,Lonar Crater
+1000,1,Engineering Marvels,Lonar Crater
+1000,3,Engineering Marvels,Lonar Crater
+1800,1,Engineering Marvels,Lonar Crater
+1800,3,Engineering Marvels,Lonar Crater
+2600,1,Engineering Marvels,Lonar Crater
+2600,3,Engineering Marvels,Lonar Crater
+900,1,Engineering Marvels,Karla Caves
+900,3,Engineering Marvels,Karla Caves
+1700,1,Engineering Marvels,Karla Caves
+1700,3,Engineering Marvels,Karla Caves
+2500,1,Engineering Marvels,Karla Caves
+2500,3,Engineering Marvels,Karla Caves
+900,1,Historical,Karla Caves
+900,3,Historical,Karla Caves
+1700,1,Historical,Karla Caves
+1700,3,Historical,Karla Caves
+2500,1,Historical,Karla Caves
+2500,3,Historical,Karla Caves
+900,1,Culture,Karla Caves
+900,3,Culture,Karla Caves
+1700,1,Culture,Karla Caves
+1700,3,Culture,Karla Caves
+2500,1,Culture,Karla Caves
+2500,3,Culture,Karla Caves
+900,1,Spiritual,Karla Caves
+900,3,Spiritual,Karla Caves
+1700,1,Spiritual,Karla Caves
+1700,3,Spiritual,Karla Caves
+2500,1,Spiritual,Karla Caves
+2500,3,Spiritual,Karla Caves
+2600,1,Forts,Daulatabad Fort
+2600,3,Forts,Daulatabad Fort
+2600,1,Engineering Marvels,Daulatabad Fort
+2600,3,Engineering Marvels,Daulatabad Fort
+2600,1,Historical,Daulatabad Fort
+2600,3,Historical,Daulatabad Fort
+2600,1,Adventure,Daulatabad Fort
+2600,3,Adventure,Daulatabad Fort
+2600,1,Culture,Daulatabad Fort
+2600,3,Culture,Daulatabad Fort
+1400,1,Zoo & Wildlife,Nagpur
+1400,2,Zoo & Wildlife,Nagpur
+1400,4,Zoo & Wildlife,Nagpur
+2500,1,Zoo & Wildlife,Nagpur
+2500,2,Zoo & Wildlife,Nagpur
+2500,4,Zoo & Wildlife,Nagpur
+3600,1,Zoo & Wildlife,Nagpur
+3600,2,Zoo & Wildlife,Nagpur
+3600,4,Zoo & Wildlife,Nagpur
+1400,1,Nature,Nagpur
+1400,2,Nature,Nagpur
+1400,4,Nature,Nagpur
+2500,1,Nature,Nagpur
+2500,2,Nature,Nagpur
+2500,4,Nature,Nagpur
+3600,1,Nature,Nagpur
+3600,2,Nature,Nagpur
+3600,4,Nature,Nagpur
+1400,1,Culture,Nagpur
+1400,2,Culture,Nagpur
+1400,4,Culture,Nagpur
+2500,1,Culture,Nagpur
+2500,2,Culture,Nagpur
+2500,4,Culture,Nagpur
+3600,1,Culture,Nagpur
+3600,2,Culture,Nagpur
+3600,4,Culture,Nagpur
+1400,1,Food,Nagpur
+1400,2,Food,Nagpur
+1400,4,Food,Nagpur
+2500,1,Food,Nagpur
+2500,2,Food,Nagpur
+2500,4,Food,Nagpur
+3600,1,Food,Nagpur
+3600,2,Food,Nagpur
+3600,4,Food,Nagpur
+1400,1,Historical,Nagpur
+1400,2,Historical,Nagpur
+1400,4,Historical,Nagpur
+2500,1,Historical,Nagpur
+2500,2,Historical,Nagpur
+2500,4,Historical,Nagpur
+3600,1,Historical,Nagpur
+3600,2,Historical,Nagpur
+3600,4,Historical,Nagpur
+1300,1,Engineering Marvels,Chhatrapati Sambhajinagar
+1300,2,Engineering Marvels,Chhatrapati Sambhajinagar
+1300,4,Engineering Marvels,Chhatrapati Sambhajinagar
+2400,1,Engineering Marvels,Chhatrapati Sambhajinagar
+2400,2,Engineering Marvels,Chhatrapati Sambhajinagar
+2400,4,Engineering Marvels,Chhatrapati Sambhajinagar
+3500,1,Engineering Marvels,Chhatrapati Sambhajinagar
+3500,2,Engineering Marvels,Chhatrapati Sambhajinagar
+3500,4,Engineering Marvels,Chhatrapati Sambhajinagar
+1300,1,Historical,Chhatrapati Sambhajinagar
+1300,2,Historical,Chhatrapati Sambhajinagar
+1300,4,Historical,Chhatrapati Sambhajinagar
+2400,1,Historical,Chhatrapati Sambhajinagar
+2400,2,Historical,Chhatrapati Sambhajinagar
+2400,4,Historical,Chhatrapati Sambhajinagar
+3500,1,Historical,Chhatrapati Sambhajinagar
+3500,2,Historical,Chhatrapati Sambhajinagar
+3500,4,Historical,Chhatrapati Sambhajinagar
+1300,1,Culture,Chhatrapati Sambhajinagar
+1300,2,Culture,Chhatrapati Sambhajinagar
+1300,4,Culture,Chhatrapati Sambhajinagar
+2400,1,Culture,Chhatrapati Sambhajinagar
+2400,2,Culture,Chhatrapati Sambhajinagar
+2400,4,Culture,Chhatrapati Sambhajinagar
+3500,1,Culture,Chhatrapati Sambhajinagar
+3500,2,Culture,Chhatrapati Sambhajinagar
+3500,4,Culture,Chhatrapati Sambhajinagar
+1300,1,Spiritual,Chhatrapati Sambhajinagar
+1300,2,Spiritual,Chhatrapati Sambhajinagar
+1300,4,Spiritual,Chhatrapati Sambhajinagar
+2400,1,Spiritual,Chhatrapati Sambhajinagar
+2400,2,Spiritual,Chhatrapati Sambhajinagar
+2400,4,Spiritual,Chhatrapati Sambhajinagar
+3500,1,Spiritual,Chhatrapati Sambhajinagar
+3500,2,Spiritual,Chhatrapati Sambhajinagar
+3500,4,Spiritual,Chhatrapati Sambhajinagar
+1300,1,Zoo & Wildlife,Chhatrapati Sambhajinagar
+1300,2,Zoo & Wildlife,Chhatrapati Sambhajinagar
+1300,4,Zoo & Wildlife,Chhatrapati Sambhajinagar
+2400,1,Zoo & Wildlife,Chhatrapati Sambhajinagar
+2400,2,Zoo & Wildlife,Chhatrapati Sambhajinagar
+2400,4,Zoo & Wildlife,Chhatrapati Sambhajinagar
+3500,1,Zoo & Wildlife,Chhatrapati Sambhajinagar
+3500,2,Zoo & Wildlife,Chhatrapati Sambhajinagar
+3500,4,Zoo & Wildlife,Chhatrapati Sambhajinagar
+1700,1,Nature,Mahabaleshwar
+1700,2,Nature,Mahabaleshwar
+1700,4,Nature,Mahabaleshwar
+3000,1,Nature,Mahabaleshwar
+3000,2,Nature,Mahabaleshwar
+3000,4,Nature,Mahabaleshwar
+4400,1,Nature,Mahabaleshwar
+4400,2,Nature,Mahabaleshwar
+4400,4,Nature,Mahabaleshwar
+1700,1,Adventure,Mahabaleshwar
+1700,2,Adventure,Mahabaleshwar
+1700,4,Adventure,Mahabaleshwar
+3000,1,Adventure,Mahabaleshwar
+3000,2,Adventure,Mahabaleshwar
+3000,4,Adventure,Mahabaleshwar
+4400,1,Adventure,Mahabaleshwar
+4400,2,Adventure,Mahabaleshwar
+4400,4,Adventure,Mahabaleshwar
+1700,1,Food,Mahabaleshwar
+1700,2,Food,Mahabaleshwar
+1700,4,Food,Mahabaleshwar
+3000,1,Food,Mahabaleshwar
+3000,2,Food,Mahabaleshwar
+3000,4,Food,Mahabaleshwar
+4400,1,Food,Mahabaleshwar
+4400,2,Food,Mahabaleshwar
+4400,4,Food,Mahabaleshwar
+1700,1,Forts,Mahabaleshwar
+1700,2,Forts,Mahabaleshwar
+1700,4,Forts,Mahabaleshwar
+3000,1,Forts,Mahabaleshwar
+3000,2,Forts,Mahabaleshwar
+3000,4,Forts,Mahabaleshwar
+4400,1,Forts,Mahabaleshwar
+4400,2,Forts,Mahabaleshwar
+4400,4,Forts,Mahabaleshwar
+1700,1,Culture,Mahabaleshwar
+1700,2,Culture,Mahabaleshwar
+1700,4,Culture,Mahabaleshwar
+3000,1,Culture,Mahabaleshwar
+3000,2,Culture,Mahabaleshwar
+3000,4,Culture,Mahabaleshwar
+4400,1,Culture,Mahabaleshwar
+4400,2,Culture,Mahabaleshwar
+4400,4,Culture,Mahabaleshwar
+1400,1,Spiritual,Nashik
+1400,2,Spiritual,Nashik
+1400,4,Spiritual,Nashik
+2600,1,Spiritual,Nashik
+2600,2,Spiritual,Nashik
+2600,4,Spiritual,Nashik
+3800,1,Spiritual,Nashik
+3800,2,Spiritual,Nashik
+3800,4,Spiritual,Nashik
+1400,1,Historical,Nashik
+1400,2,Historical,Nashik
+1400,4,Historical,Nashik
+2600,1,Historical,Nashik
+2600,2,Historical,Nashik
+2600,4,Historical,Nashik
+3800,1,Historical,Nashik
+3800,2,Historical,Nashik
+3800,4,Historical,Nashik
+1400,1,Nature,Nashik
+1400,2,Nature,Nashik
+1400,4,Nature,Nashik
+2600,1,Nature,Nashik
+2600,2,Nature,Nashik
+2600,4,Nature,Nashik
+3800,1,Nature,Nashik
+3800,2,Nature,Nashik
+3800,4,Nature,Nashik
+1400,1,Forts,Nashik
+1400,2,Forts,Nashik
+1400,4,Forts,Nashik
+2600,1,Forts,Nashik
+2600,2,Forts,Nashik
+2600,4,Forts,Nashik
+3800,1,Forts,Nashik
+3800,2,Forts,Nashik
+3800,4,Forts,Nashik
+1400,1,Food,Nashik
+1400,2,Food,Nashik
+1400,4,Food,Nashik
+2600,1,Food,Nashik
+2600,2,Food,Nashik
+2600,4,Food,Nashik
+3800,1,Food,Nashik
+3800,2,Food,Nashik
+3800,4,Food,Nashik
+1400,1,Historical,Kolhapur
+1400,2,Historical,Kolhapur
+1400,4,Historical,Kolhapur
+2500,1,Historical,Kolhapur
+2500,2,Historical,Kolhapur
+2500,4,Historical,Kolhapur
+3600,1,Historical,Kolhapur
+3600,2,Historical,Kolhapur
+3600,4,Historical,Kolhapur
+1400,1,Culture,Kolhapur
+1400,2,Culture,Kolhapur
+1400,4,Culture,Kolhapur
+2500,1,Culture,Kolhapur
+2500,2,Culture,Kolhapur
+2500,4,Culture,Kolhapur
+3600,1,Culture,Kolhapur
+3600,2,Culture,Kolhapur
+3600,4,Culture,Kolhapur
+1400,1,Food,Kolhapur
+1400,2,Food,Kolhapur
+1400,4,Food,Kolhapur
+2500,1,Food,Kolhapur
+2500,2,Food,Kolhapur
+2500,4,Food,Kolhapur
+3600,1,Food,Kolhapur
+3600,2,Food,Kolhapur
+3600,4,Food,Kolhapur
+1400,1,Forts,Kolhapur
+1400,2,Forts,Kolhapur
+1400,4,Forts,Kolhapur
+2500,1,Forts,Kolhapur
+2500,2,Forts,Kolhapur
+2500,4,Forts,Kolhapur
+3600,1,Forts,Kolhapur
+3600,2,Forts,Kolhapur
+3600,4,Forts,Kolhapur
+1400,1,Zoo & Wildlife,Kolhapur
+1400,2,Zoo & Wildlife,Kolhapur
+1400,4,Zoo & Wildlife,Kolhapur
+2500,1,Zoo & Wildlife,Kolhapur
+2500,2,Zoo & Wildlife,Kolhapur
+2500,4,Zoo & Wildlife,Kolhapur
+3600,1,Zoo & Wildlife,Kolhapur
+3600,2,Zoo & Wildlife,Kolhapur
+3600,4,Zoo & Wildlife,Kolhapur
+1200,1,Forts,Satara
+1200,2,Forts,Satara
+1200,4,Forts,Satara
+2200,1,Forts,Satara
+2200,2,Forts,Satara
+2200,4,Forts,Satara
+3200,1,Forts,Satara
+3200,2,Forts,Satara
+3200,4,Forts,Satara
+1200,1,Historical,Satara
+1200,2,Historical,Satara
+1200,4,Historical,Satara
+2200,1,Historical,Satara
+2200,2,Historical,Satara
+2200,4,Historical,Satara
+3200,1,Historical,Satara
+3200,2,Historical,Satara
+3200,4,Historical,Satara
+1200,1,Nature,Satara
+1200,2,Nature,Satara
+1200,4,Nature,Satara
+2200,1,Nature,Satara
+2200,2,Nature,Satara
+2200,4,Nature,Satara
+3200,1,Nature,Satara
+3200,2,Nature,Satara
+3200,4,Nature,Satara
+1200,1,Adventure,Satara
+1200,2,Adventure,Satara
+1200,4,Adventure,Satara
+2200,1,Adventure,Satara
+2200,2,Adventure,Satara
+2200,4,Adventure,Satara
+3200,1,Adventure,Satara
+3200,2,Adventure,Satara
+3200,4,Adventure,Satara
+1700,1,Beach,Alibaug
+1700,2,Beach,Alibaug
+1700,4,Beach,Alibaug
+3000,1,Beach,Alibaug
+3000,2,Beach,Alibaug
+3000,4,Beach,Alibaug
+4400,1,Beach,Alibaug
+4400,2,Beach,Alibaug
+4400,4,Beach,Alibaug
+1700,1,Nature,Alibaug
+1700,2,Nature,Alibaug
+1700,4,Nature,Alibaug
+3000,1,Nature,Alibaug
+3000,2,Nature,Alibaug
+3000,4,Nature,Alibaug
+4400,1,Nature,Alibaug
+4400,2,Nature,Alibaug
+4400,4,Nature,Alibaug
+1700,1,Historical,Alibaug
+1700,2,Historical,Alibaug
+1700,4,Historical,Alibaug
+3000,1,Historical,Alibaug
+3000,2,Historical,Alibaug
+3000,4,Historical,Alibaug
+4400,1,Historical,Alibaug
+4400,2,Historical,Alibaug
+4400,4,Historical,Alibaug
+1700,1,Adventure,Alibaug
+1700,2,Adventure,Alibaug
+1700,4,Adventure,Alibaug
+3000,1,Adventure,Alibaug
+3000,2,Adventure,Alibaug
+3000,4,Adventure,Alibaug
+4400,1,Adventure,Alibaug
+4400,2,Adventure,Alibaug
+4400,4,Adventure,Alibaug
+1500,1,Nature,Matheran
+1500,2,Nature,Matheran
+1500,4,Nature,Matheran
+2800,1,Nature,Matheran
+2800,2,Nature,Matheran
+2800,4,Nature,Matheran
+4100,1,Nature,Matheran
+4100,2,Nature,Matheran
+4100,4,Nature,Matheran
+1500,1,Adventure,Matheran
+1500,2,Adventure,Matheran
+1500,4,Adventure,Matheran
+2800,1,Adventure,Matheran
+2800,2,Adventure,Matheran
+2800,4,Adventure,Matheran
+4100,1,Adventure,Matheran
+4100,2,Adventure,Matheran
+4100,4,Adventure,Matheran
+1500,1,Family,Matheran
+1500,2,Family,Matheran
+1500,4,Family,Matheran
+2800,1,Family,Matheran
+2800,2,Family,Matheran
+2800,4,Family,Matheran
+4100,1,Family,Matheran
+4100,2,Family,Matheran
+4100,4,Family,Matheran
+1300,1,Nature,Bhandardara
+1300,2,Nature,Bhandardara
+1300,4,Nature,Bhandardara
+2400,1,Nature,Bhandardara
+2400,2,Nature,Bhandardara
+2400,4,Nature,Bhandardara
+3500,1,Nature,Bhandardara
+3500,2,Nature,Bhandardara
+3500,4,Nature,Bhandardara
+1300,1,Adventure,Bhandardara
+1300,2,Adventure,Bhandardara
+1300,4,Adventure,Bhandardara
+2400,1,Adventure,Bhandardara
+2400,2,Adventure,Bhandardara
+2400,4,Adventure,Bhandardara
+3500,1,Adventure,Bhandardara
+3500,2,Adventure,Bhandardara
+3500,4,Adventure,Bhandardara
+1300,1,Spiritual,Bhandardara
+1300,2,Spiritual,Bhandardara
+1300,4,Spiritual,Bhandardara
+2400,1,Spiritual,Bhandardara
+2400,2,Spiritual,Bhandardara
+2400,4,Spiritual,Bhandardara
+3500,1,Spiritual,Bhandardara
+3500,2,Spiritual,Bhandardara
+3500,4,Spiritual,Bhandardara
+1300,1,Forts,Raigad
+1300,3,Forts,Raigad
+2300,1,Forts,Raigad
+2300,3,Forts,Raigad
+3300,1,Forts,Raigad
+3300,3,Forts,Raigad
+1300,1,Historical,Raigad
+1300,3,Historical,Raigad
+2300,1,Historical,Raigad
+2300,3,Historical,Raigad
+3300,1,Historical,Raigad
+3300,3,Historical,Raigad
+1300,1,Adventure,Raigad
+1300,3,Adventure,Raigad
+2300,1,Adventure,Raigad
+2300,3,Adventure,Raigad
+3300,1,Adventure,Raigad
+3300,3,Adventure,Raigad
+1300,1,Culture,Raigad
+1300,3,Culture,Raigad
+2300,1,Culture,Raigad
+2300,3,Culture,Raigad
+3300,1,Culture,Raigad
+3300,3,Culture,Raigad
+1500,1,Beach,Malvan
+1500,2,Beach,Malvan
+1500,4,Beach,Malvan
+2800,1,Beach,Malvan
+2800,2,Beach,Malvan
+2800,4,Beach,Malvan
+4100,1,Beach,Malvan
+4100,2,Beach,Malvan
+4100,4,Beach,Malvan
+1500,1,Nature,Malvan
+1500,2,Nature,Malvan
+1500,4,Nature,Malvan
+2800,1,Nature,Malvan
+2800,2,Nature,Malvan
+2800,4,Nature,Malvan
+4100,1,Nature,Malvan
+4100,2,Nature,Malvan
+4100,4,Nature,Malvan
+1500,1,Historical,Malvan
+1500,2,Historical,Malvan
+1500,4,Historical,Malvan
+2800,1,Historical,Malvan
+2800,2,Historical,Malvan
+2800,4,Historical,Malvan
+4100,1,Historical,Malvan
+4100,2,Historical,Malvan
+4100,4,Historical,Malvan
+1500,1,Food,Malvan
+1500,2,Food,Malvan
+1500,4,Food,Malvan
+2800,1,Food,Malvan
+2800,2,Food,Malvan
+2800,4,Food,Malvan
+4100,1,Food,Malvan
+4100,2,Food,Malvan
+4100,4,Food,Malvan
+1200,1,Zoo & Wildlife,Pimpri-Chinchwad
+1200,3,Zoo & Wildlife,Pimpri-Chinchwad
+2200,1,Zoo & Wildlife,Pimpri-Chinchwad
+2200,3,Zoo & Wildlife,Pimpri-Chinchwad
+3200,1,Zoo & Wildlife,Pimpri-Chinchwad
+3200,3,Zoo & Wildlife,Pimpri-Chinchwad
+1200,1,Family,Pimpri-Chinchwad
+1200,3,Family,Pimpri-Chinchwad
+2200,1,Family,Pimpri-Chinchwad
+2200,3,Family,Pimpri-Chinchwad
+3200,1,Family,Pimpri-Chinchwad
+3200,3,Family,Pimpri-Chinchwad
+1200,1,Culture,Pimpri-Chinchwad
+1200,3,Culture,Pimpri-Chinchwad
+2200,1,Culture,Pimpri-Chinchwad
+2200,3,Culture,Pimpri-Chinchwad
+3200,1,Culture,Pimpri-Chinchwad
+3200,3,Culture,Pimpri-Chinchwad
+1200,1,Food,Pimpri-Chinchwad
+1200,3,Food,Pimpri-Chinchwad
+2200,1,Food,Pimpri-Chinchwad
+2200,3,Food,Pimpri-Chinchwad
+3200,1,Food,Pimpri-Chinchwad
+3200,3,Food,Pimpri-Chinchwad
+1400,1,Beach,Ratnagiri
+1400,2,Beach,Ratnagiri
+1400,4,Beach,Ratnagiri
+2600,1,Beach,Ratnagiri
+2600,2,Beach,Ratnagiri
+2600,4,Beach,Ratnagiri
+3800,1,Beach,Ratnagiri
+3800,2,Beach,Ratnagiri
+3800,4,Beach,Ratnagiri
+1400,1,Nature,Ratnagiri
+1400,2,Nature,Ratnagiri
+1400,4,Nature,Ratnagiri
+2600,1,Nature,Ratnagiri
+2600,2,Nature,Ratnagiri
+2600,4,Nature,Ratnagiri
+3800,1,Nature,Ratnagiri
+3800,2,Nature,Ratnagiri
+3800,4,Nature,Ratnagiri
+1400,1,Historical,Ratnagiri
+1400,2,Historical,Ratnagiri
+1400,4,Historical,Ratnagiri
+2600,1,Historical,Ratnagiri
+2600,2,Historical,Ratnagiri
+2600,4,Historical,Ratnagiri
+3800,1,Historical,Ratnagiri
+3800,2,Historical,Ratnagiri
+3800,4,Historical,Ratnagiri
+1400,1,Food,Ratnagiri
+1400,2,Food,Ratnagiri
+1400,4,Food,Ratnagiri
+2600,1,Food,Ratnagiri
+2600,2,Food,Ratnagiri
+2600,4,Food,Ratnagiri
+3800,1,Food,Ratnagiri
+3800,2,Food,Ratnagiri
+3800,4,Food,Ratnagiri
+1400,1,Forts,Ratnagiri
+1400,2,Forts,Ratnagiri
+1400,4,Forts,Ratnagiri
+2600,1,Forts,Ratnagiri
+2600,2,Forts,Ratnagiri
+2600,4,Forts,Ratnagiri
+3800,1,Forts,Ratnagiri
+3800,2,Forts,Ratnagiri
+3800,4,Forts,Ratnagiri
+1900,1,Adventure,Ahmednagar Fort
+1520,1,Adventure,Ahmednagar Fort
+2280,2,Adventure,Ahmednagar Fort
+1900,1,Forts,Ahmednagar Fort
+1520,1,Forts,Ahmednagar Fort
+2280,2,Forts,Ahmednagar Fort
+1900,1,Historical,Ahmednagar Fort
+1520,1,Historical,Ahmednagar Fort
+2280,2,Historical,Ahmednagar Fort
+1900,1,Nature,Ahmednagar Fort
+1520,1,Nature,Ahmednagar Fort
+2280,2,Nature,Ahmednagar Fort
+1900,1,Adventure,Harishchandragad Fort
+1520,1,Adventure,Harishchandragad Fort
+2280,2,Adventure,Harishchandragad Fort
+1900,1,Forts,Harishchandragad Fort
+1520,1,Forts,Harishchandragad Fort
+2280,2,Forts,Harishchandragad Fort
+1900,1,Historical,Harishchandragad Fort
+1520,1,Historical,Harishchandragad Fort
+2280,2,Historical,Harishchandragad Fort
+1900,1,Nature,Harishchandragad Fort
+1520,1,Nature,Harishchandragad Fort
+2280,2,Nature,Harishchandragad Fort
+1900,1,Adventure,Patta Fort
+1520,1,Adventure,Patta Fort
+2280,2,Adventure,Patta Fort
+1900,1,Forts,Patta Fort
+1520,1,Forts,Patta Fort
+2280,2,Forts,Patta Fort
+1900,1,Historical,Patta Fort
+1520,1,Historical,Patta Fort
+2280,2,Historical,Patta Fort
+1900,1,Nature,Patta Fort
+1520,1,Nature,Patta Fort
+2280,2,Nature,Patta Fort
+1900,1,Adventure,Akola Fort
+1520,1,Adventure,Akola Fort
+2280,2,Adventure,Akola Fort
+1900,1,Forts,Akola Fort
+1520,1,Forts,Akola Fort
+2280,2,Forts,Akola Fort
+1900,1,Historical,Akola Fort
+1520,1,Historical,Akola Fort
+2280,2,Historical,Akola Fort
+1900,1,Nature,Akola Fort
+1520,1,Nature,Akola Fort
+2280,2,Nature,Akola Fort
+1900,1,Adventure,Balapur Fort
+1520,1,Adventure,Balapur Fort
+2280,2,Adventure,Balapur Fort
+1900,1,Forts,Balapur Fort
+1520,1,Forts,Balapur Fort
+2280,2,Forts,Balapur Fort
+1900,1,Historical,Balapur Fort
+1520,1,Historical,Balapur Fort
+2280,2,Historical,Balapur Fort
+1900,1,Nature,Balapur Fort
+1520,1,Nature,Balapur Fort
+2280,2,Nature,Balapur Fort
+1900,1,Adventure,Narnala Fort
+1520,1,Adventure,Narnala Fort
+2280,2,Adventure,Narnala Fort
+1900,1,Forts,Narnala Fort
+1520,1,Forts,Narnala Fort
+2280,2,Forts,Narnala Fort
+1900,1,Historical,Narnala Fort
+1520,1,Historical,Narnala Fort
+2280,2,Historical,Narnala Fort
+1900,1,Nature,Narnala Fort
+1520,1,Nature,Narnala Fort
+2280,2,Nature,Narnala Fort
+2800,2,Adventure,Chikhaldara
+2240,1,Adventure,Chikhaldara
+3360,3,Adventure,Chikhaldara
+2800,2,Nature,Chikhaldara
+2240,1,Nature,Chikhaldara
+3360,3,Nature,Chikhaldara
+1900,1,Adventure,Gawilgad Fort
+1520,1,Adventure,Gawilgad Fort
+2280,2,Adventure,Gawilgad Fort
+1900,1,Forts,Gawilgad Fort
+1520,1,Forts,Gawilgad Fort
+2280,2,Forts,Gawilgad Fort
+1900,1,Historical,Gawilgad Fort
+1520,1,Historical,Gawilgad Fort
+2280,2,Historical,Gawilgad Fort
+1900,1,Nature,Gawilgad Fort
+1520,1,Nature,Gawilgad Fort
+2280,2,Nature,Gawilgad Fort
+3800,2,Adventure,Melghat Tiger Reserve
+3040,1,Adventure,Melghat Tiger Reserve
+4560,3,Adventure,Melghat Tiger Reserve
+3800,2,Nature,Melghat Tiger Reserve
+3040,1,Nature,Melghat Tiger Reserve
+4560,3,Nature,Melghat Tiger Reserve
+3800,2,Zoo & Wildlife,Melghat Tiger Reserve
+3040,1,Zoo & Wildlife,Melghat Tiger Reserve
+4560,3,Zoo & Wildlife,Melghat Tiger Reserve
+5000,2,Beach,Port Blair (Sri Vijaya Puram)
+4000,1,Beach,Port Blair (Sri Vijaya Puram)
+6000,3,Beach,Port Blair (Sri Vijaya Puram)
+5000,2,Historical,Port Blair (Sri Vijaya Puram)
+4000,1,Historical,Port Blair (Sri Vijaya Puram)
+6000,3,Historical,Port Blair (Sri Vijaya Puram)
+5000,2,Nature,Port Blair (Sri Vijaya Puram)
+4000,1,Nature,Port Blair (Sri Vijaya Puram)
+6000,3,Nature,Port Blair (Sri Vijaya Puram)
+6500,3,Adventure,Swaraj Dweep (Havelock Island)
+5200,2,Adventure,Swaraj Dweep (Havelock Island)
+7800,4,Adventure,Swaraj Dweep (Havelock Island)
+6500,3,Beach,Swaraj Dweep (Havelock Island)
+5200,2,Beach,Swaraj Dweep (Havelock Island)
+7800,4,Beach,Swaraj Dweep (Havelock Island)
+6500,3,Nature,Swaraj Dweep (Havelock Island)
+5200,2,Nature,Swaraj Dweep (Havelock Island)
+7800,4,Nature,Swaraj Dweep (Havelock Island)
+4200,3,Culture,Tawang
+3360,2,Culture,Tawang
+5040,4,Culture,Tawang
+4200,3,Nature,Tawang
+3360,2,Nature,Tawang
+5040,4,Nature,Tawang
+4200,3,Spiritual,Tawang
+3360,2,Spiritual,Tawang
+5040,4,Spiritual,Tawang
+2600,2,Culture,Guwahati
+2080,1,Culture,Guwahati
+3120,3,Culture,Guwahati
+2600,2,Nature,Guwahati
+2080,1,Nature,Guwahati
+3120,3,Nature,Guwahati
+2600,2,Spiritual,Guwahati
+2080,1,Spiritual,Guwahati
+3120,3,Spiritual,Guwahati
+5000,2,Adventure,Kaziranga National Park
+4000,1,Adventure,Kaziranga National Park
+6000,3,Adventure,Kaziranga National Park
+5000,2,Nature,Kaziranga National Park
+4000,1,Nature,Kaziranga National Park
+6000,3,Nature,Kaziranga National Park
+5000,2,Zoo & Wildlife,Kaziranga National Park
+4000,1,Zoo & Wildlife,Kaziranga National Park
+6000,3,Zoo & Wildlife,Kaziranga National Park
+1440,1,Adventure,Lonar Crater
+2160,2,Adventure,Lonar Crater
+1440,1,Engineering Marvels,Lonar Crater
+2160,2,Engineering Marvels,Lonar Crater
+1440,1,Natural Wonders,Lonar Crater
+2160,2,Natural Wonders,Lonar Crater
+1440,1,Nature,Lonar Crater
+2160,2,Nature,Lonar Crater
+1440,1,Spiritual,Lonar Crater
+2160,2,Spiritual,Lonar Crater
+6000,2,Adventure,Tadoba-Andhari Tiger Reserve
+4800,1,Adventure,Tadoba-Andhari Tiger Reserve
+7200,3,Adventure,Tadoba-Andhari Tiger Reserve
+6000,2,Nature,Tadoba-Andhari Tiger Reserve
+4800,1,Nature,Tadoba-Andhari Tiger Reserve
+7200,3,Nature,Tadoba-Andhari Tiger Reserve
+6000,2,Zoo & Wildlife,Tadoba-Andhari Tiger Reserve
+4800,1,Zoo & Wildlife,Tadoba-Andhari Tiger Reserve
+7200,3,Zoo & Wildlife,Tadoba-Andhari Tiger Reserve
+1440,1,Adventure,Daulatabad Fort
+2160,2,Adventure,Daulatabad Fort
+1440,1,Culture,Daulatabad Fort
+2160,2,Culture,Daulatabad Fort
+1440,1,Engineering Marvels,Daulatabad Fort
+2160,2,Engineering Marvels,Daulatabad Fort
+1440,1,Forts,Daulatabad Fort
+2160,2,Forts,Daulatabad Fort
+1440,1,Historical,Daulatabad Fort
+2160,2,Historical,Daulatabad Fort
+3120,2,Culture,Delhi
+4680,4,Culture,Delhi
+3120,2,Food,Delhi
+4680,4,Food,Delhi
+3120,2,Historical,Delhi
+4680,4,Historical,Delhi
+3120,2,Shopping,Delhi
+4680,4,Shopping,Delhi
+3120,2,Spiritual,Delhi
+4680,4,Spiritual,Delhi
+1900,1,Adventure,Naldurg Fort
+1520,1,Adventure,Naldurg Fort
+2280,2,Adventure,Naldurg Fort
+1900,1,Forts,Naldurg Fort
+1520,1,Forts,Naldurg Fort
+2280,2,Forts,Naldurg Fort
+1900,1,Historical,Naldurg Fort
+1520,1,Historical,Naldurg Fort
+2280,2,Historical,Naldurg Fort
+1900,1,Nature,Naldurg Fort
+1520,1,Nature,Naldurg Fort
+2280,2,Nature,Naldurg Fort
+1900,1,Adventure,Paranda Fort
+1520,1,Adventure,Paranda Fort
+2280,2,Adventure,Paranda Fort
+1900,1,Forts,Paranda Fort
+1520,1,Forts,Paranda Fort
+2280,2,Forts,Paranda Fort
+1900,1,Historical,Paranda Fort
+1520,1,Historical,Paranda Fort
+2280,2,Historical,Paranda Fort
+1900,1,Nature,Paranda Fort
+1520,1,Nature,Paranda Fort
+2280,2,Nature,Paranda Fort
+3360,3,Adventure,Goa
+5040,5,Adventure,Goa
+3360,3,Beach,Goa
+5040,5,Beach,Goa
+3360,3,Culture,Goa
+5040,5,Culture,Goa
+3360,3,Food,Goa
+5040,5,Food,Goa
+3360,3,Nature,Goa
+5040,5,Nature,Goa
+2600,2,Culture,Ahmedabad
+2080,1,Culture,Ahmedabad
+3120,3,Culture,Ahmedabad
+2600,2,Food,Ahmedabad
+2080,1,Food,Ahmedabad
+3120,3,Food,Ahmedabad
+2600,2,Historical,Ahmedabad
+2080,1,Historical,Ahmedabad
+3120,3,Historical,Ahmedabad
+2800,2,Beach,Dwarka
+2240,1,Beach,Dwarka
+3360,3,Beach,Dwarka
+2800,2,Historical,Dwarka
+2240,1,Historical,Dwarka
+3360,3,Historical,Dwarka
+2800,2,Spiritual,Dwarka
+2240,1,Spiritual,Dwarka
+3360,3,Spiritual,Dwarka
+4000,2,Culture,Rann of Kutch
+3200,1,Culture,Rann of Kutch
+4800,3,Culture,Rann of Kutch
+4000,2,Natural Wonders,Rann of Kutch
+3200,1,Natural Wonders,Rann of Kutch
+4800,3,Natural Wonders,Rann of Kutch
+4000,2,Nature,Rann of Kutch
+3200,1,Nature,Rann of Kutch
+4800,3,Nature,Rann of Kutch
+2500,1,Beach,Somnath
+2000,1,Beach,Somnath
+3000,2,Beach,Somnath
+2500,1,Historical,Somnath
+2000,1,Historical,Somnath
+3000,2,Historical,Somnath
+2500,1,Spiritual,Somnath
+2000,1,Spiritual,Somnath
+3000,2,Spiritual,Somnath
+3500,1,Engineering Marvels,Statue of Unity
+2800,1,Engineering Marvels,Statue of Unity
+4200,2,Engineering Marvels,Statue of Unity
+3500,1,Family,Statue of Unity
+2800,1,Family,Statue of Unity
+4200,2,Family,Statue of Unity
+3500,1,Historical,Statue of Unity
+2800,1,Historical,Statue of Unity
+4200,2,Historical,Statue of Unity
+3120,3,Adventure,Manali
+4680,5,Adventure,Manali
+3120,3,Culture,Manali
+4680,5,Culture,Manali
+3120,3,Nature,Manali
+4680,5,Nature,Manali
+2800,2,Adventure,Shimla
+4200,4,Adventure,Shimla
+2800,2,Culture,Shimla
+4200,4,Culture,Shimla
+2800,2,Nature,Shimla
+4200,4,Nature,Shimla
+2800,2,Shopping,Shimla
+4200,4,Shopping,Shimla
+1900,1,Adventure,Parola Fort
+1520,1,Adventure,Parola Fort
+2280,2,Adventure,Parola Fort
+1900,1,Forts,Parola Fort
+1520,1,Forts,Parola Fort
+2280,2,Forts,Parola Fort
+1900,1,Historical,Parola Fort
+1520,1,Historical,Parola Fort
+2280,2,Historical,Parola Fort
+1900,1,Nature,Parola Fort
+1520,1,Nature,Parola Fort
+2280,2,Nature,Parola Fort
+7000,3,Adventure,Amarnath Cave
+5600,2,Adventure,Amarnath Cave
+8400,4,Adventure,Amarnath Cave
+7000,3,Nature,Amarnath Cave
+5600,2,Nature,Amarnath Cave
+8400,4,Nature,Amarnath Cave
+7000,3,Spiritual,Amarnath Cave
+5600,2,Spiritual,Amarnath Cave
+8400,4,Spiritual,Amarnath Cave
+5000,2,Adventure,Gulmarg
+4000,1,Adventure,Gulmarg
+6000,3,Adventure,Gulmarg
+5000,2,Nature,Gulmarg
+4000,1,Nature,Gulmarg
+6000,3,Nature,Gulmarg
+4200,2,Adventure,Pahalgam
+3360,1,Adventure,Pahalgam
+5040,3,Adventure,Pahalgam
+4200,2,Nature,Pahalgam
+3360,1,Nature,Pahalgam
+5040,3,Nature,Pahalgam
+4200,3,Culture,Srinagar
+3360,2,Culture,Srinagar
+5040,4,Culture,Srinagar
+4200,3,Historical,Srinagar
+3360,2,Historical,Srinagar
+5040,4,Historical,Srinagar
+4200,3,Nature,Srinagar
+3360,2,Nature,Srinagar
+5040,4,Nature,Srinagar
+2500,2,Culture,Badami
+2000,1,Culture,Badami
+3000,3,Culture,Badami
+2500,2,Engineering Marvels,Badami
+2000,1,Engineering Marvels,Badami
+3000,3,Engineering Marvels,Badami
+2500,2,Historical,Badami
+2000,1,Historical,Badami
+3000,3,Historical,Badami
+3120,2,Culture,Bengaluru
+4680,4,Culture,Bengaluru
+3120,2,Food,Bengaluru
+4680,4,Food,Bengaluru
+3120,2,Nature,Bengaluru
+4680,4,Nature,Bengaluru
+3120,2,Shopping,Bengaluru
+4680,4,Shopping,Bengaluru
+3300,2,Adventure,Chikmagalur
+2640,1,Adventure,Chikmagalur
+3960,3,Adventure,Chikmagalur
+3300,2,Food,Chikmagalur
+2640,1,Food,Chikmagalur
+3960,3,Food,Chikmagalur
+3300,2,Nature,Chikmagalur
+2640,1,Nature,Chikmagalur
+3960,3,Nature,Chikmagalur
+3500,3,Adventure,Coorg (Kodagu)
+2800,2,Adventure,Coorg (Kodagu)
+4200,4,Adventure,Coorg (Kodagu)
+3500,3,Food,Coorg (Kodagu)
+2800,2,Food,Coorg (Kodagu)
+4200,4,Food,Coorg (Kodagu)
+3500,3,Nature,Coorg (Kodagu)
+2800,2,Nature,Coorg (Kodagu)
+4200,4,Nature,Coorg (Kodagu)
+3000,2,Beach,Gokarna
+2400,1,Beach,Gokarna
+3600,3,Beach,Gokarna
+3000,2,Nature,Gokarna
+2400,1,Nature,Gokarna
+3600,3,Nature,Gokarna
+3000,2,Spiritual,Gokarna
+2400,1,Spiritual,Gokarna
+3600,3,Spiritual,Gokarna
+2800,2,Culture,Hampi
+2240,1,Culture,Hampi
+3360,3,Culture,Hampi
+2800,2,Engineering Marvels,Hampi
+2240,1,Engineering Marvels,Hampi
+3360,3,Engineering Marvels,Hampi
+2800,2,Historical,Hampi
+2240,1,Historical,Hampi
+3360,3,Historical,Hampi
+2240,1,Culture,Mysuru
+3360,3,Culture,Mysuru
+2240,1,Food,Mysuru
+3360,3,Food,Mysuru
+2240,1,Historical,Mysuru
+3360,3,Historical,Mysuru
+2240,1,Nature,Mysuru
+3360,3,Nature,Mysuru
+3500,2,Culture,Alappuzha (Alleppey)
+2800,1,Culture,Alappuzha (Alleppey)
+4200,3,Culture,Alappuzha (Alleppey)
+3500,2,Nature,Alappuzha (Alleppey)
+2800,1,Nature,Alappuzha (Alleppey)
+4200,3,Nature,Alappuzha (Alleppey)
+3000,2,Beach,Kochi
+2400,1,Beach,Kochi
+3600,3,Beach,Kochi
+3000,2,Culture,Kochi
+2400,1,Culture,Kochi
+3600,3,Culture,Kochi
+3000,2,Food,Kochi
+2400,1,Food,Kochi
+3600,3,Food,Kochi
+3000,2,Historical,Kochi
+2400,1,Historical,Kochi
+3600,3,Historical,Kochi
+3200,2,Beach,Kovalam
+2560,1,Beach,Kovalam
+3840,3,Beach,Kovalam
+3200,2,Nature,Kovalam
+2560,1,Nature,Kovalam
+3840,3,Nature,Kovalam
+3040,2,Adventure,Munnar
+4560,4,Adventure,Munnar
+3040,2,Culture,Munnar
+4560,4,Culture,Munnar
+3040,2,Nature,Munnar
+4560,4,Nature,Munnar
+3300,2,Adventure,Thekkady
+2640,1,Adventure,Thekkady
+3960,3,Adventure,Thekkady
+3300,2,Nature,Thekkady
+2640,1,Nature,Thekkady
+3960,3,Nature,Thekkady
+3300,2,Zoo & Wildlife,Thekkady
+2640,1,Zoo & Wildlife,Thekkady
+3960,3,Zoo & Wildlife,Thekkady
+3300,2,Beach,Varkala
+2640,1,Beach,Varkala
+3960,3,Beach,Varkala
+3300,2,Nature,Varkala
+2640,1,Nature,Varkala
+3960,3,Nature,Varkala
+3400,3,Adventure,Wayanad
+2720,2,Adventure,Wayanad
+4080,4,Adventure,Wayanad
+3400,3,Nature,Wayanad
+2720,2,Nature,Wayanad
+4080,4,Nature,Wayanad
+1900,1,Adventure,Bhudargad Fort
+1520,1,Adventure,Bhudargad Fort
+2280,2,Adventure,Bhudargad Fort
+1900,1,Forts,Bhudargad Fort
+1520,1,Forts,Bhudargad Fort
+2280,2,Forts,Bhudargad Fort
+1900,1,Historical,Bhudargad Fort
+1520,1,Historical,Bhudargad Fort
+2280,2,Historical,Bhudargad Fort
+1900,1,Nature,Bhudargad Fort
+1520,1,Nature,Bhudargad Fort
+2280,2,Nature,Bhudargad Fort
+1900,1,Adventure,Panhala Fort
+1520,1,Adventure,Panhala Fort
+2280,2,Adventure,Panhala Fort
+1900,1,Forts,Panhala Fort
+1520,1,Forts,Panhala Fort
+2280,2,Forts,Panhala Fort
+1900,1,Historical,Panhala Fort
+1520,1,Historical,Panhala Fort
+2280,2,Historical,Panhala Fort
+1900,1,Nature,Panhala Fort
+1520,1,Nature,Panhala Fort
+2280,2,Nature,Panhala Fort
+1900,1,Adventure,Pavangad Fort
+1520,1,Adventure,Pavangad Fort
+2280,2,Adventure,Pavangad Fort
+1900,1,Forts,Pavangad Fort
+1520,1,Forts,Pavangad Fort
+2280,2,Forts,Pavangad Fort
+1900,1,Historical,Pavangad Fort
+1520,1,Historical,Pavangad Fort
+2280,2,Historical,Pavangad Fort
+1900,1,Nature,Pavangad Fort
+1520,1,Nature,Pavangad Fort
+2280,2,Nature,Pavangad Fort
+1900,1,Adventure,Vishalgad Fort
+1520,1,Adventure,Vishalgad Fort
+2280,2,Adventure,Vishalgad Fort
+1900,1,Forts,Vishalgad Fort
+1520,1,Forts,Vishalgad Fort
+2280,2,Forts,Vishalgad Fort
+1900,1,Historical,Vishalgad Fort
+1520,1,Historical,Vishalgad Fort
+2280,2,Historical,Vishalgad Fort
+1900,1,Nature,Vishalgad Fort
+1520,1,Nature,Vishalgad Fort
+2280,2,Nature,Vishalgad Fort
+1900,1,Adventure,Rangana Fort
+1520,1,Adventure,Rangana Fort
+2280,2,Adventure,Rangana Fort
+1900,1,Forts,Rangana Fort
+1520,1,Forts,Rangana Fort
+2280,2,Forts,Rangana Fort
+1900,1,Historical,Rangana Fort
+1520,1,Historical,Rangana Fort
+2280,2,Historical,Rangana Fort
+1900,1,Nature,Rangana Fort
+1520,1,Nature,Rangana Fort
+2280,2,Nature,Rangana Fort
+4500,3,Adventure,Leh
+3600,2,Adventure,Leh
+5400,4,Adventure,Leh
+4500,3,Historical,Leh
+3600,2,Historical,Leh
+5400,4,Historical,Leh
+4500,3,Nature,Leh
+3600,2,Nature,Leh
+5400,4,Nature,Leh
+4500,3,Spiritual,Leh
+3600,2,Spiritual,Leh
+5400,4,Spiritual,Leh
+5000,2,Adventure,Nubra Valley
+4000,1,Adventure,Nubra Valley
+6000,3,Adventure,Nubra Valley
+5000,2,Culture,Nubra Valley
+4000,1,Culture,Nubra Valley
+6000,3,Culture,Nubra Valley
+5000,2,Nature,Nubra Valley
+4000,1,Nature,Nubra Valley
+6000,3,Nature,Nubra Valley
+5500,2,Adventure,Pangong Tso
+4400,1,Adventure,Pangong Tso
+6600,3,Adventure,Pangong Tso
+5500,2,Natural Wonders,Pangong Tso
+4400,1,Natural Wonders,Pangong Tso
+6600,3,Natural Wonders,Pangong Tso
+5500,2,Nature,Pangong Tso
+4400,1,Nature,Pangong Tso
+6600,3,Nature,Pangong Tso
+8000,3,Adventure,Kavaratti
+6400,2,Adventure,Kavaratti
+9600,4,Adventure,Kavaratti
+8000,3,Beach,Kavaratti
+6400,2,Beach,Kavaratti
+9600,4,Beach,Kavaratti
+8000,3,Nature,Kavaratti
+6400,2,Nature,Kavaratti
+9600,4,Nature,Kavaratti
+8500,3,Adventure,Lakshadweep Agatti Island
+6800,2,Adventure,Lakshadweep Agatti Island
+10200,4,Adventure,Lakshadweep Agatti Island
+8500,3,Beach,Lakshadweep Agatti Island
+6800,2,Beach,Lakshadweep Agatti Island
+10200,4,Beach,Lakshadweep Agatti Island
+8500,3,Nature,Lakshadweep Agatti Island
+6800,2,Nature,Lakshadweep Agatti Island
+10200,4,Nature,Lakshadweep Agatti Island
+1900,1,Adventure,Udgir Fort
+1520,1,Adventure,Udgir Fort
+2280,2,Adventure,Udgir Fort
+1900,1,Forts,Udgir Fort
+1520,1,Forts,Udgir Fort
+2280,2,Forts,Udgir Fort
+1900,1,Historical,Udgir Fort
+1520,1,Historical,Udgir Fort
+2280,2,Historical,Udgir Fort
+1900,1,Nature,Udgir Fort
+1520,1,Nature,Udgir Fort
+2280,2,Nature,Udgir Fort
+2500,2,Culture,Bhopal
+2000,1,Culture,Bhopal
+3000,3,Culture,Bhopal
+2500,2,Food,Bhopal
+2000,1,Food,Bhopal
+3000,3,Food,Bhopal
+2500,2,Historical,Bhopal
+2000,1,Historical,Bhopal
+3000,3,Historical,Bhopal
+2800,2,Culture,Khajuraho
+2240,1,Culture,Khajuraho
+3360,3,Culture,Khajuraho
+2800,2,Engineering Marvels,Khajuraho
+2240,1,Engineering Marvels,Khajuraho
+3360,3,Engineering Marvels,Khajuraho
+2800,2,Historical,Khajuraho
+2240,1,Historical,Khajuraho
+3360,3,Historical,Khajuraho
+2500,1,Culture,Orchha
+2000,1,Culture,Orchha
+3000,2,Culture,Orchha
+2500,1,Historical,Orchha
+2000,1,Historical,Orchha
+3000,2,Historical,Orchha
+2500,1,Nature,Orchha
+2000,1,Nature,Orchha
+3000,2,Nature,Orchha
+3200,2,Adventure,Pachmarhi
+2560,1,Adventure,Pachmarhi
+3840,3,Adventure,Pachmarhi
+3200,2,Natural Wonders,Pachmarhi
+2560,1,Natural Wonders,Pachmarhi
+3840,3,Natural Wonders,Pachmarhi
+3200,2,Nature,Pachmarhi
+2560,1,Nature,Pachmarhi
+3840,3,Nature,Pachmarhi
+2200,1,Engineering Marvels,Sanchi Stupa
+1760,1,Engineering Marvels,Sanchi Stupa
+2640,2,Engineering Marvels,Sanchi Stupa
+2200,1,Historical,Sanchi Stupa
+1760,1,Historical,Sanchi Stupa
+2640,2,Historical,Sanchi Stupa
+2200,1,Spiritual,Sanchi Stupa
+1760,1,Spiritual,Sanchi Stupa
+2640,2,Spiritual,Sanchi Stupa
+2200,2,Culture,Ujjain
+1760,1,Culture,Ujjain
+2640,3,Culture,Ujjain
+2200,2,Historical,Ujjain
+1760,1,Historical,Ujjain
+2640,3,Historical,Ujjain
+2200,2,Spiritual,Ujjain
+1760,1,Spiritual,Ujjain
+2640,3,Spiritual,Ujjain
+1680,1,Culture,Ajanta Caves
+2520,2,Culture,Ajanta Caves
+1680,1,Engineering Marvels,Ajanta Caves
+2520,2,Engineering Marvels,Ajanta Caves
+1680,1,Historical,Ajanta Caves
+2520,2,Historical,Ajanta Caves
+1680,1,Spiritual,Ajanta Caves
+2520,2,Spiritual,Ajanta Caves
+2400,1,Adventure,Alibaug
+3600,3,Adventure,Alibaug
+2400,1,Beach,Alibaug
+3600,3,Beach,Alibaug
+2400,1,Historical,Alibaug
+3600,3,Historical,Alibaug
+2400,1,Nature,Alibaug
+3600,3,Nature,Alibaug
+1920,1,Adventure,Bhandardara
+2880,3,Adventure,Bhandardara
+1920,1,Nature,Bhandardara
+2880,3,Nature,Bhandardara
+1920,1,Spiritual,Bhandardara
+2880,3,Spiritual,Bhandardara
+2500,2,Historical,Bhimashankar
+2000,1,Historical,Bhimashankar
+3000,3,Historical,Bhimashankar
+2500,2,Nature,Bhimashankar
+2000,1,Nature,Bhimashankar
+3000,3,Nature,Bhimashankar
+2500,2,Spiritual,Bhimashankar
+2000,1,Spiritual,Bhimashankar
+3000,3,Spiritual,Bhimashankar
+1920,1,Culture,Chhatrapati Sambhajinagar
+2880,3,Culture,Chhatrapati Sambhajinagar
+1920,1,Engineering Marvels,Chhatrapati Sambhajinagar
+2880,3,Engineering Marvels,Chhatrapati Sambhajinagar
+1920,1,Historical,Chhatrapati Sambhajinagar
+2880,3,Historical,Chhatrapati Sambhajinagar
+1920,1,Spiritual,Chhatrapati Sambhajinagar
+2880,3,Spiritual,Chhatrapati Sambhajinagar
+1920,1,Zoo & Wildlife,Chhatrapati Sambhajinagar
+2880,3,Zoo & Wildlife,Chhatrapati Sambhajinagar
+1760,1,Culture,Ellora Caves
+2640,2,Culture,Ellora Caves
+1760,1,Engineering Marvels,Ellora Caves
+2640,2,Engineering Marvels,Ellora Caves
+1760,1,Historical,Ellora Caves
+2640,2,Historical,Ellora Caves
+1760,1,Spiritual,Ellora Caves
+2640,2,Spiritual,Ellora Caves
+2000,1,Culture,Kolhapur
+3000,3,Culture,Kolhapur
+2000,1,Food,Kolhapur
+3000,3,Food,Kolhapur
+2000,1,Forts,Kolhapur
+3000,3,Forts,Kolhapur
+2000,1,Historical,Kolhapur
+3000,3,Historical,Kolhapur
+2000,1,Zoo & Wildlife,Kolhapur
+3000,3,Zoo & Wildlife,Kolhapur
+3000,2,Adventure,Lavasa
+2400,1,Adventure,Lavasa
+3600,3,Adventure,Lavasa
+3000,2,Nature,Lavasa
+2400,1,Nature,Lavasa
+3600,3,Nature,Lavasa
+2160,1,Adventure,Lonavala
+3240,3,Adventure,Lonavala
+2160,1,Food,Lonavala
+3240,3,Food,Lonavala
+2160,1,Nature,Lonavala
+3240,3,Nature,Lonavala
+2400,1,Adventure,Mahabaleshwar
+3600,3,Adventure,Mahabaleshwar
+2400,1,Culture,Mahabaleshwar
+3600,3,Culture,Mahabaleshwar
+2400,1,Food,Mahabaleshwar
+3600,3,Food,Mahabaleshwar
+2400,1,Forts,Mahabaleshwar
+3600,3,Forts,Mahabaleshwar
+2400,1,Nature,Mahabaleshwar
+3600,3,Nature,Mahabaleshwar
+2500,2,Adventure,Malshej Ghat
+2000,1,Adventure,Malshej Ghat
+3000,3,Adventure,Malshej Ghat
+2500,2,Natural Wonders,Malshej Ghat
+2000,1,Natural Wonders,Malshej Ghat
+3000,3,Natural Wonders,Malshej Ghat
+2500,2,Nature,Malshej Ghat
+2000,1,Nature,Malshej Ghat
+3000,3,Nature,Malshej Ghat
+2240,1,Beach,Malvan
+3360,3,Beach,Malvan
+2240,1,Food,Malvan
+3360,3,Food,Malvan
+2240,1,Historical,Malvan
+3360,3,Historical,Malvan
+2240,1,Nature,Malvan
+3360,3,Nature,Malvan
+2240,1,Adventure,Matheran
+3360,3,Adventure,Matheran
+2240,1,Family,Matheran
+3360,3,Family,Matheran
+2240,1,Nature,Matheran
+3360,3,Nature,Matheran
+3840,2,Beach,Mumbai
+5760,4,Beach,Mumbai
+3840,2,Culture,Mumbai
+5760,4,Culture,Mumbai
+3840,2,Food,Mumbai
+5760,4,Food,Mumbai
+3840,2,Historical,Mumbai
+5760,4,Historical,Mumbai
+3840,2,Shopping,Mumbai
+5760,4,Shopping,Mumbai
+3840,2,Zoo & Wildlife,Mumbai
+5760,4,Zoo & Wildlife,Mumbai
+2000,1,Culture,Nagpur
+3000,3,Culture,Nagpur
+2000,1,Food,Nagpur
+3000,3,Food,Nagpur
+2000,1,Historical,Nagpur
+3000,3,Historical,Nagpur
+2000,1,Nature,Nagpur
+3000,3,Nature,Nagpur
+2000,1,Zoo & Wildlife,Nagpur
+3000,3,Zoo & Wildlife,Nagpur
+2500,2,Culture,Nanded Hazur Sahib
+2000,1,Culture,Nanded Hazur Sahib
+3000,3,Culture,Nanded Hazur Sahib
+2500,2,Historical,Nanded Hazur Sahib
+2000,1,Historical,Nanded Hazur Sahib
+3000,3,Historical,Nanded Hazur Sahib
+2500,2,Spiritual,Nanded Hazur Sahib
+2000,1,Spiritual,Nanded Hazur Sahib
+3000,3,Spiritual,Nanded Hazur Sahib
+2080,1,Food,Nashik
+3120,3,Food,Nashik
+2080,1,Forts,Nashik
+3120,3,Forts,Nashik
+2080,1,Historical,Nashik
+3120,3,Historical,Nashik
+2080,1,Nature,Nashik
+3120,3,Nature,Nashik
+2080,1,Spiritual,Nashik
+3120,3,Spiritual,Nashik
+1800,1,Culture,Pandharpur
+1440,1,Culture,Pandharpur
+2160,2,Culture,Pandharpur
+1800,1,Spiritual,Pandharpur
+1440,1,Spiritual,Pandharpur
+2160,2,Spiritual,Pandharpur
+1760,1,Culture,Pimpri-Chinchwad
+2640,2,Culture,Pimpri-Chinchwad
+1760,1,Family,Pimpri-Chinchwad
+2640,2,Family,Pimpri-Chinchwad
+1760,1,Food,Pimpri-Chinchwad
+2640,2,Food,Pimpri-Chinchwad
+1760,1,Zoo & Wildlife,Pimpri-Chinchwad
+2640,2,Zoo & Wildlife,Pimpri-Chinchwad
+2080,1,Culture,Pune
+3120,3,Culture,Pune
+2080,1,Food,Pune
+3120,3,Food,Pune
+2080,1,Historical,Pune
+3120,3,Historical,Pune
+2080,1,Nature,Pune
+3120,3,Nature,Pune
+2080,1,Zoo & Wildlife,Pune
+3120,3,Zoo & Wildlife,Pune
+1840,1,Adventure,Raigad
+2760,2,Adventure,Raigad
+1840,1,Culture,Raigad
+2760,2,Culture,Raigad
+1840,1,Forts,Raigad
+2760,2,Forts,Raigad
+1840,1,Historical,Raigad
+2760,2,Historical,Raigad
+2080,1,Beach,Ratnagiri
+3120,3,Beach,Ratnagiri
+2080,1,Food,Ratnagiri
+3120,3,Food,Ratnagiri
+2080,1,Forts,Ratnagiri
+3120,3,Forts,Ratnagiri
+2080,1,Historical,Ratnagiri
+3120,3,Historical,Ratnagiri
+2080,1,Nature,Ratnagiri
+3120,3,Nature,Ratnagiri
+1760,1,Adventure,Satara
+2640,3,Adventure,Satara
+1760,1,Forts,Satara
+2640,3,Forts,Satara
+1760,1,Historical,Satara
+2640,3,Historical,Satara
+1760,1,Nature,Satara
+2640,3,Nature,Satara
+1800,1,Culture,Shani Shingnapur
+1440,1,Culture,Shani Shingnapur
+2160,2,Culture,Shani Shingnapur
+1800,1,Spiritual,Shani Shingnapur
+1440,1,Spiritual,Shani Shingnapur
+2160,2,Spiritual,Shani Shingnapur
+2000,1,Culture,Shirdi
+1600,1,Culture,Shirdi
+2400,2,Culture,Shirdi
+2000,1,Spiritual,Shirdi
+1600,1,Spiritual,Shirdi
+2400,2,Spiritual,Shirdi
+2400,1,Adventure,Tamhini Ghat
+1920,1,Adventure,Tamhini Ghat
+2880,2,Adventure,Tamhini Ghat
+2400,1,Natural Wonders,Tamhini Ghat
+1920,1,Natural Wonders,Tamhini Ghat
+2880,2,Natural Wonders,Tamhini Ghat
+2400,1,Nature,Tamhini Ghat
+1920,1,Nature,Tamhini Ghat
+2880,2,Nature,Tamhini Ghat
+2200,1,Historical,Trimbakeshwar
+1760,1,Historical,Trimbakeshwar
+2640,2,Historical,Trimbakeshwar
+2200,1,Nature,Trimbakeshwar
+1760,1,Nature,Trimbakeshwar
+2640,2,Nature,Trimbakeshwar
+2200,1,Spiritual,Trimbakeshwar
+1760,1,Spiritual,Trimbakeshwar
+2640,2,Spiritual,Trimbakeshwar
+2000,1,Culture,Tuljapur
+1600,1,Culture,Tuljapur
+2400,2,Culture,Tuljapur
+2000,1,Historical,Tuljapur
+1600,1,Historical,Tuljapur
+2400,2,Historical,Tuljapur
+2000,1,Spiritual,Tuljapur
+1600,1,Spiritual,Tuljapur
+2400,2,Spiritual,Tuljapur
+3500,2,Adventure,Cherrapunji (Sohra)
+2800,1,Adventure,Cherrapunji (Sohra)
+4200,3,Adventure,Cherrapunji (Sohra)
+3500,2,Natural Wonders,Cherrapunji (Sohra)
+2800,1,Natural Wonders,Cherrapunji (Sohra)
+4200,3,Natural Wonders,Cherrapunji (Sohra)
+3500,2,Nature,Cherrapunji (Sohra)
+2800,1,Nature,Cherrapunji (Sohra)
+4200,3,Nature,Cherrapunji (Sohra)
+3300,2,Adventure,Shillong
+2640,1,Adventure,Shillong
+3960,3,Adventure,Shillong
+3300,2,Culture,Shillong
+2640,1,Culture,Shillong
+3960,3,Culture,Shillong
+3300,2,Nature,Shillong
+2640,1,Nature,Shillong
+3960,3,Nature,Shillong
+2600,2,Beach,Aksa Beach
+2080,1,Beach,Aksa Beach
+3120,3,Beach,Aksa Beach
+2600,2,Food,Aksa Beach
+2080,1,Food,Aksa Beach
+3120,3,Food,Aksa Beach
+2600,2,Nature,Aksa Beach
+2080,1,Nature,Aksa Beach
+3120,3,Nature,Aksa Beach
+2600,2,Beach,Girgaon Chowpatty Beach
+2080,1,Beach,Girgaon Chowpatty Beach
+3120,3,Beach,Girgaon Chowpatty Beach
+2600,2,Food,Girgaon Chowpatty Beach
+2080,1,Food,Girgaon Chowpatty Beach
+3120,3,Food,Girgaon Chowpatty Beach
+2600,2,Nature,Girgaon Chowpatty Beach
+2080,1,Nature,Girgaon Chowpatty Beach
+3120,3,Nature,Girgaon Chowpatty Beach
+2600,2,Beach,Gorai Beach
+2080,1,Beach,Gorai Beach
+3120,3,Beach,Gorai Beach
+2600,2,Food,Gorai Beach
+2080,1,Food,Gorai Beach
+3120,3,Food,Gorai Beach
+2600,2,Nature,Gorai Beach
+2080,1,Nature,Gorai Beach
+3120,3,Nature,Gorai Beach
+2600,2,Beach,Juhu Beach
+2080,1,Beach,Juhu Beach
+3120,3,Beach,Juhu Beach
+2600,2,Food,Juhu Beach
+2080,1,Food,Juhu Beach
+3120,3,Food,Juhu Beach
+2600,2,Nature,Juhu Beach
+2080,1,Nature,Juhu Beach
+3120,3,Nature,Juhu Beach
+2600,2,Beach,Versova Beach
+2080,1,Beach,Versova Beach
+3120,3,Beach,Versova Beach
+2600,2,Food,Versova Beach
+2080,1,Food,Versova Beach
+3120,3,Food,Versova Beach
+2600,2,Nature,Versova Beach
+2080,1,Nature,Versova Beach
+3120,3,Nature,Versova Beach
+1900,1,Adventure,Ahivant Fort
+1520,1,Adventure,Ahivant Fort
+2280,2,Adventure,Ahivant Fort
+1900,1,Forts,Ahivant Fort
+1520,1,Forts,Ahivant Fort
+2280,2,Forts,Ahivant Fort
+1900,1,Historical,Ahivant Fort
+1520,1,Historical,Ahivant Fort
+2280,2,Historical,Ahivant Fort
+1900,1,Nature,Ahivant Fort
+1520,1,Nature,Ahivant Fort
+2280,2,Nature,Ahivant Fort
+1900,1,Adventure,Alang Fort
+1520,1,Adventure,Alang Fort
+2280,2,Adventure,Alang Fort
+1900,1,Forts,Alang Fort
+1520,1,Forts,Alang Fort
+2280,2,Forts,Alang Fort
+1900,1,Historical,Alang Fort
+1520,1,Historical,Alang Fort
+2280,2,Historical,Alang Fort
+1900,1,Nature,Alang Fort
+1520,1,Nature,Alang Fort
+2280,2,Nature,Alang Fort
+1900,1,Adventure,Anjaneri Fort
+1520,1,Adventure,Anjaneri Fort
+2280,2,Adventure,Anjaneri Fort
+1900,1,Forts,Anjaneri Fort
+1520,1,Forts,Anjaneri Fort
+2280,2,Forts,Anjaneri Fort
+1900,1,Historical,Anjaneri Fort
+1520,1,Historical,Anjaneri Fort
+2280,2,Historical,Anjaneri Fort
+1900,1,Nature,Anjaneri Fort
+1520,1,Nature,Anjaneri Fort
+2280,2,Nature,Anjaneri Fort
+1900,1,Adventure,Dhodap Fort
+1520,1,Adventure,Dhodap Fort
+2280,2,Adventure,Dhodap Fort
+1900,1,Forts,Dhodap Fort
+1520,1,Forts,Dhodap Fort
+2280,2,Forts,Dhodap Fort
+1900,1,Historical,Dhodap Fort
+1520,1,Historical,Dhodap Fort
+2280,2,Historical,Dhodap Fort
+1900,1,Nature,Dhodap Fort
+1520,1,Nature,Dhodap Fort
+2280,2,Nature,Dhodap Fort
+1900,1,Adventure,Harihar Fort
+1520,1,Adventure,Harihar Fort
+2280,2,Adventure,Harihar Fort
+1900,1,Forts,Harihar Fort
+1520,1,Forts,Harihar Fort
+2280,2,Forts,Harihar Fort
+1900,1,Historical,Harihar Fort
+1520,1,Historical,Harihar Fort
+2280,2,Historical,Harihar Fort
+1900,1,Nature,Harihar Fort
+1520,1,Nature,Harihar Fort
+2280,2,Nature,Harihar Fort
+1900,1,Adventure,Kulang Fort
+1520,1,Adventure,Kulang Fort
+2280,2,Adventure,Kulang Fort
+1900,1,Forts,Kulang Fort
+1520,1,Forts,Kulang Fort
+2280,2,Forts,Kulang Fort
+1900,1,Historical,Kulang Fort
+1520,1,Historical,Kulang Fort
+2280,2,Historical,Kulang Fort
+1900,1,Nature,Kulang Fort
+1520,1,Nature,Kulang Fort
+2280,2,Nature,Kulang Fort
+1900,1,Adventure,Madan Fort
+1520,1,Adventure,Madan Fort
+2280,2,Adventure,Madan Fort
+1900,1,Forts,Madan Fort
+1520,1,Forts,Madan Fort
+2280,2,Forts,Madan Fort
+1900,1,Historical,Madan Fort
+1520,1,Historical,Madan Fort
+2280,2,Historical,Madan Fort
+1900,1,Nature,Madan Fort
+1520,1,Nature,Madan Fort
+2280,2,Nature,Madan Fort
+1900,1,Adventure,Markandeya Fort
+1520,1,Adventure,Markandeya Fort
+2280,2,Adventure,Markandeya Fort
+1900,1,Forts,Markandeya Fort
+1520,1,Forts,Markandeya Fort
+2280,2,Forts,Markandeya Fort
+1900,1,Historical,Markandeya Fort
+1520,1,Historical,Markandeya Fort
+2280,2,Historical,Markandeya Fort
+1900,1,Nature,Markandeya Fort
+1520,1,Nature,Markandeya Fort
+2280,2,Nature,Markandeya Fort
+1900,1,Adventure,Mulher Fort
+1520,1,Adventure,Mulher Fort
+2280,2,Adventure,Mulher Fort
+1900,1,Forts,Mulher Fort
+1520,1,Forts,Mulher Fort
+2280,2,Forts,Mulher Fort
+1900,1,Historical,Mulher Fort
+1520,1,Historical,Mulher Fort
+2280,2,Historical,Mulher Fort
+1900,1,Nature,Mulher Fort
+1520,1,Nature,Mulher Fort
+2280,2,Nature,Mulher Fort
+3500,2,Food,Nashik Wine Region
+2800,1,Food,Nashik Wine Region
+4200,3,Food,Nashik Wine Region
+3500,2,Nature,Nashik Wine Region
+2800,1,Nature,Nashik Wine Region
+4200,3,Nature,Nashik Wine Region
+1900,1,Adventure,Ramshej Fort
+1520,1,Adventure,Ramshej Fort
+2280,2,Adventure,Ramshej Fort
+1900,1,Forts,Ramshej Fort
+1520,1,Forts,Ramshej Fort
+2280,2,Forts,Ramshej Fort
+1900,1,Historical,Ramshej Fort
+1520,1,Historical,Ramshej Fort
+2280,2,Historical,Ramshej Fort
+1900,1,Nature,Ramshej Fort
+1520,1,Nature,Ramshej Fort
+2280,2,Nature,Ramshej Fort
+1900,1,Adventure,Salher Fort
+1520,1,Adventure,Salher Fort
+2280,2,Adventure,Salher Fort
+1900,1,Forts,Salher Fort
+1520,1,Forts,Salher Fort
+2280,2,Forts,Salher Fort
+1900,1,Historical,Salher Fort
+1520,1,Historical,Salher Fort
+2280,2,Historical,Salher Fort
+1900,1,Nature,Salher Fort
+1520,1,Nature,Salher Fort
+2280,2,Nature,Salher Fort
+1900,1,Adventure,Tringalwadi Fort
+1520,1,Adventure,Tringalwadi Fort
+2280,2,Adventure,Tringalwadi Fort
+1900,1,Forts,Tringalwadi Fort
+1520,1,Forts,Tringalwadi Fort
+2280,2,Forts,Tringalwadi Fort
+1900,1,Historical,Tringalwadi Fort
+1520,1,Historical,Tringalwadi Fort
+2280,2,Historical,Tringalwadi Fort
+1900,1,Nature,Tringalwadi Fort
+1520,1,Nature,Tringalwadi Fort
+2280,2,Nature,Tringalwadi Fort
+1360,1,Culture,Karla Caves
+2040,2,Culture,Karla Caves
+1360,1,Engineering Marvels,Karla Caves
+2040,2,Engineering Marvels,Karla Caves
+1360,1,Historical,Karla Caves
+2040,2,Historical,Karla Caves
+1360,1,Spiritual,Karla Caves
+2040,2,Spiritual,Karla Caves
+2600,2,Culture,Bhubaneswar
+2080,1,Culture,Bhubaneswar
+3120,3,Culture,Bhubaneswar
+2600,2,Historical,Bhubaneswar
+2080,1,Historical,Bhubaneswar
+3120,3,Historical,Bhubaneswar
+2600,2,Spiritual,Bhubaneswar
+2080,1,Spiritual,Bhubaneswar
+3120,3,Spiritual,Bhubaneswar
+3200,1,Natural Wonders,Chilika Lake
+2560,1,Natural Wonders,Chilika Lake
+3840,2,Natural Wonders,Chilika Lake
+3200,1,Nature,Chilika Lake
+2560,1,Nature,Chilika Lake
+3840,2,Nature,Chilika Lake
+3200,1,Zoo & Wildlife,Chilika Lake
+2560,1,Zoo & Wildlife,Chilika Lake
+3840,2,Zoo & Wildlife,Chilika Lake
+2500,1,Culture,Konark Sun Temple
+2000,1,Culture,Konark Sun Temple
+3000,2,Culture,Konark Sun Temple
+2500,1,Engineering Marvels,Konark Sun Temple
+2000,1,Engineering Marvels,Konark Sun Temple
+3000,2,Engineering Marvels,Konark Sun Temple
+2500,1,Historical,Konark Sun Temple
+2000,1,Historical,Konark Sun Temple
+3000,2,Historical,Konark Sun Temple
+2600,2,Beach,Puri
+2080,1,Beach,Puri
+3120,3,Beach,Puri
+2600,2,Culture,Puri
+2080,1,Culture,Puri
+3120,3,Culture,Puri
+2600,2,Spiritual,Puri
+2080,1,Spiritual,Puri
+3120,3,Spiritual,Puri
+1900,1,Adventure,Arnala Fort
+1520,1,Adventure,Arnala Fort
+2280,2,Adventure,Arnala Fort
+1900,1,Forts,Arnala Fort
+1520,1,Forts,Arnala Fort
+2280,2,Forts,Arnala Fort
+1900,1,Historical,Arnala Fort
+1520,1,Historical,Arnala Fort
+2280,2,Historical,Arnala Fort
+1900,1,Nature,Arnala Fort
+1520,1,Nature,Arnala Fort
+2280,2,Nature,Arnala Fort
+2600,2,Beach,Bordi Beach
+2080,1,Beach,Bordi Beach
+3120,3,Beach,Bordi Beach
+2600,2,Food,Bordi Beach
+2080,1,Food,Bordi Beach
+3120,3,Food,Bordi Beach
+2600,2,Nature,Bordi Beach
+2080,1,Nature,Bordi Beach
+3120,3,Nature,Bordi Beach
+2600,2,Beach,Dahanu Beach
+2080,1,Beach,Dahanu Beach
+3120,3,Beach,Dahanu Beach
+2600,2,Food,Dahanu Beach
+2080,1,Food,Dahanu Beach
+3120,3,Food,Dahanu Beach
+2600,2,Nature,Dahanu Beach
+2080,1,Nature,Dahanu Beach
+3120,3,Nature,Dahanu Beach
+2600,2,Beach,Kelwa Beach
+2080,1,Beach,Kelwa Beach
+3120,3,Beach,Kelwa Beach
+2600,2,Food,Kelwa Beach
+2080,1,Food,Kelwa Beach
+3120,3,Food,Kelwa Beach
+2600,2,Nature,Kelwa Beach
+2080,1,Nature,Kelwa Beach
+3120,3,Nature,Kelwa Beach
+1900,1,Adventure,Vasai Fort
+1520,1,Adventure,Vasai Fort
+2280,2,Adventure,Vasai Fort
+1900,1,Forts,Vasai Fort
+1520,1,Forts,Vasai Fort
+2280,2,Forts,Vasai Fort
+1900,1,Historical,Vasai Fort
+1520,1,Historical,Vasai Fort
+2280,2,Historical,Vasai Fort
+1900,1,Nature,Vasai Fort
+1520,1,Nature,Vasai Fort
+2280,2,Nature,Vasai Fort
+2720,2,Beach,Puducherry
+4080,4,Beach,Puducherry
+2720,2,Culture,Puducherry
+4080,4,Culture,Puducherry
+2720,2,Food,Puducherry
+4080,4,Food,Puducherry
+2720,2,Nature,Puducherry
+4080,4,Nature,Puducherry
+1800,1,Culture,Alandi
+1440,1,Culture,Alandi
+2160,2,Culture,Alandi
+1800,1,Spiritual,Alandi
+1440,1,Spiritual,Alandi
+2160,2,Spiritual,Alandi
+1800,1,Culture,Dehu
+1440,1,Culture,Dehu
+2160,2,Culture,Dehu
+1800,1,Spiritual,Dehu
+1440,1,Spiritual,Dehu
+2160,2,Spiritual,Dehu
+1900,1,Adventure,Korigad Fort
+1520,1,Adventure,Korigad Fort
+2280,2,Adventure,Korigad Fort
+1900,1,Forts,Korigad Fort
+1520,1,Forts,Korigad Fort
+2280,2,Forts,Korigad Fort
+1900,1,Historical,Korigad Fort
+1520,1,Historical,Korigad Fort
+2280,2,Historical,Korigad Fort
+1900,1,Nature,Korigad Fort
+1520,1,Nature,Korigad Fort
+2280,2,Nature,Korigad Fort
+1900,1,Adventure,Lohagad Fort
+1520,1,Adventure,Lohagad Fort
+2280,2,Adventure,Lohagad Fort
+1900,1,Forts,Lohagad Fort
+1520,1,Forts,Lohagad Fort
+2280,2,Forts,Lohagad Fort
+1900,1,Historical,Lohagad Fort
+1520,1,Historical,Lohagad Fort
+2280,2,Historical,Lohagad Fort
+1900,1,Nature,Lohagad Fort
+1520,1,Nature,Lohagad Fort
+2280,2,Nature,Lohagad Fort
+1900,1,Adventure,Malhargad Fort
+1520,1,Adventure,Malhargad Fort
+2280,2,Adventure,Malhargad Fort
+1900,1,Forts,Malhargad Fort
+1520,1,Forts,Malhargad Fort
+2280,2,Forts,Malhargad Fort
+1900,1,Historical,Malhargad Fort
+1520,1,Historical,Malhargad Fort
+2280,2,Historical,Malhargad Fort
+1900,1,Nature,Malhargad Fort
+1520,1,Nature,Malhargad Fort
+2280,2,Nature,Malhargad Fort
+2500,1,Adventure,Panshet Dam
+2000,1,Adventure,Panshet Dam
+3000,2,Adventure,Panshet Dam
+2500,1,Nature,Panshet Dam
+2000,1,Nature,Panshet Dam
+3000,2,Nature,Panshet Dam
+1900,1,Adventure,Purandar Fort
+1520,1,Adventure,Purandar Fort
+2280,2,Adventure,Purandar Fort
+1900,1,Forts,Purandar Fort
+1520,1,Forts,Purandar Fort
+2280,2,Forts,Purandar Fort
+1900,1,Historical,Purandar Fort
+1520,1,Historical,Purandar Fort
+2280,2,Historical,Purandar Fort
+1900,1,Nature,Purandar Fort
+1520,1,Nature,Purandar Fort
+2280,2,Nature,Purandar Fort
+1900,1,Adventure,Rajgad Fort
+1520,1,Adventure,Rajgad Fort
+2280,2,Adventure,Rajgad Fort
+1900,1,Forts,Rajgad Fort
+1520,1,Forts,Rajgad Fort
+2280,2,Forts,Rajgad Fort
+1900,1,Historical,Rajgad Fort
+1520,1,Historical,Rajgad Fort
+2280,2,Historical,Rajgad Fort
+1900,1,Nature,Rajgad Fort
+1520,1,Nature,Rajgad Fort
+2280,2,Nature,Rajgad Fort
+1900,1,Adventure,Shivneri Fort
+1520,1,Adventure,Shivneri Fort
+2280,2,Adventure,Shivneri Fort
+1900,1,Forts,Shivneri Fort
+1520,1,Forts,Shivneri Fort
+2280,2,Forts,Shivneri Fort
+1900,1,Historical,Shivneri Fort
+1520,1,Historical,Shivneri Fort
+2280,2,Historical,Shivneri Fort
+1900,1,Nature,Shivneri Fort
+1520,1,Nature,Shivneri Fort
+2280,2,Nature,Shivneri Fort
+1900,1,Adventure,Sinhagad Fort
+1520,1,Adventure,Sinhagad Fort
+2280,2,Adventure,Sinhagad Fort
+1900,1,Forts,Sinhagad Fort
+1520,1,Forts,Sinhagad Fort
+2280,2,Forts,Sinhagad Fort
+1900,1,Historical,Sinhagad Fort
+1520,1,Historical,Sinhagad Fort
+2280,2,Historical,Sinhagad Fort
+1900,1,Nature,Sinhagad Fort
+1520,1,Nature,Sinhagad Fort
+2280,2,Nature,Sinhagad Fort
+1900,1,Adventure,Tikona Fort
+1520,1,Adventure,Tikona Fort
+2280,2,Adventure,Tikona Fort
+1900,1,Forts,Tikona Fort
+1520,1,Forts,Tikona Fort
+2280,2,Forts,Tikona Fort
+1900,1,Historical,Tikona Fort
+1520,1,Historical,Tikona Fort
+2280,2,Historical,Tikona Fort
+1900,1,Nature,Tikona Fort
+1520,1,Nature,Tikona Fort
+2280,2,Nature,Tikona Fort
+1900,1,Adventure,Torna Fort
+1520,1,Adventure,Torna Fort
+2280,2,Adventure,Torna Fort
+1900,1,Forts,Torna Fort
+1520,1,Forts,Torna Fort
+2280,2,Forts,Torna Fort
+1900,1,Historical,Torna Fort
+1520,1,Historical,Torna Fort
+2280,2,Historical,Torna Fort
+1900,1,Nature,Torna Fort
+1520,1,Nature,Torna Fort
+2280,2,Nature,Torna Fort
+1900,1,Adventure,Tung Fort
+1520,1,Adventure,Tung Fort
+2280,2,Adventure,Tung Fort
+1900,1,Forts,Tung Fort
+1520,1,Forts,Tung Fort
+2280,2,Forts,Tung Fort
+1900,1,Historical,Tung Fort
+1520,1,Historical,Tung Fort
+2280,2,Historical,Tung Fort
+1900,1,Nature,Tung Fort
+1520,1,Nature,Tung Fort
+2280,2,Nature,Tung Fort
+1900,1,Adventure,Visapur Fort
+1520,1,Adventure,Visapur Fort
+2280,2,Adventure,Visapur Fort
+1900,1,Forts,Visapur Fort
+1520,1,Forts,Visapur Fort
+2280,2,Forts,Visapur Fort
+1900,1,Historical,Visapur Fort
+1520,1,Historical,Visapur Fort
+2280,2,Historical,Visapur Fort
+1900,1,Nature,Visapur Fort
+1520,1,Nature,Visapur Fort
+2280,2,Nature,Visapur Fort
+2000,1,Culture,Amritsar
+3000,3,Culture,Amritsar
+2000,1,Food,Amritsar
+3000,3,Food,Amritsar
+2000,1,Historical,Amritsar
+3000,3,Historical,Amritsar
+2000,1,Spiritual,Amritsar
+3000,3,Spiritual,Amritsar
+2600,2,Beach,Alibaug Beach
+2080,1,Beach,Alibaug Beach
+3120,3,Beach,Alibaug Beach
+2600,2,Food,Alibaug Beach
+2080,1,Food,Alibaug Beach
+3120,3,Food,Alibaug Beach
+2600,2,Nature,Alibaug Beach
+2080,1,Nature,Alibaug Beach
+3120,3,Nature,Alibaug Beach
+1900,1,Adventure,Avchitgad Fort
+1520,1,Adventure,Avchitgad Fort
+2280,2,Adventure,Avchitgad Fort
+1900,1,Forts,Avchitgad Fort
+1520,1,Forts,Avchitgad Fort
+2280,2,Forts,Avchitgad Fort
+1900,1,Historical,Avchitgad Fort
+1520,1,Historical,Avchitgad Fort
+2280,2,Historical,Avchitgad Fort
+1900,1,Nature,Avchitgad Fort
+1520,1,Nature,Avchitgad Fort
+2280,2,Nature,Avchitgad Fort
+2600,2,Beach,Diveagar Beach
+2080,1,Beach,Diveagar Beach
+3120,3,Beach,Diveagar Beach
+2600,2,Food,Diveagar Beach
+2080,1,Food,Diveagar Beach
+3120,3,Food,Diveagar Beach
+2600,2,Nature,Diveagar Beach
+2080,1,Nature,Diveagar Beach
+3120,3,Nature,Diveagar Beach
+1900,1,Adventure,Ghosalgad Fort
+1520,1,Adventure,Ghosalgad Fort
+2280,2,Adventure,Ghosalgad Fort
+1900,1,Forts,Ghosalgad Fort
+1520,1,Forts,Ghosalgad Fort
+2280,2,Forts,Ghosalgad Fort
+1900,1,Historical,Ghosalgad Fort
+1520,1,Historical,Ghosalgad Fort
+2280,2,Historical,Ghosalgad Fort
+1900,1,Nature,Ghosalgad Fort
+1520,1,Nature,Ghosalgad Fort
+2280,2,Nature,Ghosalgad Fort
+2600,2,Beach,Harihareshwar Beach
+2080,1,Beach,Harihareshwar Beach
+3120,3,Beach,Harihareshwar Beach
+2600,2,Food,Harihareshwar Beach
+2080,1,Food,Harihareshwar Beach
+3120,3,Food,Harihareshwar Beach
+2600,2,Nature,Harihareshwar Beach
+2080,1,Nature,Harihareshwar Beach
+3120,3,Nature,Harihareshwar Beach
+1900,1,Adventure,Irshalgad Fort
+1520,1,Adventure,Irshalgad Fort
+2280,2,Adventure,Irshalgad Fort
+1900,1,Forts,Irshalgad Fort
+1520,1,Forts,Irshalgad Fort
+2280,2,Forts,Irshalgad Fort
+1900,1,Historical,Irshalgad Fort
+1520,1,Historical,Irshalgad Fort
+2280,2,Historical,Irshalgad Fort
+1900,1,Nature,Irshalgad Fort
+1520,1,Nature,Irshalgad Fort
+2280,2,Nature,Irshalgad Fort
+1900,1,Adventure,Kalavantin Durg
+1520,1,Adventure,Kalavantin Durg
+2280,2,Adventure,Kalavantin Durg
+1900,1,Forts,Kalavantin Durg
+1520,1,Forts,Kalavantin Durg
+2280,2,Forts,Kalavantin Durg
+1900,1,Historical,Kalavantin Durg
+1520,1,Historical,Kalavantin Durg
+2280,2,Historical,Kalavantin Durg
+1900,1,Nature,Kalavantin Durg
+1520,1,Nature,Kalavantin Durg
+2280,2,Nature,Kalavantin Durg
+1900,1,Adventure,Karnala Fort
+1520,1,Adventure,Karnala Fort
+2280,2,Adventure,Karnala Fort
+1900,1,Forts,Karnala Fort
+1520,1,Forts,Karnala Fort
+2280,2,Forts,Karnala Fort
+1900,1,Historical,Karnala Fort
+1520,1,Historical,Karnala Fort
+2280,2,Historical,Karnala Fort
+1900,1,Nature,Karnala Fort
+1520,1,Nature,Karnala Fort
+2280,2,Nature,Karnala Fort
+2600,2,Beach,Kashid Beach
+2080,1,Beach,Kashid Beach
+3120,3,Beach,Kashid Beach
+2600,2,Food,Kashid Beach
+2080,1,Food,Kashid Beach
+3120,3,Food,Kashid Beach
+2600,2,Nature,Kashid Beach
+2080,1,Nature,Kashid Beach
+3120,3,Nature,Kashid Beach
+1900,1,Adventure,Khanderi Fort
+1520,1,Adventure,Khanderi Fort
+2280,2,Adventure,Khanderi Fort
+1900,1,Forts,Khanderi Fort
+1520,1,Forts,Khanderi Fort
+2280,2,Forts,Khanderi Fort
+1900,1,Historical,Khanderi Fort
+1520,1,Historical,Khanderi Fort
+2280,2,Historical,Khanderi Fort
+1900,1,Nature,Khanderi Fort
+1520,1,Nature,Khanderi Fort
+2280,2,Nature,Khanderi Fort
+2600,2,Beach,Kihim Beach
+2080,1,Beach,Kihim Beach
+3120,3,Beach,Kihim Beach
+2600,2,Food,Kihim Beach
+2080,1,Food,Kihim Beach
+3120,3,Food,Kihim Beach
+2600,2,Nature,Kihim Beach
+2080,1,Nature,Kihim Beach
+3120,3,Nature,Kihim Beach
+1900,1,Adventure,Kulaba Fort
+1520,1,Adventure,Kulaba Fort
+2280,2,Adventure,Kulaba Fort
+1900,1,Forts,Kulaba Fort
+1520,1,Forts,Kulaba Fort
+2280,2,Forts,Kulaba Fort
+1900,1,Historical,Kulaba Fort
+1520,1,Historical,Kulaba Fort
+2280,2,Historical,Kulaba Fort
+1900,1,Nature,Kulaba Fort
+1520,1,Nature,Kulaba Fort
+2280,2,Nature,Kulaba Fort
+2600,2,Beach,Murud Beach
+2080,1,Beach,Murud Beach
+3120,3,Beach,Murud Beach
+2600,2,Food,Murud Beach
+2080,1,Food,Murud Beach
+3120,3,Food,Murud Beach
+2600,2,Nature,Murud Beach
+2080,1,Nature,Murud Beach
+3120,3,Nature,Murud Beach
+1900,1,Adventure,Murud-Janjira Fort
+1520,1,Adventure,Murud-Janjira Fort
+2280,2,Adventure,Murud-Janjira Fort
+1900,1,Forts,Murud-Janjira Fort
+1520,1,Forts,Murud-Janjira Fort
+2280,2,Forts,Murud-Janjira Fort
+1900,1,Historical,Murud-Janjira Fort
+1520,1,Historical,Murud-Janjira Fort
+2280,2,Historical,Murud-Janjira Fort
+1900,1,Nature,Murud-Janjira Fort
+1520,1,Nature,Murud-Janjira Fort
+2280,2,Nature,Murud-Janjira Fort
+2600,2,Beach,Nagaon Beach
+2080,1,Beach,Nagaon Beach
+3120,3,Beach,Nagaon Beach
+2600,2,Food,Nagaon Beach
+2080,1,Food,Nagaon Beach
+3120,3,Food,Nagaon Beach
+2600,2,Nature,Nagaon Beach
+2080,1,Nature,Nagaon Beach
+3120,3,Nature,Nagaon Beach
+1900,1,Adventure,Padmadurg Fort
+1520,1,Adventure,Padmadurg Fort
+2280,2,Adventure,Padmadurg Fort
+1900,1,Forts,Padmadurg Fort
+1520,1,Forts,Padmadurg Fort
+2280,2,Forts,Padmadurg Fort
+1900,1,Historical,Padmadurg Fort
+1520,1,Historical,Padmadurg Fort
+2280,2,Historical,Padmadurg Fort
+1900,1,Nature,Padmadurg Fort
+1520,1,Nature,Padmadurg Fort
+2280,2,Nature,Padmadurg Fort
+1900,1,Adventure,Peb Fort (Vikatgad)
+1520,1,Adventure,Peb Fort (Vikatgad)
+2280,2,Adventure,Peb Fort (Vikatgad)
+1900,1,Forts,Peb Fort (Vikatgad)
+1520,1,Forts,Peb Fort (Vikatgad)
+2280,2,Forts,Peb Fort (Vikatgad)
+1900,1,Historical,Peb Fort (Vikatgad)
+1520,1,Historical,Peb Fort (Vikatgad)
+2280,2,Historical,Peb Fort (Vikatgad)
+1900,1,Nature,Peb Fort (Vikatgad)
+1520,1,Nature,Peb Fort (Vikatgad)
+2280,2,Nature,Peb Fort (Vikatgad)
+1900,1,Adventure,Prabalgad Fort
+1520,1,Adventure,Prabalgad Fort
+2280,2,Adventure,Prabalgad Fort
+1900,1,Forts,Prabalgad Fort
+1520,1,Forts,Prabalgad Fort
+2280,2,Forts,Prabalgad Fort
+1900,1,Historical,Prabalgad Fort
+1520,1,Historical,Prabalgad Fort
+2280,2,Historical,Prabalgad Fort
+1900,1,Nature,Prabalgad Fort
+1520,1,Nature,Prabalgad Fort
+2280,2,Nature,Prabalgad Fort
+1900,1,Adventure,Raigad Fort
+1520,1,Adventure,Raigad Fort
+2280,2,Adventure,Raigad Fort
+1900,1,Forts,Raigad Fort
+1520,1,Forts,Raigad Fort
+2280,2,Forts,Raigad Fort
+1900,1,Historical,Raigad Fort
+1520,1,Historical,Raigad Fort
+2280,2,Historical,Raigad Fort
+1900,1,Nature,Raigad Fort
+1520,1,Nature,Raigad Fort
+2280,2,Nature,Raigad Fort
+1900,1,Adventure,Revdanda Fort
+1520,1,Adventure,Revdanda Fort
+2280,2,Adventure,Revdanda Fort
+1900,1,Forts,Revdanda Fort
+1520,1,Forts,Revdanda Fort
+2280,2,Forts,Revdanda Fort
+1900,1,Historical,Revdanda Fort
+1520,1,Historical,Revdanda Fort
+2280,2,Historical,Revdanda Fort
+1900,1,Nature,Revdanda Fort
+1520,1,Nature,Revdanda Fort
+2280,2,Nature,Revdanda Fort
+1900,1,Adventure,Sagargad Fort
+1520,1,Adventure,Sagargad Fort
+2280,2,Adventure,Sagargad Fort
+1900,1,Forts,Sagargad Fort
+1520,1,Forts,Sagargad Fort
+2280,2,Forts,Sagargad Fort
+1900,1,Historical,Sagargad Fort
+1520,1,Historical,Sagargad Fort
+2280,2,Historical,Sagargad Fort
+1900,1,Nature,Sagargad Fort
+1520,1,Nature,Sagargad Fort
+2280,2,Nature,Sagargad Fort
+2600,2,Beach,Shrivardhan Beach
+2080,1,Beach,Shrivardhan Beach
+3120,3,Beach,Shrivardhan Beach
+2600,2,Food,Shrivardhan Beach
+2080,1,Food,Shrivardhan Beach
+3120,3,Food,Shrivardhan Beach
+2600,2,Nature,Shrivardhan Beach
+2080,1,Nature,Shrivardhan Beach
+3120,3,Nature,Shrivardhan Beach
+1900,1,Adventure,Sudhagad Fort
+1520,1,Adventure,Sudhagad Fort
+2280,2,Adventure,Sudhagad Fort
+1900,1,Forts,Sudhagad Fort
+1520,1,Forts,Sudhagad Fort
+2280,2,Forts,Sudhagad Fort
+1900,1,Historical,Sudhagad Fort
+1520,1,Historical,Sudhagad Fort
+2280,2,Historical,Sudhagad Fort
+1900,1,Nature,Sudhagad Fort
+1520,1,Nature,Sudhagad Fort
+2280,2,Nature,Sudhagad Fort
+1900,1,Adventure,Underi Fort
+1520,1,Adventure,Underi Fort
+2280,2,Adventure,Underi Fort
+1900,1,Forts,Underi Fort
+1520,1,Forts,Underi Fort
+2280,2,Forts,Underi Fort
+1900,1,Historical,Underi Fort
+1520,1,Historical,Underi Fort
+2280,2,Historical,Underi Fort
+1900,1,Nature,Underi Fort
+1520,1,Nature,Underi Fort
+2280,2,Nature,Underi Fort
+2600,2,Beach,Varsoli Beach
+2080,1,Beach,Varsoli Beach
+3120,3,Beach,Varsoli Beach
+2600,2,Food,Varsoli Beach
+2080,1,Food,Varsoli Beach
+3120,3,Food,Varsoli Beach
+2600,2,Nature,Varsoli Beach
+2080,1,Nature,Varsoli Beach
+3120,3,Nature,Varsoli Beach
+2640,2,Culture,Jaipur
+3960,4,Culture,Jaipur
+2640,2,Food,Jaipur
+3960,4,Food,Jaipur
+2640,2,Historical,Jaipur
+3960,4,Historical,Jaipur
+2640,2,Shopping,Jaipur
+3960,4,Shopping,Jaipur
+3500,3,Adventure,Jaisalmer
+2800,2,Adventure,Jaisalmer
+4200,4,Adventure,Jaisalmer
+3500,3,Culture,Jaisalmer
+2800,2,Culture,Jaisalmer
+4200,4,Culture,Jaisalmer
+3500,3,Historical,Jaisalmer
+2800,2,Historical,Jaisalmer
+4200,4,Historical,Jaisalmer
+3300,2,Culture,Jodhpur
+2640,1,Culture,Jodhpur
+3960,3,Culture,Jodhpur
+3300,2,Food,Jodhpur
+2640,1,Food,Jodhpur
+3960,3,Food,Jodhpur
+3300,2,Historical,Jodhpur
+2640,1,Historical,Jodhpur
+3960,3,Historical,Jodhpur
+3000,2,Historical,Mount Abu
+2400,1,Historical,Mount Abu
+3600,3,Historical,Mount Abu
+3000,2,Nature,Mount Abu
+2400,1,Nature,Mount Abu
+3600,3,Nature,Mount Abu
+3000,2,Spiritual,Mount Abu
+2400,1,Spiritual,Mount Abu
+3600,3,Spiritual,Mount Abu
+2500,2,Culture,Pushkar
+2000,1,Culture,Pushkar
+3000,3,Culture,Pushkar
+2500,2,Shopping,Pushkar
+2000,1,Shopping,Pushkar
+3000,3,Shopping,Pushkar
+2500,2,Spiritual,Pushkar
+2000,1,Spiritual,Pushkar
+3000,3,Spiritual,Pushkar
+6500,2,Adventure,Ranthambore National Park
+5200,1,Adventure,Ranthambore National Park
+7800,3,Adventure,Ranthambore National Park
+6500,2,Nature,Ranthambore National Park
+5200,1,Nature,Ranthambore National Park
+7800,3,Nature,Ranthambore National Park
+6500,2,Zoo & Wildlife,Ranthambore National Park
+5200,1,Zoo & Wildlife,Ranthambore National Park
+7800,3,Zoo & Wildlife,Ranthambore National Park
+2960,2,Culture,Udaipur
+4440,4,Culture,Udaipur
+2960,2,Food,Udaipur
+4440,4,Food,Udaipur
+2960,2,Historical,Udaipur
+4440,4,Historical,Udaipur
+2960,2,Nature,Udaipur
+4440,4,Nature,Udaipur
+2600,2,Beach,Aare-Ware Beach
+2080,1,Beach,Aare-Ware Beach
+3120,3,Beach,Aare-Ware Beach
+2600,2,Food,Aare-Ware Beach
+2080,1,Food,Aare-Ware Beach
+3120,3,Food,Aare-Ware Beach
+2600,2,Nature,Aare-Ware Beach
+2080,1,Nature,Aare-Ware Beach
+3120,3,Nature,Aare-Ware Beach
+2600,2,Beach,Bhatye Beach
+2080,1,Beach,Bhatye Beach
+3120,3,Beach,Bhatye Beach
+2600,2,Food,Bhatye Beach
+2080,1,Food,Bhatye Beach
+3120,3,Food,Bhatye Beach
+2600,2,Nature,Bhatye Beach
+2080,1,Nature,Bhatye Beach
+3120,3,Nature,Bhatye Beach
+2600,2,Beach,Dandi Beach
+2080,1,Beach,Dandi Beach
+3120,3,Beach,Dandi Beach
+2600,2,Food,Dandi Beach
+2080,1,Food,Dandi Beach
+3120,3,Food,Dandi Beach
+2600,2,Nature,Dandi Beach
+2080,1,Nature,Dandi Beach
+3120,3,Nature,Dandi Beach
+2800,2,Beach,Dapoli
+2240,1,Beach,Dapoli
+3360,3,Beach,Dapoli
+2800,2,Food,Dapoli
+2240,1,Food,Dapoli
+3360,3,Food,Dapoli
+2800,2,Historical,Dapoli
+2240,1,Historical,Dapoli
+3360,3,Historical,Dapoli
+2800,2,Nature,Dapoli
+2240,1,Nature,Dapoli
+3360,3,Nature,Dapoli
+2600,2,Beach,Ganpatipule Beach
+2080,1,Beach,Ganpatipule Beach
+3120,3,Beach,Ganpatipule Beach
+2600,2,Food,Ganpatipule Beach
+2080,1,Food,Ganpatipule Beach
+3120,3,Food,Ganpatipule Beach
+2600,2,Nature,Ganpatipule Beach
+2080,1,Nature,Ganpatipule Beach
+3120,3,Nature,Ganpatipule Beach
+2600,2,Beach,Guhagar Beach
+2080,1,Beach,Guhagar Beach
+3120,3,Beach,Guhagar Beach
+2600,2,Food,Guhagar Beach
+2080,1,Food,Guhagar Beach
+3120,3,Food,Guhagar Beach
+2600,2,Nature,Guhagar Beach
+2080,1,Nature,Guhagar Beach
+3120,3,Nature,Guhagar Beach
+2600,2,Beach,Harnai Beach
+2080,1,Beach,Harnai Beach
+3120,3,Beach,Harnai Beach
+2600,2,Food,Harnai Beach
+2080,1,Food,Harnai Beach
+3120,3,Food,Harnai Beach
+2600,2,Nature,Harnai Beach
+2080,1,Nature,Harnai Beach
+3120,3,Nature,Harnai Beach
+2600,2,Beach,Kelshi Beach
+2080,1,Beach,Kelshi Beach
+3120,3,Beach,Kelshi Beach
+2600,2,Food,Kelshi Beach
+2080,1,Food,Kelshi Beach
+3120,3,Food,Kelshi Beach
+2600,2,Nature,Kelshi Beach
+2080,1,Nature,Kelshi Beach
+3120,3,Nature,Kelshi Beach
+2600,2,Beach,Ladghar Beach
+2080,1,Beach,Ladghar Beach
+3120,3,Beach,Ladghar Beach
+2600,2,Food,Ladghar Beach
+2080,1,Food,Ladghar Beach
+3120,3,Food,Ladghar Beach
+2600,2,Nature,Ladghar Beach
+2080,1,Nature,Ladghar Beach
+3120,3,Nature,Ladghar Beach
+2600,2,Beach,Mandavi Beach
+2080,1,Beach,Mandavi Beach
+3120,3,Beach,Mandavi Beach
+2600,2,Food,Mandavi Beach
+2080,1,Food,Mandavi Beach
+3120,3,Food,Mandavi Beach
+2600,2,Nature,Mandavi Beach
+2080,1,Nature,Mandavi Beach
+3120,3,Nature,Mandavi Beach
+1900,1,Adventure,Ratnadurg Fort
+1520,1,Adventure,Ratnadurg Fort
+2280,2,Adventure,Ratnadurg Fort
+1900,1,Forts,Ratnadurg Fort
+1520,1,Forts,Ratnadurg Fort
+2280,2,Forts,Ratnadurg Fort
+1900,1,Historical,Ratnadurg Fort
+1520,1,Historical,Ratnadurg Fort
+2280,2,Historical,Ratnadurg Fort
+1900,1,Nature,Ratnadurg Fort
+1520,1,Nature,Ratnadurg Fort
+2280,2,Nature,Ratnadurg Fort
+1900,1,Adventure,Suvarnadurg Fort
+1520,1,Adventure,Suvarnadurg Fort
+2280,2,Adventure,Suvarnadurg Fort
+1900,1,Forts,Suvarnadurg Fort
+1520,1,Forts,Suvarnadurg Fort
+2280,2,Forts,Suvarnadurg Fort
+1900,1,Historical,Suvarnadurg Fort
+1520,1,Historical,Suvarnadurg Fort
+2280,2,Historical,Suvarnadurg Fort
+1900,1,Nature,Suvarnadurg Fort
+1520,1,Nature,Suvarnadurg Fort
+2280,2,Nature,Suvarnadurg Fort
+2600,2,Beach,Velas Beach
+2080,1,Beach,Velas Beach
+3120,3,Beach,Velas Beach
+2600,2,Food,Velas Beach
+2080,1,Food,Velas Beach
+3120,3,Food,Velas Beach
+2600,2,Nature,Velas Beach
+2080,1,Nature,Velas Beach
+3120,3,Nature,Velas Beach
+1900,1,Adventure,Ajinkyatara Fort
+1520,1,Adventure,Ajinkyatara Fort
+2280,2,Adventure,Ajinkyatara Fort
+1900,1,Forts,Ajinkyatara Fort
+1520,1,Forts,Ajinkyatara Fort
+2280,2,Forts,Ajinkyatara Fort
+1900,1,Historical,Ajinkyatara Fort
+1520,1,Historical,Ajinkyatara Fort
+2280,2,Historical,Ajinkyatara Fort
+1900,1,Nature,Ajinkyatara Fort
+1520,1,Nature,Ajinkyatara Fort
+2280,2,Nature,Ajinkyatara Fort
+2600,1,Natural Wonders,Kaas Plateau
+2080,1,Natural Wonders,Kaas Plateau
+3120,2,Natural Wonders,Kaas Plateau
+2600,1,Nature,Kaas Plateau
+2080,1,Nature,Kaas Plateau
+3120,2,Nature,Kaas Plateau
+1900,1,Adventure,Kenjalgad Fort
+1520,1,Adventure,Kenjalgad Fort
+2280,2,Adventure,Kenjalgad Fort
+1900,1,Forts,Kenjalgad Fort
+1520,1,Forts,Kenjalgad Fort
+2280,2,Forts,Kenjalgad Fort
+1900,1,Historical,Kenjalgad Fort
+1520,1,Historical,Kenjalgad Fort
+2280,2,Historical,Kenjalgad Fort
+1900,1,Nature,Kenjalgad Fort
+1520,1,Nature,Kenjalgad Fort
+2280,2,Nature,Kenjalgad Fort
+2800,2,Adventure,Koyna Wildlife Sanctuary
+2240,1,Adventure,Koyna Wildlife Sanctuary
+3360,3,Adventure,Koyna Wildlife Sanctuary
+2800,2,Nature,Koyna Wildlife Sanctuary
+2240,1,Nature,Koyna Wildlife Sanctuary
+3360,3,Nature,Koyna Wildlife Sanctuary
+2800,2,Zoo & Wildlife,Koyna Wildlife Sanctuary
+2240,1,Zoo & Wildlife,Koyna Wildlife Sanctuary
+3360,3,Zoo & Wildlife,Koyna Wildlife Sanctuary
+1900,1,Adventure,Pratapgad Fort
+1520,1,Adventure,Pratapgad Fort
+2280,2,Adventure,Pratapgad Fort
+1900,1,Forts,Pratapgad Fort
+1520,1,Forts,Pratapgad Fort
+2280,2,Forts,Pratapgad Fort
+1900,1,Historical,Pratapgad Fort
+1520,1,Historical,Pratapgad Fort
+2280,2,Historical,Pratapgad Fort
+1900,1,Nature,Pratapgad Fort
+1520,1,Nature,Pratapgad Fort
+2280,2,Nature,Pratapgad Fort
+1900,1,Adventure,Sajjangad Fort
+1520,1,Adventure,Sajjangad Fort
+2280,2,Adventure,Sajjangad Fort
+1900,1,Forts,Sajjangad Fort
+1520,1,Forts,Sajjangad Fort
+2280,2,Forts,Sajjangad Fort
+1900,1,Historical,Sajjangad Fort
+1520,1,Historical,Sajjangad Fort
+2280,2,Historical,Sajjangad Fort
+1900,1,Nature,Sajjangad Fort
+1520,1,Nature,Sajjangad Fort
+2280,2,Nature,Sajjangad Fort
+2300,1,Adventure,Thoseghar Waterfalls
+1840,1,Adventure,Thoseghar Waterfalls
+2760,2,Adventure,Thoseghar Waterfalls
+2300,1,Natural Wonders,Thoseghar Waterfalls
+1840,1,Natural Wonders,Thoseghar Waterfalls
+2760,2,Natural Wonders,Thoseghar Waterfalls
+2300,1,Nature,Thoseghar Waterfalls
+1840,1,Nature,Thoseghar Waterfalls
+2760,2,Nature,Thoseghar Waterfalls
+1900,1,Adventure,Vairatgad Fort
+1520,1,Adventure,Vairatgad Fort
+2280,2,Adventure,Vairatgad Fort
+1900,1,Forts,Vairatgad Fort
+1520,1,Forts,Vairatgad Fort
+2280,2,Forts,Vairatgad Fort
+1900,1,Historical,Vairatgad Fort
+1520,1,Historical,Vairatgad Fort
+2280,2,Historical,Vairatgad Fort
+1900,1,Nature,Vairatgad Fort
+1520,1,Nature,Vairatgad Fort
+2280,2,Nature,Vairatgad Fort
+1900,1,Adventure,Vasota Fort
+1520,1,Adventure,Vasota Fort
+2280,2,Adventure,Vasota Fort
+1900,1,Forts,Vasota Fort
+1520,1,Forts,Vasota Fort
+2280,2,Forts,Vasota Fort
+1900,1,Historical,Vasota Fort
+1520,1,Historical,Vasota Fort
+2280,2,Historical,Vasota Fort
+1900,1,Nature,Vasota Fort
+1520,1,Nature,Vasota Fort
+2280,2,Nature,Vasota Fort
+3500,3,Culture,Gangtok
+2800,2,Culture,Gangtok
+4200,4,Culture,Gangtok
+3500,3,Nature,Gangtok
+2800,2,Nature,Gangtok
+4200,4,Nature,Gangtok
+3500,3,Spiritual,Gangtok
+2800,2,Spiritual,Gangtok
+4200,4,Spiritual,Gangtok
+3500,2,Adventure,Pelling
+2800,1,Adventure,Pelling
+4200,3,Adventure,Pelling
+3500,2,Nature,Pelling
+2800,1,Nature,Pelling
+4200,3,Nature,Pelling
+3500,2,Spiritual,Pelling
+2800,1,Spiritual,Pelling
+4200,3,Spiritual,Pelling
+2500,2,Adventure,Amboli Ghat
+2000,1,Adventure,Amboli Ghat
+3000,3,Adventure,Amboli Ghat
+2500,2,Natural Wonders,Amboli Ghat
+2000,1,Natural Wonders,Amboli Ghat
+3000,3,Natural Wonders,Amboli Ghat
+2500,2,Nature,Amboli Ghat
+2000,1,Nature,Amboli Ghat
+3000,3,Nature,Amboli Ghat
+2600,2,Beach,Bhogwe Beach
+2080,1,Beach,Bhogwe Beach
+3120,3,Beach,Bhogwe Beach
+2600,2,Food,Bhogwe Beach
+2080,1,Food,Bhogwe Beach
+3120,3,Food,Bhogwe Beach
+2600,2,Nature,Bhogwe Beach
+2080,1,Nature,Bhogwe Beach
+3120,3,Nature,Bhogwe Beach
+2600,2,Beach,Devbag Beach
+2080,1,Beach,Devbag Beach
+3120,3,Beach,Devbag Beach
+2600,2,Food,Devbag Beach
+2080,1,Food,Devbag Beach
+3120,3,Food,Devbag Beach
+2600,2,Nature,Devbag Beach
+2080,1,Nature,Devbag Beach
+3120,3,Nature,Devbag Beach
+2600,2,Beach,Kunkeshwar Beach
+2080,1,Beach,Kunkeshwar Beach
+3120,3,Beach,Kunkeshwar Beach
+2600,2,Food,Kunkeshwar Beach
+2080,1,Food,Kunkeshwar Beach
+3120,3,Food,Kunkeshwar Beach
+2600,2,Nature,Kunkeshwar Beach
+2080,1,Nature,Kunkeshwar Beach
+3120,3,Nature,Kunkeshwar Beach
+2600,2,Beach,Malvan Beach
+2080,1,Beach,Malvan Beach
+3120,3,Beach,Malvan Beach
+2600,2,Food,Malvan Beach
+2080,1,Food,Malvan Beach
+3120,3,Food,Malvan Beach
+2600,2,Nature,Malvan Beach
+2080,1,Nature,Malvan Beach
+3120,3,Nature,Malvan Beach
+2400,1,Culture,Sawantwadi
+1920,1,Culture,Sawantwadi
+2880,2,Culture,Sawantwadi
+2400,1,Food,Sawantwadi
+1920,1,Food,Sawantwadi
+2880,2,Food,Sawantwadi
+2400,1,Historical,Sawantwadi
+1920,1,Historical,Sawantwadi
+2880,2,Historical,Sawantwadi
+2600,2,Beach,Shiroda Beach
+2080,1,Beach,Shiroda Beach
+3120,3,Beach,Shiroda Beach
+2600,2,Food,Shiroda Beach
+2080,1,Food,Shiroda Beach
+3120,3,Food,Shiroda Beach
+2600,2,Nature,Shiroda Beach
+2080,1,Nature,Shiroda Beach
+3120,3,Nature,Shiroda Beach
+1900,1,Adventure,Sindhudurg Fort
+1520,1,Adventure,Sindhudurg Fort
+2280,2,Adventure,Sindhudurg Fort
+1900,1,Forts,Sindhudurg Fort
+1520,1,Forts,Sindhudurg Fort
+2280,2,Forts,Sindhudurg Fort
+1900,1,Historical,Sindhudurg Fort
+1520,1,Historical,Sindhudurg Fort
+2280,2,Historical,Sindhudurg Fort
+1900,1,Nature,Sindhudurg Fort
+1520,1,Nature,Sindhudurg Fort
+2280,2,Nature,Sindhudurg Fort
+2600,2,Beach,Tarkarli Backwater
+2080,1,Beach,Tarkarli Backwater
+3120,3,Beach,Tarkarli Backwater
+2600,2,Food,Tarkarli Backwater
+2080,1,Food,Tarkarli Backwater
+3120,3,Food,Tarkarli Backwater
+2600,2,Nature,Tarkarli Backwater
+2080,1,Nature,Tarkarli Backwater
+3120,3,Nature,Tarkarli Backwater
+2600,2,Beach,Tarkarli Beach
+2080,1,Beach,Tarkarli Beach
+3120,3,Beach,Tarkarli Beach
+2600,2,Food,Tarkarli Beach
+2080,1,Food,Tarkarli Beach
+3120,3,Food,Tarkarli Beach
+2600,2,Nature,Tarkarli Beach
+2080,1,Nature,Tarkarli Beach
+3120,3,Nature,Tarkarli Beach
+2600,2,Beach,Tondavali Beach
+2080,1,Beach,Tondavali Beach
+3120,3,Beach,Tondavali Beach
+2600,2,Food,Tondavali Beach
+2080,1,Food,Tondavali Beach
+3120,3,Food,Tondavali Beach
+2600,2,Nature,Tondavali Beach
+2080,1,Nature,Tondavali Beach
+3120,3,Nature,Tondavali Beach
+2600,2,Beach,Vengurla Beach
+2080,1,Beach,Vengurla Beach
+3120,3,Beach,Vengurla Beach
+2600,2,Food,Vengurla Beach
+2080,1,Food,Vengurla Beach
+3120,3,Food,Vengurla Beach
+2600,2,Nature,Vengurla Beach
+2080,1,Nature,Vengurla Beach
+3120,3,Nature,Vengurla Beach
+1900,1,Adventure,Vijaydurg Fort
+1520,1,Adventure,Vijaydurg Fort
+2280,2,Adventure,Vijaydurg Fort
+1900,1,Forts,Vijaydurg Fort
+1520,1,Forts,Vijaydurg Fort
+2280,2,Forts,Vijaydurg Fort
+1900,1,Historical,Vijaydurg Fort
+1520,1,Historical,Vijaydurg Fort
+2280,2,Historical,Vijaydurg Fort
+1900,1,Nature,Vijaydurg Fort
+1520,1,Nature,Vijaydurg Fort
+2280,2,Nature,Vijaydurg Fort
+3000,3,Beach,Chennai
+2400,2,Beach,Chennai
+3600,4,Beach,Chennai
+3000,3,Culture,Chennai
+2400,2,Culture,Chennai
+3600,4,Culture,Chennai
+3000,3,Food,Chennai
+2400,2,Food,Chennai
+3600,4,Food,Chennai
+3000,3,Historical,Chennai
+2400,2,Historical,Chennai
+3600,4,Historical,Chennai
+2800,2,Beach,Kanyakumari
+2240,1,Beach,Kanyakumari
+3360,3,Beach,Kanyakumari
+2800,2,Nature,Kanyakumari
+2240,1,Nature,Kanyakumari
+3360,3,Nature,Kanyakumari
+2800,2,Spiritual,Kanyakumari
+2240,1,Spiritual,Kanyakumari
+3360,3,Spiritual,Kanyakumari
+2500,2,Culture,Madurai
+2000,1,Culture,Madurai
+3000,3,Culture,Madurai
+2500,2,Historical,Madurai
+2000,1,Historical,Madurai
+3000,3,Historical,Madurai
+2500,2,Spiritual,Madurai
+2000,1,Spiritual,Madurai
+3000,3,Spiritual,Madurai
+2700,1,Beach,Mahabalipuram
+2160,1,Beach,Mahabalipuram
+3240,2,Beach,Mahabalipuram
+2700,1,Engineering Marvels,Mahabalipuram
+2160,1,Engineering Marvels,Mahabalipuram
+3240,2,Engineering Marvels,Mahabalipuram
+2700,1,Historical,Mahabalipuram
+2160,1,Historical,Mahabalipuram
+3240,2,Historical,Mahabalipuram
+2560,2,Adventure,Ooty
+3840,4,Adventure,Ooty
+2560,2,Food,Ooty
+3840,4,Food,Ooty
+2560,2,Nature,Ooty
+3840,4,Nature,Ooty
+3000,2,Beach,Rameswaram
+2400,1,Beach,Rameswaram
+3600,3,Beach,Rameswaram
+3000,2,Historical,Rameswaram
+2400,1,Historical,Rameswaram
+3600,3,Historical,Rameswaram
+3000,2,Spiritual,Rameswaram
+2400,1,Spiritual,Rameswaram
+3600,3,Spiritual,Rameswaram
+2320,1,Culture,Hyderabad
+3480,3,Culture,Hyderabad
+2320,1,Food,Hyderabad
+3480,3,Food,Hyderabad
+2320,1,Historical,Hyderabad
+3480,3,Historical,Hyderabad
+2320,1,Shopping,Hyderabad
+3480,3,Shopping,Hyderabad
+1900,1,Adventure,Chanderi Fort
+1520,1,Adventure,Chanderi Fort
+2280,2,Adventure,Chanderi Fort
+1900,1,Forts,Chanderi Fort
+1520,1,Forts,Chanderi Fort
+2280,2,Forts,Chanderi Fort
+1900,1,Historical,Chanderi Fort
+1520,1,Historical,Chanderi Fort
+2280,2,Historical,Chanderi Fort
+1900,1,Nature,Chanderi Fort
+1520,1,Nature,Chanderi Fort
+2280,2,Nature,Chanderi Fort
+1920,1,Culture,Agra
+2880,3,Culture,Agra
+1920,1,Food,Agra
+2880,3,Food,Agra
+1920,1,Historical,Agra
+2880,3,Historical,Agra
+2400,2,Culture,Ayodhya
+1920,1,Culture,Ayodhya
+2880,3,Culture,Ayodhya
+2400,2,Historical,Ayodhya
+1920,1,Historical,Ayodhya
+2880,3,Historical,Ayodhya
+2400,2,Spiritual,Ayodhya
+1920,1,Spiritual,Ayodhya
+2880,3,Spiritual,Ayodhya
+2600,2,Culture,Lucknow
+2080,1,Culture,Lucknow
+3120,3,Culture,Lucknow
+2600,2,Food,Lucknow
+2080,1,Food,Lucknow
+3120,3,Food,Lucknow
+2600,2,Historical,Lucknow
+2080,1,Historical,Lucknow
+3120,3,Historical,Lucknow
+2300,2,Culture,Prayagraj
+1840,1,Culture,Prayagraj
+2760,3,Culture,Prayagraj
+2300,2,Historical,Prayagraj
+1840,1,Historical,Prayagraj
+2760,3,Historical,Prayagraj
+2300,2,Spiritual,Prayagraj
+1840,1,Spiritual,Prayagraj
+2760,3,Spiritual,Prayagraj
+1920,1,Culture,Varanasi
+2880,3,Culture,Varanasi
+1920,1,Food,Varanasi
+2880,3,Food,Varanasi
+1920,1,Historical,Varanasi
+2880,3,Historical,Varanasi
+1920,1,Spiritual,Varanasi
+2880,3,Spiritual,Varanasi
+2500,2,Culture,Haridwar
+2000,1,Culture,Haridwar
+3000,3,Culture,Haridwar
+2500,2,Nature,Haridwar
+2000,1,Nature,Haridwar
+3000,3,Nature,Haridwar
+2500,2,Spiritual,Haridwar
+2000,1,Spiritual,Haridwar
+3000,3,Spiritual,Haridwar
+6000,3,Adventure,Kedarnath
+4800,2,Adventure,Kedarnath
+7200,4,Adventure,Kedarnath
+6000,3,Nature,Kedarnath
+4800,2,Nature,Kedarnath
+7200,4,Nature,Kedarnath
+6000,3,Spiritual,Kedarnath
+4800,2,Spiritual,Kedarnath
+7200,4,Spiritual,Kedarnath
+2320,2,Adventure,Rishikesh
+3480,4,Adventure,Rishikesh
+2320,2,Nature,Rishikesh
+3480,4,Nature,Rishikesh
+2320,2,Spiritual,Rishikesh
+3480,4,Spiritual,Rishikesh
+1760,1,Culture,Kailasa Temple
+2640,2,Culture,Kailasa Temple
+1760,1,Engineering Marvels,Kailasa Temple
+2640,2,Engineering Marvels,Kailasa Temple
+1760,1,Historical,Kailasa Temple
+2640,2,Historical,Kailasa Temple
+1760,1,Spiritual,Kailasa Temple
+2640,2,Spiritual,Kailasa Temple
+3800,3,Adventure,Darjeeling
+3040,2,Adventure,Darjeeling
+4560,4,Adventure,Darjeeling
+3800,3,Culture,Darjeeling
+3040,2,Culture,Darjeeling
+4560,4,Culture,Darjeeling
+3800,3,Nature,Darjeeling
+3040,2,Nature,Darjeeling
+4560,4,Nature,Darjeeling
+3000,3,Culture,Kolkata
+2400,2,Culture,Kolkata
+3600,4,Culture,Kolkata
+3000,3,Food,Kolkata
+2400,2,Food,Kolkata
+3600,4,Food,Kolkata
+3000,3,Historical,Kolkata
+2400,2,Historical,Kolkata
+3600,4,Historical,Kolkata
+5000,2,Adventure,Sundarbans
+4000,1,Adventure,Sundarbans
+6000,3,Adventure,Sundarbans
+5000,2,Nature,Sundarbans
+4000,1,Nature,Sundarbans
+6000,3,Nature,Sundarbans
+5000,2,Zoo & Wildlife,Sundarbans
+4000,1,Zoo & Wildlife,Sundarbans
+6000,3,Zoo & Wildlife,Sundarbans

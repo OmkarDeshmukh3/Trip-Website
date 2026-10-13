@@ -1,0 +1,64 @@
+{% extends 'base.html' %}
+{% block title %}Your destination matches · TripGenie{% endblock %}
+{% block content %}
+<main class="page wrap recommendation-page">
+  <div class="page-heading">
+    <p class="eyebrow">YOUR TRIPGENIE SHORTLIST</p>
+    <h1>A few places that <em>fit your brief.</em></h1>
+    <p>₹{{ '{:,}'.format(budget) }} total · {{ days }} day(s) · {{ travellers }} traveller(s) · {{ interest }}{% if travel_date %} · {{ travel_date }}{% endif %}</p>
+    <div class="notice info">Scores are relative fit rankings, not probabilities or proven accuracy. The prototype uses synthetic training examples plus destination metadata; weather forecasts are included only when available for your selected date.</div>
+    {% if feedback_saved %}<div class="notice success" role="status">Thanks — your feedback was saved and has been used to adjust your personal shortlist.</div>{% endif %}
+  </div>
+  {% if recommendations %}
+    <p class="recommendation-method-note">Why these results? TripGenie balances interest, budget fit, trip duration, similarity to training profiles, distance, forecast conditions and your previous feedback. Results are diversified by destination category where possible.</p>
+    <div class="recommendation-grid">
+      {% for item in recommendations %}
+      <article class="recommendation-card">
+        <div class="recommendation-image">
+          <img src="{{ item['image_url'] }}" alt="{{ item['name'] }} scenery" loading="lazy">
+          <span class="match-badge">{{ item['match_score'] }}<small>FIT</small></span>
+          <span class="recommendation-category">{{ item['category'] }}</span>
+        </div>
+        <div class="recommendation-copy">
+          <p class="muted tiny">{{ item['location'] }}</p>
+          <h2>{{ item['name'] }}</h2>
+          <p>{{ item['description'] }}</p>
+          <p class="recommendation-reason"><strong>Why this match:</strong> {{ item['recommendation_reason'] }}</p>
+          <div class="recommendation-stats">
+            <span>₹{{ '{:,}'.format(item['budget_per_day']) }}<small>typical daily estimate</small></span>
+            <span>{{ item['ideal_days'] }} days<small>suggested duration</small></span>
+            {% if item['distance_km_from_origin'] is not none %}<span>{{ item['distance_km_from_origin'] }} km<small>straight-line distance</small></span>{% endif %}
+          </div>
+          <details class="factor-details">
+            <summary>Explain this score <span>＋</span></summary>
+            <div class="factor-list">
+              {% for factor in item['recommendation_factors'] %}
+              <div class="factor-row">
+                <div class="factor-label"><span>{{ factor['label'] }}</span><strong>{{ factor['score'] }}/100 <small>· {{ factor['weight'] }}</small></strong></div>
+                <div class="factor-track"><span style="width: {{ factor['score'] }}%"></span></div>
+              </div>
+              {% endfor %}
+            </div>
+            <p class="factor-weather-note">{{ item['weather_note'] }}</p>
+          </details>
+          <a class="button button-dark full-width" href="{{ url_for('results', destination=item['name'], origin=origin, interest=interest, budget=budget, days=days, travellers=travellers, travel_date=travel_date) }}">Explore this trip <span>↗</span></a>
+          {% if session.get('user_id') %}
+          <form method="post" action="{{ url_for('recommendation_feedback') }}" class="recommendation-feedback">
+            <input type="hidden" name="destination_name" value="{{ item['name'] }}">
+            <input type="hidden" name="origin" value="{{ origin }}"><input type="hidden" name="interest" value="{{ interest }}">
+            <input type="hidden" name="budget" value="{{ budget }}"><input type="hidden" name="days" value="{{ days }}">
+            <input type="hidden" name="travellers" value="{{ travellers }}"><input type="hidden" name="travel_date" value="{{ travel_date }}">
+            <button type="submit" name="signal" value="1" class="feedback-button">♡ More like this</button>
+            <button type="submit" name="signal" value="-1" class="feedback-button">Not for me</button>
+          </form>
+          {% endif %}
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  {% else %}
+    <div class="panel"><h2>No recommendations yet</h2><p>Check data/recommendation_training.csv, then run <code>py train_model.py</code>.</p></div>
+  {% endif %}
+  <div class="actions"><a class="text-link" href="{{ url_for('search') }}">← Change trip details</a></div>
+</main>
+{% endblock %}
